@@ -1,0 +1,11 @@
+-- GENERATED FROM MAYA 
+
+fish_mainBody = 
+{
+	friction = 1.00;
+	restitution = 0.00;
+	density = 1000.00;
+	localPositionX = -0.19;
+	localPositionY = 0.00;
+	radius = 0.90;
+}

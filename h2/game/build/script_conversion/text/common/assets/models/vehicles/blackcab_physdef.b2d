@@ -1,0 +1,62 @@
+-- GENERATED FROM MAYA 
+
+blackcab_mainBody = 
+{
+	type = 0;
+	friction = 0.80;
+	restitution = 0.15;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = -9999;
+	numeric2 = -9999;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	centerX = 0.00;
+	centerY = -0.40;
+	rotation = 0.00;
+	hx = 1.43;
+	hy = 0.38;
+}
+blackcab_upperBody = 
+{
+	type = 0;
+	friction = 0.80;
+	restitution = 0.15;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = -9999;
+	numeric2 = -9999;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	centerX = 0.00;
+	centerY = 0.25;
+	rotation = 0.00;
+	hx = 0.94;
+	hy = 0.28;
+}
+blackcab_landingGearBody = 
+{
+	type = 0;
+	friction = 0.00;
+	restitution = 0.25;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = -9999;
+	numeric2 = -9999;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	centerX = 0.00;
+	centerY = -0.95;
+	rotation = 0.00;
+	hx = 1.44;
+	hy = 0.16;
+}

@@ -1,0 +1,137 @@
+hui_data = {
+numObjects = 6;
+hui_types = {
+{ --keylock_exit
+huiType = 0;
+huiId = 99;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 422;
+posY = 302;
+posZ = 0;
+buttonType = 0;
+w = 116;
+h = 36;
+r = 0;
+}
+,{ --keylock_rotateKey
+huiType = 0;
+huiId = 0;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 240;
+posY = 160;
+posZ = 0;
+buttonType = 1;
+w = 1;
+h = 1;
+r = 68;
+}
+,{ --keylock_dragKey
+huiType = 0;
+huiId = 1;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 72;
+posY = 243;
+posZ = 0;
+buttonType = 0;
+w = 130;
+h = 75;
+r = 1;
+}
+,{ --keylock_keyhole
+huiType = 0;
+huiId = 2;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 240;
+posY = 145;
+posZ = 0;
+buttonType = 1;
+w = 1;
+h = 1;
+r = 20;
+}
+,{ --keylock_keyinlock
+huiType = 0;
+huiId = 3;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 240;
+posY = 142;
+posZ = 0;
+buttonType = 1;
+w = 1;
+h = 1;
+r = 10;
+}
+,{ --label_back
+huiType = 1;
+huiId = 2;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 0;
+anchorHoriz = 3;
+anchorVert = 2;
+scaleDimsX = 1;
+scaleDimsY = 1;
+posX = 422;
+posY = 301;
+posZ = 3;
+fontId = 2;
+noScale = 0;
+shadow = 0;
+size = 10;
+r = 169;
+g = 177;
+b = 165;
+align = 1;
+fixedWidth = 0;
+stringId = 5010;
+}
+};
+}

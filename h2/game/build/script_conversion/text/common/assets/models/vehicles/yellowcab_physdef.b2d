@@ -1,0 +1,35 @@
+-- GENERATED FROM MAYA 
+
+yellowcab_mainBody = 
+{
+	friction = 0.80;
+	restitution = 0.15;
+	density = 0.10;
+	centerX = 0.00;
+	centerY = -0.40;
+	rotation = 0.00;
+	hx = 1.43;
+	hy = 0.38;
+}
+yellowcab_upperBody = 
+{
+	friction = 0.80;
+	restitution = 0.15;
+	density = 0.10;
+	centerX = 0.00;
+	centerY = 0.25;
+	rotation = 0.00;
+	hx = 0.94;
+	hy = 0.28;
+}
+yellowcab_landingGearBody = 
+{
+	friction = 0.00;
+	restitution = 0.25;
+	density = 0.10;
+	centerX = 0.00;
+	centerY = -0.95;
+	rotation = 0.00;
+	hx = 1.44;
+	hy = 0.16;
+}

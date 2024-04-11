@@ -1,0 +1,83 @@
+data = {
+numObjects = 6;
+types = {
+{ --player_start_1
+baseType = 0;
+baseId = 0;
+posX = -30;
+posY = 5;
+posZ = 0;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --sound_ambient_1
+baseType = 4;
+baseId = 1000;
+posX = 0;
+posY = 0;
+posZ = 0;
+rotY = 0;
+soundResId = 407;
+soundType = 0;
+soundTime = 1;
+x = 0;
+y = 0;
+z = 0;
+pitch = 1;
+gain = 1;
+rel = 1;
+loop = 1;
+areaType = 0;
+w = 150;
+h = 150;
+d = 100;
+r = 1;
+}
+,{ --port_home_1
+baseType = 8;
+baseId = 2000;
+posX = -27.5;
+posY = 3.75;
+posZ = 0;
+portType = 1;
+w = 10;
+h = 2.5;
+num = 1;
+size = 2;
+}
+,{ --atmosphere_air_1
+baseType = 9;
+baseId = 1000;
+posX = 0;
+posY = 25;
+posZ = 0;
+gravityType = 0;
+w = 200;
+h = 50;
+}
+,{ --atmosphere_water_1
+baseType = 9;
+baseId = 1000;
+posX = 0;
+posY = -25;
+posZ = 0;
+gravityType = 2;
+w = 200;
+h = 50;
+}
+,{ --water_grid_1
+baseType = 11;
+baseId = 1000;
+posX = 0;
+posY = 0;
+posZ = -0.7867434483;
+w = 300;
+d = 80;
+widthPoints = 50;
+depthPoints = 10;
+sinAngle = 180;
+waveUpdateTime = 0.05000000075;
+}
+};
+}

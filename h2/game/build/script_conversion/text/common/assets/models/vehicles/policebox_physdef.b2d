@@ -1,0 +1,42 @@
+-- GENERATED FROM MAYA 
+
+policebox_mainBody = 
+{
+	type = 0;
+	friction = 0.80;
+	restitution = 0.15;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = -9999;
+	numeric2 = -9999;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	centerX = 0.00;
+	centerY = 0.00;
+	rotation = 0.00;
+	hx = 0.66;
+	hy = 1.44;
+}
+policebox_landingGearBody = 
+{
+	type = 0;
+	friction = 0.00;
+	restitution = 0.25;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = -9999;
+	numeric2 = -9999;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	centerX = 0.00;
+	centerY = -1.67;
+	rotation = 0.00;
+	hx = 0.48;
+	hy = 0.26;
+}

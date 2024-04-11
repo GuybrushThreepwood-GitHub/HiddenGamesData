@@ -1,0 +1,221 @@
+Mesh Index (0): map_bgMesh 
+Bounding Box: 
+	center: 240.00,  160.00,  0.00 
+	width: 480.00 
+	height: 320.00 
+	depth: 0.00 
+	boxmin: 0.00,  0.00,  0.00 
+	boxmax: 480.00,  320.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (1): map_bgtextMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 90.00 
+	height: 504.00 
+	depth: 436.48 
+	boxmin: -45.00,  -252.00,  -218.24 
+	boxmax: 45.00,  252.00,  218.24 
+	Num Verts: 36 
+	Num UV Sets: 1 
+	Num Normals: 48 
+	Num Vertex Colours: 0 
+
+Mesh Index (2): map_exitMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (3): map_instructionsMesh 
+Bounding Box: 
+	center: 240.00,  277.00,  2.00 
+	width: 416.00 
+	height: 22.00 
+	depth: 0.00 
+	boxmin: 32.00,  266.00,  2.00 
+	boxmax: 448.00,  288.00,  2.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (4): map_keyMinMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (5): map_keyMaxMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (6): map_cursorMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (7): map_1 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (8): map_2 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (9): map_3 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (10): map_4 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (11): map_5 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (12): map_6 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (13): map_7 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (14): map_8 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (15): map_9 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (16): map_10 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+

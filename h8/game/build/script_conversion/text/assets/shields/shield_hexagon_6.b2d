@@ -1,0 +1,194 @@
+-- GENERATED FROM MAYA 
+
+hexagon6_tri_1 = 
+{
+	type = 2;
+	friction = 0.00;
+	restitution = 1.00;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = 0;
+	numeric2 = 0;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	tris = 2;
+	meshPolyListCount = 1;
+	polyList0 =
+	{
+		polyCount = 1;
+		poly0 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				1.87, 1.30,
+				2.13, 1.45,
+				0.19, 2.57,
+				0.18, 2.27
+			};
+		};
+	};
+}
+hexagon6_tri_2 = 
+{
+	type = 2;
+	friction = 0.00;
+	restitution = 1.00;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = 1;
+	numeric2 = 1;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	tris = 2;
+	meshPolyListCount = 1;
+	polyList0 =
+	{
+		polyCount = 1;
+		poly0 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				2.06, -0.97,
+				2.32, -1.12,
+				2.32, 1.13,
+				2.06, 0.98
+			};
+		};
+	};
+}
+hexagon6_tri_3 = 
+{
+	type = 2;
+	friction = 0.00;
+	restitution = 1.00;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = 2;
+	numeric2 = 2;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	tris = 2;
+	meshPolyListCount = 1;
+	polyList0 =
+	{
+		polyCount = 1;
+		poly0 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				0.19, -2.27,
+				0.19, -2.57,
+				2.13, -1.45,
+				1.88, -1.29
+			};
+		};
+	};
+}
+hexagon6_tri_4 = 
+{
+	type = 2;
+	friction = 0.00;
+	restitution = 1.00;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = 3;
+	numeric2 = 3;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	tris = 2;
+	meshPolyListCount = 1;
+	polyList0 =
+	{
+		polyCount = 1;
+		poly0 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-1.87, -1.30,
+				-2.13, -1.45,
+				-0.19, -2.57,
+				-0.18, -2.27
+			};
+		};
+	};
+}
+hexagon6_tri_5 = 
+{
+	type = 2;
+	friction = 0.00;
+	restitution = 1.00;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = 4;
+	numeric2 = 4;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	tris = 2;
+	meshPolyListCount = 1;
+	polyList0 =
+	{
+		polyCount = 1;
+		poly0 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-2.06, 0.97,
+				-2.32, 1.12,
+				-2.32, -1.13,
+				-2.06, -0.98
+			};
+		};
+	};
+}
+hexagon6_tri_6 = 
+{
+	type = 2;
+	friction = 0.00;
+	restitution = 1.00;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = 5;
+	numeric2 = 5;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	tris = 2;
+	meshPolyListCount = 1;
+	polyList0 =
+	{
+		polyCount = 1;
+		poly0 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-0.19, 2.27,
+				-0.19, 2.57,
+				-2.13, 1.45,
+				-1.88, 1.29
+			};
+		};
+	};
+}

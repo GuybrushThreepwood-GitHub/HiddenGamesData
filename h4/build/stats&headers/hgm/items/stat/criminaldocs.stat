@@ -1,0 +1,26 @@
+Mesh Index (0): mFolder 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 0.27 
+	height: 0.01 
+	depth: 0.37 
+	boxmin: -0.13,  -0.00,  -0.18 
+	boxmax: 0.13,  0.00,  0.18 
+	Num Verts: 8 
+	Num UV Sets: 1 
+	Num Normals: 24 
+	Num Vertex Colours: 0 
+
+Mesh Index (1): mPage1 
+Bounding Box: 
+	center: 0.01,  0.01,  -0.00 
+	width: 0.24 
+	height: 0.01 
+	depth: 0.34 
+	boxmin: -0.11,  0.00,  -0.17 
+	boxmax: 0.12,  0.01,  0.17 
+	Num Verts: 25 
+	Num UV Sets: 1 
+	Num Normals: 25 
+	Num Vertex Colours: 0 
+

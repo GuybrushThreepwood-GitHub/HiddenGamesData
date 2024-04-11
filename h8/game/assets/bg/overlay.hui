@@ -1,0 +1,47 @@
+hui_data = {
+numObjects = 2;
+hui_types = {
+{ --gfx_overlay
+huiType = 0;
+huiId = 0;
+meshAttachId1 = 0;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 1;
+anchorVert = 1;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 512;
+posY = 384;
+posZ = 0;
+buttonType = 0;
+w = 1024;
+h = 1024;
+r = 1;
+}
+,{ --text_cylinder_pos
+huiType = 0;
+huiId = 1000;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 1;
+anchorVert = 1;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 512;
+posY = 384;
+posZ = 0;
+buttonType = 0;
+w = 10;
+h = 10;
+r = 1;
+}
+};
+}

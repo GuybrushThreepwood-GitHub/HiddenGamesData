@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<adverts>
+	<images>
+		<imgloc>assets/adverts/img/local-ads-1.png</imgloc>
+	</images>
+	<advert id="HG001">
+		<title>Air Cadets</title>
+		<url>http://hiddengames.co.uk/air-cadets/</url>
+		<img>local-ads-1.png</img>
+		<showtime>20</showtime>
+		<tablet>
+			<tablet_w>728</tablet_w>
+			<tablet_h>90</tablet_h>
+			<tablet_x>0</tablet_x>
+			<tablet_y>0</tablet_y>
+		</tablet>
+		<mobile>
+			<mobile_w>320</mobile_w>
+			<mobile_h>50</mobile_h>
+			<mobile_x>0</mobile_x>
+			<mobile_y>90</mobile_y>
+		</mobile>
+	</advert>
+	<advert id="HG002">
+		<title>Cabby</title>
+		<url>http://hiddengames.co.uk/cabby/</url>
+		<img>local-ads-1.png</img>
+		<showtime>20</showtime>
+		<tablet>
+			<tablet_w>728</tablet_w>
+			<tablet_h>90</tablet_h>
+			<tablet_x>0</tablet_x>
+			<tablet_y>140</tablet_y>
+		</tablet>
+		<mobile>
+			<mobile_w>320</mobile_w>
+			<mobile_h>50</mobile_h>
+			<mobile_x>0</mobile_x>
+			<mobile_y>230</mobile_y>
+		</mobile>
+	</advert>
+	<advert id="HG003">
+		<title>Prisoner 84</title>
+		<url>http://hiddengames.co.uk/prisoner-84/</url>
+		<img>local-ads-1.png</img>
+		<showtime>20</showtime>
+		<tablet>
+			<tablet_w>728</tablet_w>
+			<tablet_h>90</tablet_h>
+			<tablet_x>0</tablet_x>
+			<tablet_y>280</tablet_y>
+		</tablet>
+		<mobile>
+			<mobile_w>320</mobile_w>
+			<mobile_h>50</mobile_h>
+			<mobile_x>0</mobile_x>
+			<mobile_y>370</mobile_y>
+		</mobile>
+	</advert>
+	<advert id="HG008">
+		<title>Firewall</title>
+		<url>http://hiddengames.co.uk/firewall/</url>
+		<img>local-ads-1.png</img>
+		<showtime>20</showtime>
+		<tablet>
+			<tablet_w>728</tablet_w>
+			<tablet_h>90</tablet_h>
+			<tablet_x>0</tablet_x>
+			<tablet_y>420</tablet_y>
+		</tablet>
+		<mobile>
+			<mobile_w>320</mobile_w>
+			<mobile_h>50</mobile_h>
+			<mobile_x>0</mobile_x>
+			<mobile_y>510</mobile_y>
+		</mobile>
+	</advert>
+</adverts>

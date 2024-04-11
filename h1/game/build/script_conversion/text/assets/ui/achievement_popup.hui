@@ -1,0 +1,73 @@
+hui_data = {
+numObjects = 2;
+hui_types = {
+{ --hui_glyph_achievement
+huiType = 1;
+huiId = 1000;
+meshAttachId1 = 0;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 1074;
+posY = 568;
+posZ = 0;
+selectable = 0;
+highlightOnSelect = 0;
+numeric1 = -9999;
+numeric2 = -9999;
+numeric3 = -9999;
+numeric4 = -9999;
+numeric5 = -9999;
+fontId = 200;
+noScale = 0;
+shadow = 1;
+size = 73;
+r = 243;
+g = 173;
+b = 1;
+align = 1;
+fixedWidth = 0;
+stringId = 9035;
+}
+,{ --hui_label_achievement_name
+huiType = 1;
+huiId = 1001;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 512;
+posY = 632;
+posZ = 5;
+selectable = 0;
+highlightOnSelect = 0;
+numeric1 = -9999;
+numeric2 = -9999;
+numeric3 = -9999;
+numeric4 = -9999;
+numeric5 = -9999;
+fontId = 1;
+noScale = 0;
+shadow = 1;
+size = 25;
+r = 255;
+g = 255;
+b = 255;
+align = 1;
+fixedWidth = 0;
+stringId = -1;
+}
+};
+}

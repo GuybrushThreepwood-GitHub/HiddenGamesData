@@ -1,0 +1,26 @@
+Mesh Index (0): mClipboard 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 0.22 
+	height: 0.03 
+	depth: 0.40 
+	boxmin: -0.11,  -0.01,  -0.20 
+	boxmax: 0.11,  0.01,  0.20 
+	Num Verts: 258 
+	Num UV Sets: 1 
+	Num Normals: 324 
+	Num Vertex Colours: 0 
+
+Mesh Index (1): mPage 
+Bounding Box: 
+	center: 0.00,  0.00,  0.01 
+	width: 0.19 
+	height: 0.01 
+	depth: 0.28 
+	boxmin: -0.10,  -0.00,  -0.13 
+	boxmax: 0.10,  0.01,  0.15 
+	Num Verts: 25 
+	Num UV Sets: 1 
+	Num Normals: 25 
+	Num Vertex Colours: 0 
+

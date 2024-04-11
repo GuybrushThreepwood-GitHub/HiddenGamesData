@@ -1,0 +1,62 @@
+-- GENERATED FROM MAYA 
+
+whodunitmachine_mainBody = 
+{
+	type = 0;
+	friction = 0.80;
+	restitution = 0.15;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = -9999;
+	numeric2 = -9999;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	centerX = 0.00;
+	centerY = 0.50;
+	rotation = 0.00;
+	hx = 1.32;
+	hy = 0.38;
+}
+whodunitmachine_upperBody = 
+{
+	type = 0;
+	friction = 0.80;
+	restitution = 0.15;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = -9999;
+	numeric2 = -9999;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	centerX = 0.00;
+	centerY = -0.48;
+	rotation = 0.00;
+	hx = 1.40;
+	hy = 0.55;
+}
+whodunitmachine_landingGearBody = 
+{
+	type = 0;
+	friction = 0.00;
+	restitution = 0.25;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = -9999;
+	numeric2 = -9999;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	centerX = 0.06;
+	centerY = -1.05;
+	rotation = 0.00;
+	hx = 1.16;
+	hy = 0.24;
+}

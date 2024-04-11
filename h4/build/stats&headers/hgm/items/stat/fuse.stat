@@ -1,0 +1,39 @@
+Mesh Index (0): mFuseInner 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 0.02 
+	height: 0.05 
+	depth: 0.02 
+	boxmin: -0.01,  -0.02,  -0.01 
+	boxmax: 0.01,  0.02,  0.01 
+	Num Verts: 16 
+	Num UV Sets: 1 
+	Num Normals: 16 
+	Num Vertex Colours: 0 
+
+Mesh Index (1): mFuse 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 0.02 
+	height: 0.09 
+	depth: 0.02 
+	boxmin: -0.01,  -0.04,  -0.01 
+	boxmax: 0.01,  0.04,  0.01 
+	Num Verts: 92 
+	Num UV Sets: 1 
+	Num Normals: 116 
+	Num Vertex Colours: 0 
+
+Mesh Index (2): mFuseOuter 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 0.02 
+	height: 0.05 
+	depth: 0.02 
+	boxmin: -0.01,  -0.02,  -0.01 
+	boxmax: 0.01,  0.02,  0.01 
+	Num Verts: 16 
+	Num UV Sets: 1 
+	Num Normals: 16 
+	Num Vertex Colours: 0 
+

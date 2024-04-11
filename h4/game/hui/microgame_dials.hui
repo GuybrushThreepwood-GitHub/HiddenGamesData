@@ -1,0 +1,197 @@
+hui_data = {
+numObjects = 8;
+hui_types = {
+{ --dial_exit
+huiType = 0;
+huiId = 99;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 422;
+posY = 302;
+posZ = 0;
+buttonType = 0;
+w = 116;
+h = 36;
+r = 0;
+}
+,{ --dial_spinner1
+huiType = 0;
+huiId = 0;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 84;
+posY = 96;
+posZ = 0;
+buttonType = 1;
+w = 1;
+h = 1;
+r = 68;
+}
+,{ --dial_spinner2
+huiType = 0;
+huiId = 1;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 240;
+posY = 96;
+posZ = 0;
+buttonType = 1;
+w = 1;
+h = 1;
+r = 68;
+}
+,{ --dial_spinner3
+huiType = 0;
+huiId = 2;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 396;
+posY = 96;
+posZ = 0;
+buttonType = 1;
+w = 1;
+h = 1;
+r = 68;
+}
+,{ --dial_text1
+huiType = 1;
+huiId = -1;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 84;
+posY = 182;
+posZ = 0;
+fontId = 2;
+noScale = 0;
+shadow = 0;
+size = 18;
+r = 0;
+g = 0;
+b = 0;
+align = 1;
+fixedWidth = 0;
+stringId = -1;
+}
+,{ --dial_text2
+huiType = 1;
+huiId = -2;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 240;
+posY = 182;
+posZ = 0;
+fontId = 2;
+noScale = 0;
+shadow = 0;
+size = 18;
+r = 0;
+g = 0;
+b = 0;
+align = 1;
+fixedWidth = 0;
+stringId = -1;
+}
+,{ --dial_text3
+huiType = 1;
+huiId = -3;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 396;
+posY = 182;
+posZ = 0;
+fontId = 2;
+noScale = 0;
+shadow = 0;
+size = 18;
+r = 0;
+g = 0;
+b = 0;
+align = 1;
+fixedWidth = 0;
+stringId = -1;
+}
+,{ --label_back
+huiType = 1;
+huiId = 2;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 0;
+anchorHoriz = 3;
+anchorVert = 2;
+scaleDimsX = 1;
+scaleDimsY = 1;
+posX = 422;
+posY = 301;
+posZ = 3;
+fontId = 2;
+noScale = 0;
+shadow = 0;
+size = 10;
+r = 169;
+g = 177;
+b = 165;
+align = 1;
+fixedWidth = 0;
+stringId = 5010;
+}
+};
+}

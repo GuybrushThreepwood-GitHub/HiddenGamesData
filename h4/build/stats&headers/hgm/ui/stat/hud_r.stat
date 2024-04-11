@@ -1,0 +1,429 @@
+Mesh Index (0): r_hud_overlay_torchedgesmesh 
+Bounding Box: 
+	center: 240.00,  160.00,  -0.00 
+	width: 736.00 
+	height: 576.00 
+	depth: 0.00 
+	boxmin: -128.00,  -128.00,  -0.00 
+	boxmax: 608.00,  448.00,  0.00 
+	Num Verts: 13 
+	Num UV Sets: 1 
+	Num Normals: 52 
+	Num Vertex Colours: 0 
+
+Mesh Index (1): r_hud_overlay_torchcentremesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (2): r_hud_overlay_damagemesh 
+Bounding Box: 
+	center: 240.00,  160.00,  -0.00 
+	width: 480.00 
+	height: 320.00 
+	depth: 0.00 
+	boxmin: 0.00,  0.00,  -0.00 
+	boxmax: 480.00,  320.00,  -0.00 
+	Num Verts: 9 
+	Num UV Sets: 1 
+	Num Normals: 16 
+	Num Vertex Colours: 0 
+
+Mesh Index (3): r_hud_weaponmesh 
+Bounding Box: 
+	center: 410.00,  296.00,  -0.00 
+	width: 128.00 
+	height: 36.00 
+	depth: 0.00 
+	boxmin: 346.00,  278.00,  -0.00 
+	boxmax: 474.00,  314.00,  -0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (4): r_hud_weapon_pistolmesh 
+Bounding Box: 
+	center: 410.00,  296.00,  -0.00 
+	width: 96.00 
+	height: 24.00 
+	depth: 0.00 
+	boxmin: 362.00,  284.00,  -0.00 
+	boxmax: 458.00,  308.00,  0.00 
+	Num Verts: 8 
+	Num UV Sets: 1 
+	Num Normals: 8 
+	Num Vertex Colours: 0 
+
+Mesh Index (5): r_hud_weapon_shotgunmesh 
+Bounding Box: 
+	center: 412.00,  296.00,  -0.00 
+	width: 92.00 
+	height: 24.00 
+	depth: 0.00 
+	boxmin: 366.00,  284.00,  -0.00 
+	boxmax: 458.00,  308.00,  0.00 
+	Num Verts: 8 
+	Num UV Sets: 1 
+	Num Normals: 8 
+	Num Vertex Colours: 0 
+
+Mesh Index (6): r_hud_shell1mesh 
+Bounding Box: 
+	center: 418.50,  289.00,  0.00 
+	width: 3.00 
+	height: 10.00 
+	depth: 0.00 
+	boxmin: 417.00,  284.00,  0.00 
+	boxmax: 420.00,  294.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (7): r_hud_shell2mesh 
+Bounding Box: 
+	center: 413.50,  289.00,  0.00 
+	width: 3.00 
+	height: 10.00 
+	depth: 0.00 
+	boxmin: 412.00,  284.00,  0.00 
+	boxmax: 415.00,  294.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (8): r_hud_shell3mesh 
+Bounding Box: 
+	center: 408.50,  289.00,  0.00 
+	width: 3.00 
+	height: 10.00 
+	depth: 0.00 
+	boxmin: 407.00,  284.00,  0.00 
+	boxmax: 410.00,  294.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (9): r_hud_shell4mesh 
+Bounding Box: 
+	center: 403.50,  289.00,  0.00 
+	width: 3.00 
+	height: 10.00 
+	depth: 0.00 
+	boxmin: 402.00,  284.00,  0.00 
+	boxmax: 405.00,  294.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (10): r_hud_shell5mesh 
+Bounding Box: 
+	center: 398.50,  289.00,  0.00 
+	width: 3.00 
+	height: 10.00 
+	depth: 0.00 
+	boxmin: 397.00,  284.00,  0.00 
+	boxmax: 400.00,  294.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (11): r_hud_shell6mesh 
+Bounding Box: 
+	center: 393.50,  289.00,  0.00 
+	width: 3.00 
+	height: 10.00 
+	depth: 0.00 
+	boxmin: 392.00,  284.00,  0.00 
+	boxmax: 395.00,  294.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (12): r_hud_shell7mesh 
+Bounding Box: 
+	center: 388.50,  289.00,  0.00 
+	width: 3.00 
+	height: 10.00 
+	depth: 0.00 
+	boxmin: 387.00,  284.00,  0.00 
+	boxmax: 390.00,  294.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (13): r_hud_shell8mesh 
+Bounding Box: 
+	center: 383.50,  289.00,  0.00 
+	width: 3.00 
+	height: 10.00 
+	depth: 0.00 
+	boxmin: 382.00,  284.00,  0.00 
+	boxmax: 385.00,  294.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (14): r_hud_shell9mesh 
+Bounding Box: 
+	center: 378.50,  289.00,  0.00 
+	width: 3.00 
+	height: 10.00 
+	depth: 0.00 
+	boxmin: 377.00,  284.00,  0.00 
+	boxmax: 380.00,  294.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (15): r_hud_shell10mesh 
+Bounding Box: 
+	center: 373.50,  289.00,  0.00 
+	width: 3.00 
+	height: 10.00 
+	depth: 0.00 
+	boxmin: 372.00,  284.00,  0.00 
+	boxmax: 375.00,  294.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (16): r_hud_shell11mesh 
+Bounding Box: 
+	center: 368.50,  289.00,  0.00 
+	width: 3.00 
+	height: 10.00 
+	depth: 0.00 
+	boxmin: 367.00,  284.00,  0.00 
+	boxmax: 370.00,  294.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (17): r_hud_shell12mesh 
+Bounding Box: 
+	center: 363.50,  289.00,  0.00 
+	width: 3.00 
+	height: 10.00 
+	depth: 0.00 
+	boxmin: 362.00,  284.00,  0.00 
+	boxmax: 365.00,  294.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (18): r_hud_crosshair_1mesh 
+Bounding Box: 
+	center: 240.00,  160.00,  0.00 
+	width: 16.00 
+	height: 16.00 
+	depth: 0.00 
+	boxmin: 232.00,  152.00,  0.00 
+	boxmax: 248.00,  168.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (19): r_hud_crosshair_2mesh 
+Bounding Box: 
+	center: 240.00,  160.00,  0.00 
+	width: 16.00 
+	height: 16.00 
+	depth: 0.00 
+	boxmin: 232.00,  152.00,  0.00 
+	boxmax: 248.00,  168.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (20): r_hud_crosshair_3mesh 
+Bounding Box: 
+	center: 240.00,  160.00,  0.00 
+	width: 16.00 
+	height: 16.00 
+	depth: 0.00 
+	boxmin: 232.00,  152.00,  0.00 
+	boxmax: 248.00,  168.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (21): r_hud_pistolradiusmesh 
+Bounding Box: 
+	center: 240.00,  160.00,  0.00 
+	width: 24.00 
+	height: 24.00 
+	depth: 0.00 
+	boxmin: 228.00,  148.00,  0.00 
+	boxmax: 252.00,  172.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (22): r_hud_shotgunradiusmesh 
+Bounding Box: 
+	center: 240.00,  160.00,  0.00 
+	width: 48.00 
+	height: 48.00 
+	depth: 0.00 
+	boxmin: 216.00,  136.00,  0.00 
+	boxmax: 264.00,  184.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (23): r_hud_AnalogueMesh_L 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (24): r_hud_AnalogueMesh_R 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (25): r_hud_UseMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (26): r_hud_FireMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (27): r_hud_ReloadMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (28): r_hud_PauseMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (29): r_hud_InventoryMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (30): r_hud_DigitalMesh_L 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 118.00 
+	height: 118.00 
+	depth: 0.00 
+	boxmin: -59.00,  -59.00,  -0.00 
+	boxmax: 59.00,  59.00,  0.00 
+	Num Verts: 16 
+	Num UV Sets: 1 
+	Num Normals: 16 
+	Num Vertex Colours: 0 
+
+Mesh Index (31): r_hud_DigitalMesh_R 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 118.00 
+	height: 118.00 
+	depth: 0.00 
+	boxmin: -59.00,  -59.00,  -0.00 
+	boxmax: 59.00,  59.00,  0.00 
+	Num Verts: 16 
+	Num UV Sets: 1 
+	Num Normals: 16 
+	Num Vertex Colours: 0 
+
+Mesh Index (32): r_hud_ShakeMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+

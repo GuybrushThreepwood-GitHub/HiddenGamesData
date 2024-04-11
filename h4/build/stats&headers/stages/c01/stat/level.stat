@@ -1,0 +1,65 @@
+Mesh Index (0): mOfficeChair4 
+Bounding Box: 
+	center: -0.03,  0.93,  -0.00 
+	width: 0.69 
+	height: 1.07 
+	depth: 0.60 
+	boxmin: -0.38,  0.40,  -0.30 
+	boxmax: 0.31,  1.46,  0.30 
+	Num Verts: 146 
+	Num UV Sets: 1 
+	Num Normals: 150 
+	Num Vertex Colours: 0 
+
+Mesh Index (1): polySurface15786 
+Bounding Box: 
+	center: -0.06,  1.06,  1.19 
+	width: 1.63 
+	height: 1.31 
+	depth: 0.88 
+	boxmin: -0.88,  0.40,  0.75 
+	boxmax: 0.75,  1.71,  1.63 
+	Num Verts: 131 
+	Num UV Sets: 1 
+	Num Normals: 187 
+	Num Vertex Colours: 0 
+
+Mesh Index (2): polySurface15782 
+Bounding Box: 
+	center: 0.00,  2.09,  0.50 
+	width: 8.00 
+	height: 3.38 
+	depth: 8.00 
+	boxmin: -4.00,  0.40,  -3.50 
+	boxmax: 4.00,  3.78,  4.50 
+	Num Verts: 64 
+	Num UV Sets: 1 
+	Num Normals: 64 
+	Num Vertex Colours: 0 
+
+Mesh Index (3): mScreen_Intro 
+Bounding Box: 
+	center: 0.10,  1.53,  1.10 
+	width: 0.37 
+	height: 0.24 
+	depth: 0.07 
+	boxmin: -0.08,  1.41,  1.07 
+	boxmax: 0.29,  1.65,  1.14 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (4): mScreen_Outro 
+Bounding Box: 
+	center: 0.10,  1.53,  1.10 
+	width: 0.37 
+	height: 0.24 
+	depth: 0.07 
+	boxmin: -0.08,  1.41,  1.07 
+	boxmax: 0.29,  1.65,  1.14 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+

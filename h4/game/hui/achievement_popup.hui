@@ -1,0 +1,59 @@
+hui_data = {
+numObjects = 2;
+hui_types = {
+{ --hui_glyph_achievement
+huiType = 1;
+huiId = 100;
+meshAttachId1 = 0;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 504;
+posY = 268;
+posZ = 0;
+fontId = 6;
+noScale = 0;
+shadow = 0;
+size = 36;
+r = 255;
+g = 255;
+b = 255;
+align = 1;
+fixedWidth = 0;
+stringId = 9001;
+}
+,{ --hui_label_achievement_name
+huiType = 1;
+huiId = 200;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 448;
+posY = 240;
+posZ = 5;
+fontId = 1;
+noScale = 0;
+shadow = 0;
+size = 15;
+r = 255;
+g = 255;
+b = 255;
+align = 2;
+fixedWidth = 0;
+stringId = -1;
+}
+};
+}

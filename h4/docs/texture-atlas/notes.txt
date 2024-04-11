@@ -1,0 +1,9 @@
+To use my mental ray settings (in case they're not saved in the mb):-
+
+1. Copy the contents of the "presets" folder into your "Autodesk/Maya2008/2008/presets" folder.
+2. Then select "Window > Rendering Editors > Render Settings"
+3. Change "Render using" to be mental ray
+4. Then from the top menu select "Presets > Load Preset" and HiddenGames_Baked shouled be there.
+5. Select it and all the settings under the mental ray tab should match mine.
+
+If you do a render, you should end up with exactly the same result as in "example.jpg"

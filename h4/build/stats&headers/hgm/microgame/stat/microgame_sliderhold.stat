@@ -1,0 +1,221 @@
+Mesh Index (0): sliderhold_bgMesh 
+Bounding Box: 
+	center: 240.00,  160.00,  0.00 
+	width: 480.00 
+	height: 320.00 
+	depth: 0.00 
+	boxmin: 0.00,  0.00,  0.00 
+	boxmax: 480.00,  320.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (1): sliderhold_bgtextMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 90.00 
+	height: 504.00 
+	depth: 436.48 
+	boxmin: -45.00,  -252.00,  -218.24 
+	boxmax: 45.00,  252.00,  218.24 
+	Num Verts: 36 
+	Num UV Sets: 1 
+	Num Normals: 48 
+	Num Vertex Colours: 0 
+
+Mesh Index (2): sliderhold_exitMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (3): sliderhold_instructionsMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (4): sliderhold_track1Mesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (5): sliderhold_track2Mesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (6): sliderhold_track3Mesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (7): sliderhold_slider1Mesh_n 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (8): sliderhold_slider2Mesh_n 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (9): sliderhold_slider3Mesh_n 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (10): sliderhold_slider1Mesh_d 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (11): sliderhold_slider2Mesh_d 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (12): sliderhold_slider3Mesh_d 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (13): sliderhold_value1Mesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (14): sliderhold_value2Mesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (15): sliderhold_value3Mesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (16): sliderhold_timerMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+

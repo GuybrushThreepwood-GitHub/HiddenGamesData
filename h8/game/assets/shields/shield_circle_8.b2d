@@ -1,0 +1,786 @@
+-- GENERATED FROM MAYA 
+
+circle8_tri_1 = 
+{
+	type = 2;
+	friction = 0.00;
+	restitution = 1.00;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = 0;
+	numeric2 = 0;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	tris = 14;
+	meshPolyListCount = 1;
+	polyList0 =
+	{
+		polyCount = 7;
+		poly0 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				0.36, 2.28,
+				0.60, 2.23,
+				0.66, 2.47,
+				0.40, 2.53
+			};
+		};
+		poly1 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				0.60, 2.23,
+				0.83, 2.16,
+				0.92, 2.39,
+				0.66, 2.47
+			};
+		};
+		poly2 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				0.83, 2.16,
+				1.05, 2.06,
+				1.16, 2.28,
+				0.92, 2.39
+			};
+		};
+		poly3 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				1.05, 2.06,
+				1.26, 1.94,
+				1.39, 2.15,
+				1.16, 2.28
+			};
+		};
+		poly4 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				1.26, 1.94,
+				1.45, 1.79,
+				1.61, 1.99,
+				1.39, 2.15
+			};
+		};
+		poly5 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				1.50, 1.75,
+				1.67, 1.94,
+				1.61, 1.99,
+				1.45, 1.79
+			};
+		};
+		poly6 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				0.20, 2.55,
+				0.19, 2.30,
+				0.36, 2.28,
+				0.40, 2.53
+			};
+		};
+	};
+}
+circle8_tri_2 = 
+{
+	type = 2;
+	friction = 0.00;
+	restitution = 1.00;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = 1;
+	numeric2 = 1;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	tris = 14;
+	meshPolyListCount = 1;
+	polyList0 =
+	{
+		polyCount = 7;
+		poly0 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				1.87, 1.36,
+				2.00, 1.15,
+				2.22, 1.28,
+				2.07, 1.50
+			};
+		};
+		poly1 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				2.00, 1.15,
+				2.11, 0.94,
+				2.34, 1.04,
+				2.22, 1.28
+			};
+		};
+		poly2 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				2.11, 0.94,
+				2.20, 0.71,
+				2.43, 0.79,
+				2.34, 1.04
+			};
+		};
+		poly3 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				2.20, 0.71,
+				2.26, 0.48,
+				2.50, 0.53,
+				2.43, 0.79
+			};
+		};
+		poly4 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				2.26, 0.48,
+				2.30, 0.24,
+				2.55, 0.27,
+				2.50, 0.53
+			};
+		};
+		poly5 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				2.30, 0.18,
+				2.55, 0.19,
+				2.55, 0.27,
+				2.30, 0.24
+			};
+		};
+		poly6 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				1.95, 1.66,
+				1.76, 1.49,
+				1.87, 1.36,
+				2.07, 1.50
+			};
+		};
+	};
+}
+circle8_tri_3 = 
+{
+	type = 2;
+	friction = 0.00;
+	restitution = 1.00;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = 2;
+	numeric2 = 2;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	tris = 14;
+	meshPolyListCount = 1;
+	polyList0 =
+	{
+		polyCount = 7;
+		poly0 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				2.28, -0.36,
+				2.23, -0.60,
+				2.47, -0.66,
+				2.53, -0.40
+			};
+		};
+		poly1 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				2.23, -0.60,
+				2.16, -0.83,
+				2.39, -0.92,
+				2.47, -0.66
+			};
+		};
+		poly2 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				2.16, -0.83,
+				2.06, -1.05,
+				2.28, -1.16,
+				2.39, -0.92
+			};
+		};
+		poly3 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				2.06, -1.05,
+				1.94, -1.26,
+				2.15, -1.39,
+				2.28, -1.16
+			};
+		};
+		poly4 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				1.94, -1.26,
+				1.79, -1.45,
+				1.99, -1.61,
+				2.15, -1.39
+			};
+		};
+		poly5 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				1.75, -1.50,
+				1.94, -1.67,
+				1.99, -1.61,
+				1.79, -1.45
+			};
+		};
+		poly6 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				2.55, -0.20,
+				2.30, -0.19,
+				2.28, -0.36,
+				2.53, -0.40
+			};
+		};
+	};
+}
+circle8_tri_4 = 
+{
+	type = 2;
+	friction = 0.00;
+	restitution = 1.00;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = 3;
+	numeric2 = 3;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	tris = 14;
+	meshPolyListCount = 1;
+	polyList0 =
+	{
+		polyCount = 7;
+		poly0 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				1.36, -1.87,
+				1.15, -2.00,
+				1.28, -2.22,
+				1.50, -2.07
+			};
+		};
+		poly1 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				1.15, -2.00,
+				0.94, -2.11,
+				1.04, -2.34,
+				1.28, -2.22
+			};
+		};
+		poly2 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				0.94, -2.11,
+				0.71, -2.20,
+				0.79, -2.43,
+				1.04, -2.34
+			};
+		};
+		poly3 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				0.71, -2.20,
+				0.48, -2.26,
+				0.53, -2.50,
+				0.79, -2.43
+			};
+		};
+		poly4 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				0.48, -2.26,
+				0.24, -2.30,
+				0.27, -2.55,
+				0.53, -2.50
+			};
+		};
+		poly5 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				0.18, -2.30,
+				0.19, -2.55,
+				0.27, -2.55,
+				0.24, -2.30
+			};
+		};
+		poly6 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				1.66, -1.95,
+				1.49, -1.76,
+				1.36, -1.87,
+				1.50, -2.07
+			};
+		};
+	};
+}
+circle8_tri_5 = 
+{
+	type = 2;
+	friction = 0.00;
+	restitution = 1.00;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = 4;
+	numeric2 = 4;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	tris = 14;
+	meshPolyListCount = 1;
+	polyList0 =
+	{
+		polyCount = 7;
+		poly0 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-0.36, -2.28,
+				-0.60, -2.23,
+				-0.66, -2.47,
+				-0.40, -2.53
+			};
+		};
+		poly1 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-0.60, -2.23,
+				-0.83, -2.16,
+				-0.92, -2.39,
+				-0.66, -2.47
+			};
+		};
+		poly2 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-0.83, -2.16,
+				-1.05, -2.06,
+				-1.16, -2.28,
+				-0.92, -2.39
+			};
+		};
+		poly3 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-1.05, -2.06,
+				-1.26, -1.94,
+				-1.39, -2.15,
+				-1.16, -2.28
+			};
+		};
+		poly4 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-1.26, -1.94,
+				-1.45, -1.79,
+				-1.61, -1.99,
+				-1.39, -2.15
+			};
+		};
+		poly5 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-1.50, -1.75,
+				-1.67, -1.94,
+				-1.61, -1.99,
+				-1.45, -1.79
+			};
+		};
+		poly6 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-0.20, -2.55,
+				-0.19, -2.30,
+				-0.36, -2.28,
+				-0.40, -2.53
+			};
+		};
+	};
+}
+circle8_tri_6 = 
+{
+	type = 2;
+	friction = 0.00;
+	restitution = 1.00;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = 5;
+	numeric2 = 5;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	tris = 14;
+	meshPolyListCount = 1;
+	polyList0 =
+	{
+		polyCount = 7;
+		poly0 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-1.87, -1.36,
+				-2.00, -1.15,
+				-2.22, -1.28,
+				-2.07, -1.50
+			};
+		};
+		poly1 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-2.00, -1.15,
+				-2.11, -0.94,
+				-2.34, -1.04,
+				-2.22, -1.28
+			};
+		};
+		poly2 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-2.11, -0.94,
+				-2.20, -0.71,
+				-2.43, -0.79,
+				-2.34, -1.04
+			};
+		};
+		poly3 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-2.20, -0.71,
+				-2.26, -0.48,
+				-2.50, -0.53,
+				-2.43, -0.79
+			};
+		};
+		poly4 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-2.26, -0.48,
+				-2.30, -0.24,
+				-2.55, -0.27,
+				-2.50, -0.53
+			};
+		};
+		poly5 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-2.30, -0.18,
+				-2.55, -0.19,
+				-2.55, -0.27,
+				-2.30, -0.24
+			};
+		};
+		poly6 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-1.95, -1.66,
+				-1.76, -1.49,
+				-1.87, -1.36,
+				-2.07, -1.50
+			};
+		};
+	};
+}
+circle8_tri_7 = 
+{
+	type = 2;
+	friction = 0.00;
+	restitution = 1.00;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = 6;
+	numeric2 = 6;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	tris = 14;
+	meshPolyListCount = 1;
+	polyList0 =
+	{
+		polyCount = 7;
+		poly0 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-2.28, 0.36,
+				-2.23, 0.60,
+				-2.47, 0.66,
+				-2.53, 0.40
+			};
+		};
+		poly1 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-2.23, 0.60,
+				-2.16, 0.83,
+				-2.39, 0.92,
+				-2.47, 0.66
+			};
+		};
+		poly2 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-2.16, 0.83,
+				-2.06, 1.05,
+				-2.28, 1.16,
+				-2.39, 0.92
+			};
+		};
+		poly3 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-2.06, 1.05,
+				-1.94, 1.26,
+				-2.15, 1.39,
+				-2.28, 1.16
+			};
+		};
+		poly4 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-1.94, 1.26,
+				-1.79, 1.45,
+				-1.99, 1.61,
+				-2.15, 1.39
+			};
+		};
+		poly5 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-1.75, 1.50,
+				-1.94, 1.67,
+				-1.99, 1.61,
+				-1.79, 1.45
+			};
+		};
+		poly6 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-2.55, 0.20,
+				-2.30, 0.19,
+				-2.28, 0.36,
+				-2.53, 0.40
+			};
+		};
+	};
+}
+circle8_tri_8 = 
+{
+	type = 2;
+	friction = 0.00;
+	restitution = 1.00;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = 7;
+	numeric2 = 7;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	tris = 14;
+	meshPolyListCount = 1;
+	polyList0 =
+	{
+		polyCount = 7;
+		poly0 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-1.36, 1.87,
+				-1.15, 2.00,
+				-1.28, 2.22,
+				-1.50, 2.07
+			};
+		};
+		poly1 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-1.15, 2.00,
+				-0.94, 2.11,
+				-1.04, 2.34,
+				-1.28, 2.22
+			};
+		};
+		poly2 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-0.94, 2.11,
+				-0.71, 2.20,
+				-0.79, 2.43,
+				-1.04, 2.34
+			};
+		};
+		poly3 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-0.71, 2.20,
+				-0.48, 2.26,
+				-0.53, 2.50,
+				-0.79, 2.43
+			};
+		};
+		poly4 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-0.48, 2.26,
+				-0.24, 2.30,
+				-0.27, 2.55,
+				-0.53, 2.50
+			};
+		};
+		poly5 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-0.18, 2.30,
+				-0.19, 2.55,
+				-0.27, 2.55,
+				-0.24, 2.30
+			};
+		};
+		poly6 = 
+		{
+			polyVertCount = 4;
+			v =
+			{
+				-1.66, 1.95,
+				-1.49, 1.76,
+				-1.36, 1.87,
+				-1.50, 2.07
+			};
+		};
+	};
+}

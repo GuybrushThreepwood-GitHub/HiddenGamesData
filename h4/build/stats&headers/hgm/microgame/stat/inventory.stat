@@ -1,0 +1,1157 @@
+Mesh Index (0): inventory_BGMesh 
+Bounding Box: 
+	center: 240.00,  160.00,  0.00 
+	width: 480.00 
+	height: 320.00 
+	depth: 0.00 
+	boxmin: 0.00,  0.00,  0.00 
+	boxmax: 480.00,  320.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (1): inventory_Inventory_OFF 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (2): inventory_Inventory_ON 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (3): inventory_Collectables_OFF 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (4): inventory_Collectables_ON 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (5): inventory_ExitMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (6): inventory_slotMesh1 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (7): inventory_slotMesh2 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (8): inventory_slotMesh3 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (9): inventory_slotMesh4 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (10): inventory_slotMesh5 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (11): inventory_slotMesh6 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (12): inventory_slotMesh7 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (13): inventory_slotMesh8 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (14): inventory_slotMesh9 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (15): inventory_slotMesh10 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (16): inventory_slotMesh11 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (17): inventory_slotMesh12 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (18): inventory_slotMesh13 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (19): inventory_slotMesh14 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (20): inventory_slotMesh15 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (21): inventory_slotMesh16 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (22): inventory_slotMesh17 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (23): inventory_slotMesh18 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (24): inventory_slotMesh1_EQUIP 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (25): inventory_slotMesh2_EQUIP 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (26): inventory_slotMesh10_WEAR 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (27): inventory_slotMesh11_WEAR 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (28): inventory_slotMesh12_WEAR 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (29): inventory_slotMesh13_WEAR 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (30): inventory_slotMesh14_WEAR 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (31): inventory_slotMesh15_WEAR 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (32): inventory_slotMesh16_WEAR 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (33): inventory_slotMesh17_WEAR 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (34): inventory_slotMesh18_WEAR 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (35): inventory_slotMesh1_SEL 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (36): inventory_slotMesh2_SEL 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (37): inventory_slotMesh3_SEL 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (38): inventory_slotMesh4_SEL 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (39): inventory_slotMesh5_SEL 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (40): inventory_slotMesh6_SEL 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (41): inventory_slotMesh7_SEL 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (42): inventory_slotMesh8_SEL 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (43): inventory_slotMesh9_SEL 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (44): inventory_slotMesh10_SEL 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (45): inventory_slotMesh11_SEL 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (46): inventory_slotMesh12_SEL 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (47): inventory_slotMesh13_SEL 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (48): inventory_slotMesh14_SEL 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (49): inventory_slotMesh15_SEL 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (50): inventory_slotMesh16_SEL 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (51): inventory_slotMesh17_SEL 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (52): inventory_slotMesh18_SEL 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (53): inventory_flashlight 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (54): inventory_fuse 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (55): inventory_clipboard 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (56): inventory_paper 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (57): inventory_mobile 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (58): inventory_dw80 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (59): inventory_key1 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (60): inventory_key2 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (61): inventory_key3 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (62): inventory_card1 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (63): inventory_card2 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (64): inventory_card3 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (65): inventory_powerunit 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (66): inventory_pilotslog 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (67): inventory_severedhand 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (68): inventory_memo 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (69): inventory_screwdriver 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (70): inventory_rope 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (71): inventory_pistol 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (72): inventory_shotgun 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (73): inventory_documents 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (74): inventory_hiddentoken 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (75): inventory_head1 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (76): inventory_head2 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (77): inventory_head3 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (78): inventory_head4 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (79): inventory_head5 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (80): inventory_costume1 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (81): inventory_costume2 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (82): inventory_costume3 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (83): inventory_costume4 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (84): inventory_costume5 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (85): inventory_costume6 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (86): inventory_costume7 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (87): inventory_costume8 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (88): inventory_costume9 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+

@@ -1,0 +1,273 @@
+Mesh Index (0): frontend_BGMesh 
+Bounding Box: 
+	center: 240.00,  160.00,  0.00 
+	width: 480.00 
+	height: 320.00 
+	depth: 0.00 
+	boxmin: 0.00,  0.00,  0.00 
+	boxmax: 480.00,  320.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (1): frontend_BackMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (2): frontend_BloodMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (3): frontend_TitleMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (4): frontend_BottomBGMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (5): frontend_StartMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (6): frontend_AboutMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (7): frontend_OptionsMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (8): frontend_HiddenLogoMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (9): frontend_CreditsMesh 
+Bounding Box: 
+	center: 243.00,  98.25,  4.00 
+	width: 262.00 
+	height: 88.50 
+	depth: 0.00 
+	boxmin: 112.00,  54.00,  4.00 
+	boxmax: 374.00,  142.50,  4.00 
+	Num Verts: 8 
+	Num UV Sets: 1 
+	Num Normals: 8 
+	Num Vertex Colours: 0 
+
+Mesh Index (10): frontend_CopyrightMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (11): frontend_Title_BGMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (12): frontend_Title_CreditsMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (13): frontend_RankMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (14): frontend_NewMesh_A 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (15): frontend_NewMesh_B 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (16): frontend_ContinueMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (17): frontend_newpromptTitle 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (18): frontend_newpromptSmallPrint 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (19): frontend_NoMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (20): frontend_YesMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+

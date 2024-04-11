@@ -1,0 +1,117 @@
+Mesh Index (0): wiring_BGMesh 
+Bounding Box: 
+	center: 240.00,  160.00,  0.00 
+	width: 480.00 
+	height: 320.00 
+	depth: 0.00 
+	boxmin: 0.00,  0.00,  0.00 
+	boxmax: 480.00,  320.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (1): wiring_ExitMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (2): wiring_unitMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (3): wiring_wireMesh1 
+Bounding Box: 
+	center: -224.56,  -2.97,  0.00 
+	width: 479.00 
+	height: 36.00 
+	depth: 0.00 
+	boxmin: -464.06,  -20.97,  0.00 
+	boxmax: 14.94,  15.03,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (4): wiring_wireMesh2 
+Bounding Box: 
+	center: -221.01,  -1.94,  0.00 
+	width: 470.00 
+	height: 36.00 
+	depth: 0.00 
+	boxmin: -456.01,  -19.94,  0.00 
+	boxmax: 13.99,  16.06,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (5): wiring_wireMesh3 
+Bounding Box: 
+	center: -7.94,  141.67,  0.00 
+	width: 37.00 
+	height: 311.00 
+	depth: 0.00 
+	boxmin: -26.44,  -13.83,  0.00 
+	boxmax: 10.56,  297.17,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (6): wiring_wireMesh4 
+Bounding Box: 
+	center: -6.67,  137.40,  0.00 
+	width: 39.00 
+	height: 306.00 
+	depth: 0.00 
+	boxmin: -26.17,  -15.60,  0.00 
+	boxmax: 12.83,  290.40,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (7): wiring_wireMesh5 
+Bounding Box: 
+	center: 223.65,  -5.83,  0.00 
+	width: 476.00 
+	height: 34.00 
+	depth: 0.00 
+	boxmin: -14.35,  -22.83,  0.00 
+	boxmax: 461.65,  11.17,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (8): wiring_wireMesh6 
+Bounding Box: 
+	center: 224.35,  0.00,  0.00 
+	width: 476.00 
+	height: 30.00 
+	depth: 0.00 
+	boxmin: -13.65,  -15.00,  0.00 
+	boxmax: 462.35,  15.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+

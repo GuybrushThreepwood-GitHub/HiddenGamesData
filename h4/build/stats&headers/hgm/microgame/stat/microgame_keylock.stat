@@ -1,0 +1,156 @@
+Mesh Index (0): keylock_bgMesh 
+Bounding Box: 
+	center: 240.00,  160.00,  0.00 
+	width: 480.00 
+	height: 320.00 
+	depth: 0.00 
+	boxmin: 0.00,  0.00,  -0.00 
+	boxmax: 480.00,  320.00,  0.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (1): keylock_exitMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (2): keylock_panelMesh 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (3): keylock_shadowMesh 
+Bounding Box: 
+	center: 240.00,  122.00,  2.00 
+	width: 20.00 
+	height: 44.00 
+	depth: 0.00 
+	boxmin: 230.00,  100.00,  2.00 
+	boxmax: 250.00,  144.00,  2.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (4): keylock_keyDragMesh_Blue 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (5): keylock_keyinlockmesh_Blue 
+Bounding Box: 
+	center: 0.00,  0.00,  2.50 
+	width: 16.00 
+	height: 40.00 
+	depth: 0.00 
+	boxmin: -8.00,  -20.00,  2.50 
+	boxmax: 8.00,  20.00,  2.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (6): keylock_keyDragMesh_Green 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (7): keylock_keyinlockmesh_Green 
+Bounding Box: 
+	center: 0.00,  0.00,  2.50 
+	width: 16.00 
+	height: 40.00 
+	depth: 0.00 
+	boxmin: -8.00,  -20.00,  2.50 
+	boxmax: 8.00,  20.00,  2.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (8): keylock_keyDragMesh_Red 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (9): keylock_keyinlockmesh_Red 
+Bounding Box: 
+	center: 0.00,  0.00,  2.50 
+	width: 16.00 
+	height: 40.00 
+	depth: 0.00 
+	boxmin: -8.00,  -20.00,  2.50 
+	boxmax: 8.00,  20.00,  2.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (10): keylock_keyDragMesh_Yellow 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 1.00 
+	height: 0.00 
+	depth: 1.00 
+	boxmin: -0.50,  -0.00,  -0.50 
+	boxmax: 0.50,  0.00,  0.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (11): keylock_keyinlockmesh_Yellow 
+Bounding Box: 
+	center: 0.00,  0.00,  2.50 
+	width: 16.00 
+	height: 40.00 
+	depth: 0.00 
+	boxmin: -8.00,  -20.00,  2.50 
+	boxmax: 8.00,  20.00,  2.50 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+

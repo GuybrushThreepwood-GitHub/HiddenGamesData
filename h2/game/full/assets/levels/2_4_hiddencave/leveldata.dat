@@ -1,0 +1,516 @@
+data = {
+numObjects = 35;
+types = {
+{ --player_start
+baseType = 0;
+baseId = 0;
+posX = 0;
+posY = -4;
+posZ = 0;
+rotX = 0;
+rotY = 180;
+rotZ = 0;
+}
+,{ --star_pickup_1
+baseType = 0;
+baseId = 1;
+posX = -36.08149601;
+posY = -16.88623082;
+posZ = 0;
+rotX = 0;
+rotY = 180;
+rotZ = 0;
+}
+,{ --star_pickup_2
+baseType = 0;
+baseId = 1;
+posX = 12.3995234;
+posY = 16.96111684;
+posZ = 0;
+rotX = 0;
+rotY = 180;
+rotZ = 0;
+}
+,{ --star_pickup_3
+baseType = 0;
+baseId = 1;
+posX = 27.14490257;
+posY = -13.19988602;
+posZ = 0;
+rotX = 0;
+rotY = 180;
+rotZ = 0;
+}
+,{ --sprite_light_1
+baseType = 2;
+baseId = 10000;
+posX = -2.5;
+posY = -1.490042448;
+posZ = -5.092885017;
+rotY = 0;
+spriteResId = 30;
+spriteType = 0;
+w = 3;
+h = 3;
+d = 0;
+r = 255;
+g = 255;
+b = 255;
+a = 255;
+}
+,{ --sprite_light_2
+baseType = 2;
+baseId = 10000;
+posX = 2.5;
+posY = -1.490042448;
+posZ = -5.092885017;
+rotY = 0;
+spriteResId = 30;
+spriteType = 0;
+w = 3;
+h = 3;
+d = 0;
+r = 255;
+g = 255;
+b = 255;
+a = 255;
+}
+,{ --sprite_light_3
+baseType = 2;
+baseId = 10000;
+posX = 2.5;
+posY = -1.490042448;
+posZ = 5.092885017;
+rotY = 0;
+spriteResId = 30;
+spriteType = 0;
+w = 3;
+h = 3;
+d = 0;
+r = 255;
+g = 255;
+b = 255;
+a = 255;
+}
+,{ --sprite_light_4
+baseType = 2;
+baseId = 10000;
+posX = -2.5;
+posY = -1.490042448;
+posZ = 5.092885017;
+rotY = 0;
+spriteResId = 30;
+spriteType = 0;
+w = 3;
+h = 3;
+d = 0;
+r = 255;
+g = 255;
+b = 255;
+a = 255;
+}
+,{ --sprite_light_5
+baseType = 2;
+baseId = 10000;
+posX = -17.5;
+posY = -26.39777708;
+posZ = 5.092885017;
+rotY = 0;
+spriteResId = 30;
+spriteType = 0;
+w = 3;
+h = 3;
+d = 0;
+r = 255;
+g = 255;
+b = 255;
+a = 255;
+}
+,{ --sprite_light_6
+baseType = 2;
+baseId = 10000;
+posX = -17.5;
+posY = -26.39777708;
+posZ = -5.092885017;
+rotY = 0;
+spriteResId = 30;
+spriteType = 0;
+w = 3;
+h = 3;
+d = 0;
+r = 255;
+g = 255;
+b = 255;
+a = 255;
+}
+,{ --sprite_light_7
+baseType = 2;
+baseId = 10000;
+posX = -32.5;
+posY = 19.6875;
+posZ = -5;
+rotY = 0;
+spriteResId = 31;
+spriteType = 0;
+w = 3;
+h = 3;
+d = 0;
+r = 255;
+g = 255;
+b = 255;
+a = 255;
+}
+,{ --sprite_light_8
+baseType = 2;
+baseId = 10000;
+posX = -32.5;
+posY = 19.6875;
+posZ = 5;
+rotY = 0;
+spriteResId = 31;
+spriteType = 0;
+w = 3;
+h = 3;
+d = 0;
+r = 255;
+g = 255;
+b = 255;
+a = 255;
+}
+,{ --sprite_light_9
+baseType = 2;
+baseId = 10000;
+posX = -27.5;
+posY = 19.6875;
+posZ = 5;
+rotY = 0;
+spriteResId = 31;
+spriteType = 0;
+w = 3;
+h = 3;
+d = 0;
+r = 255;
+g = 255;
+b = 255;
+a = 255;
+}
+,{ --sprite_light_10
+baseType = 2;
+baseId = 10000;
+posX = -32.5;
+posY = -19.0625;
+posZ = -5;
+rotY = 0;
+spriteResId = 31;
+spriteType = 0;
+w = 3;
+h = 3;
+d = 0;
+r = 255;
+g = 255;
+b = 255;
+a = 255;
+}
+,{ --sprite_light_11
+baseType = 2;
+baseId = 10000;
+posX = -32.5;
+posY = -19.0625;
+posZ = 5;
+rotY = 0;
+spriteResId = 31;
+spriteType = 0;
+w = 3;
+h = 3;
+d = 0;
+r = 255;
+g = 255;
+b = 255;
+a = 255;
+}
+,{ --sprite_light_12
+baseType = 2;
+baseId = 10000;
+posX = -27.5;
+posY = -19.0625;
+posZ = 5;
+rotY = 0;
+spriteResId = 31;
+spriteType = 0;
+w = 3;
+h = 3;
+d = 0;
+r = 255;
+g = 255;
+b = 255;
+a = 255;
+}
+,{ --sprite_light_13
+baseType = 2;
+baseId = 10000;
+posX = 27.5;
+posY = 13.4375;
+posZ = -5;
+rotY = 0;
+spriteResId = 31;
+spriteType = 0;
+w = 3;
+h = 3;
+d = 0;
+r = 255;
+g = 255;
+b = 255;
+a = 255;
+}
+,{ --sprite_light_14
+baseType = 2;
+baseId = 10000;
+posX = 27.5;
+posY = 13.4375;
+posZ = 5;
+rotY = 0;
+spriteResId = 31;
+spriteType = 0;
+w = 3;
+h = 3;
+d = 0;
+r = 255;
+g = 255;
+b = 255;
+a = 255;
+}
+,{ --sprite_light_15
+baseType = 2;
+baseId = 10000;
+posX = 32.5;
+posY = 13.4375;
+posZ = 5;
+rotY = 0;
+spriteResId = 31;
+spriteType = 0;
+w = 3;
+h = 3;
+d = 0;
+r = 255;
+g = 255;
+b = 255;
+a = 255;
+}
+,{ --sprite_light_16
+baseType = 2;
+baseId = 10000;
+posX = 17.5;
+posY = -14.0625;
+posZ = -5;
+rotY = 0;
+spriteResId = 31;
+spriteType = 0;
+w = 3;
+h = 3;
+d = 0;
+r = 255;
+g = 255;
+b = 255;
+a = 255;
+}
+,{ --sprite_light_17
+baseType = 2;
+baseId = 10000;
+posX = 17.5;
+posY = -14.0625;
+posZ = 5;
+rotY = 0;
+spriteResId = 31;
+spriteType = 0;
+w = 3;
+h = 3;
+d = 0;
+r = 255;
+g = 255;
+b = 255;
+a = 255;
+}
+,{ --sprite_light_18
+baseType = 2;
+baseId = 10000;
+posX = 22.5;
+posY = -14.0625;
+posZ = 5;
+rotY = 0;
+spriteResId = 31;
+spriteType = 0;
+w = 3;
+h = 3;
+d = 0;
+r = 255;
+g = 255;
+b = 255;
+a = 255;
+}
+,{ --weather_snow1_1
+baseType = 3;
+baseId = 7000;
+posX = -32.04009473;
+posY = 28.66464101;
+posZ = -15;
+rotY = 0;
+emitterResId = 700;
+state = 0;
+timeOn = -1;
+timeOff = -1;
+}
+,{ --weather_snow1_2
+baseType = 3;
+baseId = 7000;
+posX = -11.47541427;
+posY = 23.37379735;
+posZ = -15;
+rotY = 0;
+emitterResId = 700;
+state = 0;
+timeOn = -1;
+timeOff = -1;
+}
+,{ --weather_snow1_3
+baseType = 3;
+baseId = 7000;
+posX = -0.4943209428;
+posY = 8.871725144;
+posZ = -15;
+rotY = 0;
+emitterResId = 700;
+state = 0;
+timeOn = -1;
+timeOff = -1;
+}
+,{ --weather_snow1_4
+baseType = 3;
+baseId = 7000;
+posX = 14.20056796;
+posY = 22.85524987;
+posZ = -15;
+rotY = 0;
+emitterResId = 700;
+state = 0;
+timeOn = -1;
+timeOff = -1;
+}
+,{ --weather_snow1_5
+baseType = 3;
+baseId = 7000;
+posX = 36.57261455;
+posY = 23.14961891;
+posZ = -15;
+rotY = 0;
+emitterResId = 700;
+state = 0;
+timeOn = -1;
+timeOff = -1;
+}
+,{ --sound_ambient_1
+baseType = 4;
+baseId = -1;
+posX = 0;
+posY = 0;
+posZ = 0;
+rotY = 0;
+soundResId = 1004;
+soundType = 0;
+soundTime = 1;
+x = 0;
+y = 0;
+z = 0;
+pitch = 1;
+gain = 1;
+rel = 1;
+loop = 1;
+areaType = 0;
+w = 100;
+h = 100;
+d = 100;
+r = 1;
+}
+,{ --port_home_1
+baseType = 8;
+baseId = 2000;
+posX = 0;
+posY = -5;
+posZ = 0;
+portType = 1;
+w = 10;
+h = 2.5;
+num = 1;
+size = 2;
+}
+,{ --port_fuel_1
+baseType = 8;
+baseId = 3000;
+posX = -17.5;
+posY = -30;
+posZ = 0;
+portType = 2;
+w = 5;
+h = 2.5;
+num = 1;
+size = 0;
+}
+,{ --port_taxistop_1
+baseType = 8;
+baseId = 4000;
+posX = -30;
+posY = 16.25;
+posZ = 0;
+portType = 0;
+w = 10;
+h = 2.5;
+num = 1;
+size = 1;
+}
+,{ --port_taxistop_2
+baseType = 8;
+baseId = 4001;
+posX = 30;
+posY = 10;
+posZ = 0;
+portType = 0;
+w = 10;
+h = 2.5;
+num = 2;
+size = 1;
+}
+,{ --port_taxistop_3
+baseType = 8;
+baseId = 4002;
+posX = -30;
+posY = -22.5;
+posZ = 0;
+portType = 0;
+w = 10;
+h = 2.5;
+num = 3;
+size = 1;
+}
+,{ --port_taxistop_4
+baseType = 8;
+baseId = 4003;
+posX = 20;
+posY = -17.5;
+posZ = 0;
+portType = 0;
+w = 10;
+h = 2.5;
+num = 4;
+size = 1;
+}
+,{ --atmosphere_air_1
+baseType = 9;
+baseId = 1000;
+posX = 0;
+posY = 0;
+posZ = 0;
+gravityType = 0;
+w = 100;
+h = 80;
+}
+};
+}

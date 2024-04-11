@@ -1,0 +1,195 @@
+Mesh Index (0): polySurface15555 
+Bounding Box: 
+	center: 4.44,  1.48,  1.31 
+	width: 0.13 
+	height: 0.38 
+	depth: 0.31 
+	boxmin: 4.38,  1.29,  1.16 
+	boxmax: 4.50,  1.67,  1.47 
+	Num Verts: 8 
+	Num UV Sets: 1 
+	Num Normals: 20 
+	Num Vertex Colours: 0 
+
+Mesh Index (1): polySurface20878 
+Bounding Box: 
+	center: 0.19,  1.50,  -6.06 
+	width: 3.38 
+	height: 3.00 
+	depth: 3.88 
+	boxmin: -1.50,  -0.00,  -8.00 
+	boxmax: 1.88,  3.00,  -4.13 
+	Num Verts: 142 
+	Num UV Sets: 1 
+	Num Normals: 170 
+	Num Vertex Colours: 0 
+
+Mesh Index (2): polySurface20671 
+Bounding Box: 
+	center: 5.06,  1.48,  1.31 
+	width: 0.13 
+	height: 0.38 
+	depth: 0.31 
+	boxmin: 5.00,  1.29,  1.16 
+	boxmax: 5.13,  1.67,  1.47 
+	Num Verts: 8 
+	Num UV Sets: 1 
+	Num Normals: 20 
+	Num Vertex Colours: 0 
+
+Mesh Index (3): polySurface20865 
+Bounding Box: 
+	center: 11.75,  3.94,  -2.19 
+	width: 9.38 
+	height: 0.13 
+	depth: 10.00 
+	boxmin: 7.06,  3.88,  -7.19 
+	boxmax: 16.44,  4.00,  2.81 
+	Num Verts: 32 
+	Num UV Sets: 1 
+	Num Normals: 80 
+	Num Vertex Colours: 0 
+
+Mesh Index (4): polySurface15554 
+Bounding Box: 
+	center: 4.75,  1.44,  2.25 
+	width: 1.50 
+	height: 2.88 
+	depth: 2.25 
+	boxmin: 4.00,  0.00,  1.13 
+	boxmax: 5.50,  2.88,  3.38 
+	Num Verts: 76 
+	Num UV Sets: 1 
+	Num Normals: 80 
+	Num Vertex Colours: 0 
+
+Mesh Index (5): polySurface20750 
+Bounding Box: 
+	center: 14.00,  0.73,  -4.25 
+	width: 0.00 
+	height: 1.47 
+	depth: 0.50 
+	boxmin: 14.00,  0.00,  -4.50 
+	boxmax: 14.00,  1.47,  -4.00 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (6): polySurface20869 
+Bounding Box: 
+	center: -2.25,  1.44,  13.75 
+	width: 4.00 
+	height: 2.88 
+	depth: 2.00 
+	boxmin: -4.25,  0.00,  12.75 
+	boxmax: -0.25,  2.88,  14.75 
+	Num Verts: 56 
+	Num UV Sets: 1 
+	Num Normals: 72 
+	Num Vertex Colours: 0 
+
+Mesh Index (7): polySurface20870 
+Bounding Box: 
+	center: 0.00,  3.94,  4.44 
+	width: 4.88 
+	height: 0.13 
+	depth: 14.75 
+	boxmin: -2.44,  3.88,  -2.94 
+	boxmax: 2.44,  4.00,  11.81 
+	Num Verts: 48 
+	Num UV Sets: 1 
+	Num Normals: 120 
+	Num Vertex Colours: 0 
+
+Mesh Index (8): polySurface20871 
+Bounding Box: 
+	center: 11.75,  2.00,  -2.25 
+	width: 13.50 
+	height: 4.00 
+	depth: 13.50 
+	boxmin: 5.00,  0.00,  -9.00 
+	boxmax: 18.50,  4.00,  4.50 
+	Num Verts: 108 
+	Num UV Sets: 1 
+	Num Normals: 112 
+	Num Vertex Colours: 0 
+
+Mesh Index (9): polySurface20872 
+Bounding Box: 
+	center: 0.00,  2.00,  4.50 
+	width: 9.00 
+	height: 4.00 
+	depth: 18.00 
+	boxmin: -4.50,  0.00,  -4.50 
+	boxmax: 4.50,  4.00,  13.50 
+	Num Verts: 112 
+	Num UV Sets: 1 
+	Num Normals: 124 
+	Num Vertex Colours: 0 
+
+Mesh Index (10): polySurface20873 
+Bounding Box: 
+	center: 10.48,  0.94,  -8.75 
+	width: 1.95 
+	height: 1.88 
+	depth: 0.50 
+	boxmin: 9.51,  0.00,  -9.00 
+	boxmax: 11.46,  1.88,  -8.50 
+	Num Verts: 104 
+	Num UV Sets: 1 
+	Num Normals: 132 
+	Num Vertex Colours: 0 
+
+Mesh Index (11): polySurface20874 
+Bounding Box: 
+	center: 13.35,  0.76,  -6.75 
+	width: 1.29 
+	height: 1.52 
+	depth: 4.38 
+	boxmin: 12.71,  -0.00,  -8.94 
+	boxmax: 14.00,  1.52,  -4.56 
+	Num Verts: 570 
+	Num UV Sets: 1 
+	Num Normals: 829 
+	Num Vertex Colours: 0 
+
+Mesh Index (12): polySurface20875 
+Bounding Box: 
+	center: 16.25,  0.95,  -4.25 
+	width: 4.50 
+	height: 1.91 
+	depth: 0.50 
+	boxmin: 14.00,  0.00,  -4.50 
+	boxmax: 18.50,  1.91,  -4.00 
+	Num Verts: 40 
+	Num UV Sets: 1 
+	Num Normals: 64 
+	Num Vertex Colours: 0 
+
+Mesh Index (13): polySurface20876 
+Bounding Box: 
+	center: 16.25,  0.95,  4.25 
+	width: 4.50 
+	height: 1.91 
+	depth: 0.50 
+	boxmin: 14.00,  0.00,  4.00 
+	boxmax: 18.50,  1.91,  4.50 
+	Num Verts: 52 
+	Num UV Sets: 1 
+	Num Normals: 84 
+	Num Vertex Colours: 0 
+
+Mesh Index (14): polySurface20877 
+Bounding Box: 
+	center: 12.03,  2.00,  0.00 
+	width: 7.06 
+	height: 4.00 
+	depth: 1.00 
+	boxmin: 8.50,  0.00,  -0.50 
+	boxmax: 15.56,  4.00,  0.50 
+	Num Verts: 136 
+	Num UV Sets: 1 
+	Num Normals: 244 
+	Num Vertex Colours: 0 
+

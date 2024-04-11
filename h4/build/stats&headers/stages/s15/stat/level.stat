@@ -1,0 +1,26 @@
+Mesh Index (0): polySurface20825 
+Bounding Box: 
+	center: -0.50,  2.00,  2.25 
+	width: 15.00 
+	height: 4.00 
+	depth: 18.50 
+	boxmin: -8.00,  0.00,  -7.00 
+	boxmax: 7.00,  4.00,  11.50 
+	Num Verts: 448 
+	Num UV Sets: 1 
+	Num Normals: 548 
+	Num Vertex Colours: 0 
+
+Mesh Index (1): TEMP_polySurface20675 
+Bounding Box: 
+	center: 7.00,  1.69,  -0.00 
+	width: 0.00 
+	height: 2.32 
+	depth: 3.86 
+	boxmin: 7.00,  0.53,  -1.93 
+	boxmax: 7.00,  2.85,  1.93 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+

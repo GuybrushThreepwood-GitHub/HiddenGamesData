@@ -1,0 +1,6846 @@
+data = {
+numTypes = 188;
+numObjects = 324;
+objects = {
+{ --barn1_2
+posX = 490.7302484;
+posY = 377.7207445;
+posZ = -689.6091564;
+rotX = 0;
+rotY = 21.86508747;
+rotZ = 0;
+objectType = -1;
+objectResId = 1;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --barn1_3
+posX = 608.4719934;
+posY = 377.7207445;
+posZ = -743.4213797;
+rotX = 0;
+rotY = -65.78332348;
+rotZ = 0;
+objectType = -1;
+objectResId = 1;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --barn1_4
+posX = 448.7769552;
+posY = 326.1557333;
+posZ = -54.724337;
+rotX = 0;
+rotY = 48.55185381;
+rotZ = 0;
+objectType = -1;
+objectResId = 1;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --barn1_5
+posX = -114.8158189;
+posY = 377.7207445;
+posZ = 0.7072660601;
+rotX = 0;
+rotY = 150.562146;
+rotZ = 0;
+objectType = -1;
+objectResId = 1;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --barn1_6
+posX = 2130.101777;
+posY = 331.6249433;
+posZ = 2785.153226;
+rotX = 0;
+rotY = 21.86508747;
+rotZ = 0;
+objectType = -1;
+objectResId = 1;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --barn1_7
+posX = 2240.899078;
+posY = 331.6249433;
+posZ = 2497.323776;
+rotX = 0;
+rotY = -23.69214629;
+rotZ = 0;
+objectType = -1;
+objectResId = 1;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --barn1_8
+posX = -7.212467163;
+posY = 334.3242847;
+posZ = 2177.981992;
+rotX = 0;
+rotY = 51.61840901;
+rotZ = 0;
+objectType = -1;
+objectResId = 1;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --barn1_9
+posX = -1345.452046;
+posY = 334.3242847;
+posZ = 492.8016041;
+rotX = 0;
+rotY = 51.61840901;
+rotZ = 0;
+objectType = -1;
+objectResId = 1;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --barn1_10
+posX = -2110.968356;
+posY = 334.3242847;
+posZ = 139.978676;
+rotX = 0;
+rotY = 9.764688498;
+rotZ = 0;
+objectType = -1;
+objectResId = 1;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --barn1_11
+posX = -1811.011108;
+posY = 334.3242847;
+posZ = 1826.345907;
+rotX = 0;
+rotY = -40.91131912;
+rotZ = 0;
+objectType = -1;
+objectResId = 1;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --barn1_12
+posX = -1745.476543;
+posY = 334.3242847;
+posZ = 1882.75128;
+rotX = 0;
+rotY = -40.91131912;
+rotZ = 0;
+objectType = -1;
+objectResId = 1;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --church1_2
+posX = -668.3059172;
+posY = 377.7207445;
+posZ = -404.3086894;
+rotX = 0;
+rotY = -43.33973216;
+rotZ = 0;
+objectType = -1;
+objectResId = 2;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --church1_3
+posX = -630.9501808;
+posY = 338.7545278;
+posZ = 1483.023749;
+rotX = 0;
+rotY = 46.21042582;
+rotZ = 0;
+objectType = -1;
+objectResId = 2;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_2
+posX = 533.480467;
+posY = 377.7207445;
+posZ = -706.8983828;
+rotX = 0;
+rotY = 24.18695998;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_3
+posX = -692.3303583;
+posY = 377.7207445;
+posZ = -451.6982323;
+rotX = 0;
+rotY = -135.341052;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_4
+posX = -1122.025438;
+posY = 377.7207445;
+posZ = -534.4741549;
+rotX = 0;
+rotY = 53.79711514;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_5
+posX = -1176.765886;
+posY = 377.7207445;
+posZ = -721.726393;
+rotX = 0;
+rotY = -38.71191796;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_6
+posX = -1184.98908;
+posY = 377.7207445;
+posZ = -337.7737668;
+rotX = 0;
+rotY = -218.3013852;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_7
+posX = 472.8237265;
+posY = 326.1557333;
+posZ = -95.60245523;
+rotX = 0;
+rotY = -130.0889155;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_8
+posX = -831.9899793;
+posY = 377.7207445;
+posZ = -586.2884587;
+rotX = 0;
+rotY = 223.9409697;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_9
+posX = -843.8061225;
+posY = 377.7207445;
+posZ = -208.0931324;
+rotX = 0;
+rotY = -130.1481641;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_10
+posX = -1081.794648;
+posY = 377.7207445;
+posZ = -78.14291614;
+rotX = 0;
+rotY = 75.90365938;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_13
+posX = -982.2585326;
+posY = 377.7207445;
+posZ = -61.39941881;
+rotX = 0;
+rotY = 141.1953511;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_16
+posX = 411.587955;
+posY = 338.7545278;
+posZ = 2628.948276;
+rotX = 0;
+rotY = 42.45423365;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_17
+posX = -1950.714838;
+posY = 338.7545278;
+posZ = 2337.014117;
+rotX = 0;
+rotY = -224.0917145;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_18
+posX = -2035.931455;
+posY = 338.7545278;
+posZ = 2430.397923;
+rotX = 0;
+rotY = 135.4050218;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_22
+posX = -248.9108899;
+posY = 338.7545278;
+posZ = 1748.088713;
+rotX = 0;
+rotY = -230.2097072;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_23
+posX = -358.312266;
+posY = 338.7545278;
+posZ = 1846.740988;
+rotX = 0;
+rotY = 132.1459393;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_24
+posX = 226.9434561;
+posY = 338.7545278;
+posZ = 2478.701162;
+rotX = 0;
+rotY = 115.8680661;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_25
+posX = -872.0742126;
+posY = 338.7545278;
+posZ = 1321.238688;
+rotX = 0;
+rotY = -36.57016007;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_26
+posX = -1609.123395;
+posY = 338.7545278;
+posZ = 238.2407111;
+rotX = 0;
+rotY = 8.93204028;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_27
+posX = -1494.346251;
+posY = 338.7545278;
+posZ = 171.1146049;
+rotX = 0;
+rotY = -169.0889804;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_29
+posX = -744.8527665;
+posY = 338.7545278;
+posZ = 1436.542976;
+rotX = 0;
+rotY = 132.1459393;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_30
+posX = -600.0550171;
+posY = 338.7545278;
+posZ = 1110.676987;
+rotX = 0;
+rotY = -69.47343068;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_31
+posX = -599.5836943;
+posY = 338.7545278;
+posZ = 1198.120495;
+rotX = 0;
+rotY = 40.09998652;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_32
+posX = -478.1604141;
+posY = 338.7545278;
+posZ = 1052.612525;
+rotX = 0;
+rotY = -68.35845432;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_33
+posX = -349.8017005;
+posY = 338.7545278;
+posZ = 1107.159894;
+rotX = 0;
+rotY = -127.9040412;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_34
+posX = -275.2486296;
+posY = 338.7545278;
+posZ = 1463.227948;
+rotX = 0;
+rotY = 121.603055;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_36
+posX = -2437.358696;
+posY = 338.7545278;
+posZ = 2498.812666;
+rotX = 0;
+rotY = -57.93807629;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_37
+posX = -2343.662825;
+posY = 338.7545278;
+posZ = 2165.021995;
+rotX = 0;
+rotY = 37.75442591;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_38
+posX = -2248.540273;
+posY = 338.7545278;
+posZ = 2448.759704;
+rotX = 0;
+rotY = -138.7255291;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_39
+posX = -2232.942324;
+posY = 338.7545278;
+posZ = 2039.57723;
+rotX = 0;
+rotY = -128.9465795;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_40
+posX = -2256.020142;
+posY = 338.7545278;
+posZ = 2189.38259;
+rotX = 0;
+rotY = 144.2654969;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_41
+posX = 2172.851996;
+posY = 331.6249433;
+posZ = 2767.864;
+rotX = 0;
+rotY = 24.18695998;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_42
+posX = 2.409439469;
+posY = 334.3242847;
+posZ = 2148.059087;
+rotX = 0;
+rotY = 144.1083444;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_43
+posX = -1335.830139;
+posY = 334.3242847;
+posZ = 462.8786994;
+rotX = 0;
+rotY = 144.1083444;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_44
+posX = -2082.567909;
+posY = 334.3242847;
+posZ = 125.2574473;
+rotX = 0;
+rotY = 97.97320531;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_45
+posX = -1785.465268;
+posY = 334.3242847;
+posZ = 1860.157625;
+rotX = 0;
+rotY = 47.29719769;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_46
+posX = -128.5529599;
+posY = 338.7545278;
+posZ = 2348.799924;
+rotX = 0;
+rotY = -29.53120254;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_47
+posX = -27.93928132;
+posY = 338.7545278;
+posZ = 2387.94203;
+rotX = 0;
+rotY = -22.14363863;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_48
+posX = 2987.696016;
+posY = 338.7545278;
+posZ = 2339.845199;
+rotX = 0;
+rotY = -91.59252649;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_49
+posX = -521.1135871;
+posY = 613.9686168;
+posZ = 5059.627982;
+rotX = 0;
+rotY = -230.2097072;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house1_50
+posX = -702.3725166;
+posY = 613.9686168;
+posZ = 5168.766476;
+rotX = 0;
+rotY = 82.18437332;
+rotZ = 0;
+objectType = -1;
+objectResId = 3;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_2
+posX = 514.1429638;
+posY = 377.7207445;
+posZ = -701.1633601;
+rotX = 0;
+rotY = 23.4330733;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_3
+posX = -910.5398086;
+posY = 377.7207445;
+posZ = -661.1122696;
+rotX = 0;
+rotY = -133.0503302;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_4
+posX = -922.0690997;
+posY = 377.7207445;
+posZ = -671.8942918;
+rotX = 0;
+rotY = -133.0503302;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_5
+posX = -96.04984873;
+posY = 377.7207445;
+posZ = 12.63814408;
+rotX = 0;
+rotY = 241.572674;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_7
+posX = -944.9919185;
+posY = 377.7207445;
+posZ = -283.2135282;
+rotX = 0;
+rotY = -126.6999693;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_10
+posX = -1913.684204;
+posY = 338.7545278;
+posZ = 1451.59819;
+rotX = 0;
+rotY = -223.9833404;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_11
+posX = -1815.232572;
+posY = 338.7545278;
+posZ = 1594.202597;
+rotX = 0;
+rotY = -138.781061;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_12
+posX = -209.4156231;
+posY = 338.7545278;
+posZ = 1232.117501;
+rotX = 0;
+rotY = -136.24747;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_13
+posX = 357.158453;
+posY = 338.7545278;
+posZ = 2480.7385;
+rotX = 0;
+rotY = -118.2571645;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_14
+posX = -800.6076728;
+posY = 338.7545278;
+posZ = 1230.048075;
+rotX = 0;
+rotY = -216.8235622;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_15
+posX = -1909.594326;
+posY = 338.7545278;
+posZ = 574.758657;
+rotX = 0;
+rotY = -159.7647863;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_16
+posX = -1578.894121;
+posY = 338.7545278;
+posZ = 290.5028449;
+rotX = 0;
+rotY = -170.139838;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_17
+posX = -743.5762812;
+posY = 338.7545278;
+posZ = 1189.336732;
+rotX = 0;
+rotY = -223.9833404;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_18
+posX = -383.8714126;
+posY = 338.7545278;
+posZ = 1265.542425;
+rotX = 0;
+rotY = -247.5159833;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_19
+posX = -129.1655524;
+posY = 338.7545278;
+posZ = 1484.134585;
+rotX = 0;
+rotY = -134.9392296;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_21
+posX = -419.2232452;
+posY = 338.7545278;
+posZ = 1044.385033;
+rotX = 0;
+rotY = -223.9833404;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_22
+posX = -2348.34299;
+posY = 338.7545278;
+posZ = 2430.980184;
+rotX = 0;
+rotY = -233.489274;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_23
+posX = -2178.751456;
+posY = 338.7545278;
+posZ = 2523.466197;
+rotX = 0;
+rotY = -138.781061;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_24
+posX = 2153.514493;
+posY = 331.6249433;
+posZ = 2773.599022;
+rotX = 0;
+rotY = 23.4330733;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_25
+posX = 11.70827377;
+posY = 334.3242847;
+posZ = 2132.73798;
+rotX = 0;
+rotY = 143.3544578;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_26
+posX = -1326.531305;
+posY = 334.3242847;
+posZ = 447.5575916;
+rotX = 0;
+rotY = 143.3544578;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_27
+posX = -2064.02884;
+posY = 334.3242847;
+posZ = 120.6669343;
+rotX = 0;
+rotY = 97.21931862;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_28
+posX = -1774.695725;
+posY = 334.3242847;
+posZ = 1846.178934;
+rotX = 0;
+rotY = 46.54331101;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_29
+posX = -1771.435299;
+posY = 334.3242847;
+posZ = 1870.795152;
+rotX = 0;
+rotY = 46.54331101;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_30
+posX = 454.4068143;
+posY = 338.7545278;
+posZ = 2206.083454;
+rotX = 0;
+rotY = -191.49984;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house2_31
+posX = 3963.982235;
+posY = 338.7545278;
+posZ = 2086.260935;
+rotX = 0;
+rotY = -111.093747;
+rotZ = 0;
+objectType = -1;
+objectResId = 4;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_2
+posX = 541.811684;
+posY = 377.7207445;
+posZ = -689.4967063;
+rotX = 0;
+rotY = -65.52632938;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_3
+posX = -1076.544079;
+posY = 377.7207445;
+posZ = -498.0268075;
+rotX = 0;
+rotY = -128.102755;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_4
+posX = -801.8299662;
+posY = 377.7207445;
+posZ = -292.6185207;
+rotX = 0;
+rotY = 144.5715936;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_7
+posX = -1352.883958;
+posY = 377.7207445;
+posZ = -152.1789252;
+rotX = 0;
+rotY = 165.7037159;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_8
+posX = -1291.151651;
+posY = 377.7207445;
+posZ = -133.3112492;
+rotX = 0;
+rotY = 151.6947462;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_9
+posX = -569.5009651;
+posY = 338.7545278;
+posZ = 1699.724724;
+rotX = 0;
+rotY = -133.8930843;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_10
+posX = 625.3473191;
+posY = 338.7545278;
+posZ = 2823.159886;
+rotX = 0;
+rotY = 132.8936945;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_11
+posX = 698.1598844;
+posY = 338.7545278;
+posZ = 2968.41157;
+rotX = 0;
+rotY = 113.9905948;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_12
+posX = -1939.393455;
+posY = 338.7545278;
+posZ = 1693.492255;
+rotX = 0;
+rotY = -144.4224825;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_13
+posX = -397.3519145;
+posY = 338.7545278;
+posZ = 1879.004158;
+rotX = 0;
+rotY = 133.5673803;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_15
+posX = -1888.789152;
+posY = 338.7545278;
+posZ = 1681.018278;
+rotX = 0;
+rotY = 125.904575;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_16
+posX = -453.7189483;
+posY = 338.7545278;
+posZ = 1586.92852;
+rotX = 0;
+rotY = 135.4392952;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_17
+posX = -1910.814878;
+posY = 338.7545278;
+posZ = 2296.475568;
+rotX = 0;
+rotY = 135.4392952;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_19
+posX = -1962.687786;
+posY = 338.7545278;
+posZ = 666.9156724;
+rotX = 0;
+rotY = -80.44806868;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_20
+posX = -783.6239008;
+posY = 338.7545278;
+posZ = 1479.702074;
+rotX = 0;
+rotY = 133.5673803;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_22
+posX = -1448.385799;
+posY = 338.7545278;
+posZ = 262.053934;
+rotX = 0;
+rotY = 109.3450677;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_23
+posX = -542.3897901;
+posY = 338.7545278;
+posZ = 1274.077577;
+rotX = 0;
+rotY = -57.31215843;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_24
+posX = -338.0004656;
+posY = 338.7545278;
+posZ = 1493.127948;
+rotX = 0;
+rotY = 41.94489735;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_25
+posX = -229.6324726;
+posY = 338.7545278;
+posZ = 1430.093812;
+rotX = 0;
+rotY = 33.67978582;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_26
+posX = -503.0116965;
+posY = 338.7545278;
+posZ = 1238.654592;
+rotX = 0;
+rotY = 32.72209835;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_27
+posX = -189.8300662;
+posY = 338.7545278;
+posZ = 1405.191426;
+rotX = 0;
+rotY = 120.6805162;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_28
+posX = -2316.60859;
+posY = 338.7545278;
+posZ = 2649.348487;
+rotX = 0;
+rotY = -146.2275298;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_29
+posX = -2279.83499;
+posY = 338.7545278;
+posZ = 2235.745527;
+rotX = 0;
+rotY = 127.7626515;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_30
+posX = -2224.89121;
+posY = 338.7545278;
+posZ = 2591.15712;
+rotX = 0;
+rotY = 34.09208082;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_31
+posX = -2273.989291;
+posY = 338.7545278;
+posZ = 2621.883706;
+rotX = 0;
+rotY = 31.22899195;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_32
+posX = -2178.957318;
+posY = 338.7545278;
+posZ = 2562.814931;
+rotX = 0;
+rotY = 34.09208082;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_33
+posX = 2181.183213;
+posY = 331.6249433;
+posZ = 2785.265676;
+rotX = 0;
+rotY = -65.52632938;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_34
+posX = 15.2326309;
+posY = 334.3242847;
+posZ = 2160.688041;
+rotX = 0;
+rotY = 54.39505508;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_35
+posX = -1323.006947;
+posY = 334.3242847;
+posZ = 475.5076529;
+rotX = 0;
+rotY = 54.39505508;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_36
+posX = -2081.965673;
+posY = 334.3242847;
+posZ = 144.1459145;
+rotX = 0;
+rotY = 8.259915949;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_37
+posX = -1796.517321;
+posY = 334.3242847;
+posZ = 1849.586639;
+rotX = 0;
+rotY = -42.41609167;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_38
+posX = 2699.113397;
+posY = 324.3290578;
+posZ = 2842.674556;
+rotX = 0;
+rotY = -146.2275298;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_39
+posX = 2563.238592;
+posY = 324.3290578;
+posZ = 3178.015232;
+rotX = 0;
+rotY = 127.7626515;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_40
+posX = 3224.023134;
+posY = 338.7545278;
+posZ = 2341.725795;
+rotX = 0;
+rotY = 87.01037298;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_41
+posX = 2605.573395;
+posY = 324.3290578;
+posZ = 2559.664422;
+rotX = 0;
+rotY = 31.22899195;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_42
+posX = 1927.292729;
+posY = 324.3290578;
+posZ = 2832.185514;
+rotX = 0;
+rotY = 85.92616756;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house3_43
+posX = -2068.45842;
+posY = 338.7545278;
+posZ = 2461.215869;
+rotX = 0;
+rotY = 135.4392952;
+rotZ = 0;
+objectType = -1;
+objectResId = 5;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_2
+posX = -787.6980705;
+posY = 377.7207445;
+posZ = -536.9104169;
+rotX = 0;
+rotY = 46.68827846;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_3
+posX = -1217.546321;
+posY = 377.7207445;
+posZ = -599.9595344;
+rotX = 0;
+rotY = 52.98118623;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_4
+posX = -898.051612;
+posY = 377.7207445;
+posZ = -541.975739;
+rotX = 0;
+rotY = -39.28954652;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_6
+posX = -1495.757044;
+posY = 377.7207445;
+posZ = -194.6175436;
+rotX = 0;
+rotY = 75.13842503;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_8
+posX = -924.9672259;
+posY = 377.7207445;
+posZ = -122.148618;
+rotX = 0;
+rotY = -130.6028119;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_9
+posX = -491.0810528;
+posY = 338.7545278;
+posZ = 1485.341714;
+rotX = 0;
+rotY = 45.21798209;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_13
+posX = -491.4490835;
+posY = 338.7545278;
+posZ = 1787.796833;
+rotX = 0;
+rotY = 43.0020894;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_14
+posX = -2039.046709;
+posY = 338.7545278;
+posZ = 1496.656505;
+rotX = 0;
+rotY = -154.7402177;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_16
+posX = -1878.148257;
+posY = 338.7545278;
+posZ = 1487.938984;
+rotX = 0;
+rotY = 46.68827846;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_17
+posX = -2024.499487;
+posY = 338.7545278;
+posZ = 426.8666387;
+rotX = 0;
+rotY = 99.89273328;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_18
+posX = -2068.237813;
+posY = 338.7545278;
+posZ = 541.4794378;
+rotX = 0;
+rotY = 6.480212225;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_20
+posX = -2052.41812;
+posY = 338.7545278;
+posZ = 617.9415475;
+rotX = 0;
+rotY = 10.24627358;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_23
+posX = -638.3760858;
+posY = 338.7545278;
+posZ = 1156.807691;
+rotX = 0;
+rotY = 42.41504049;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_24
+posX = -638.119982;
+posY = 338.7545278;
+posZ = 1123.46104;
+rotX = 0;
+rotY = -69.72297189;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_27
+posX = -2332.59788;
+posY = 338.7545278;
+posZ = 1929.29505;
+rotX = 0;
+rotY = -51.87297914;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_28
+posX = -2387.946375;
+posY = 338.7545278;
+posZ = 2592.723524;
+rotX = 0;
+rotY = 27.23830371;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_29
+posX = -2407.35945;
+posY = 338.7545278;
+posZ = 2027.357053;
+rotX = 0;
+rotY = -145.0490457;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_30
+posX = -2599.131486;
+posY = 338.7545278;
+posZ = 2235.862733;
+rotX = 0;
+rotY = -145.6708418;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_31
+posX = -2529.264796;
+posY = 338.7545278;
+posZ = 2313.771299;
+rotX = 0;
+rotY = 35.66782148;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_32
+posX = 2296.323111;
+posY = 324.3290578;
+posZ = 2824.30233;
+rotX = 0;
+rotY = -51.87297914;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_33
+posX = 1902.67136;
+posY = 324.3290578;
+posZ = 2944.544253;
+rotX = 0;
+rotY = -4.622246835;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_34
+posX = 3088.417817;
+posY = 338.7545278;
+posZ = 2338.822778;
+rotX = 0;
+rotY = -87.68576013;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_35
+posX = 757.9072504;
+posY = 338.7545278;
+posZ = 2232.614138;
+rotX = 0;
+rotY = -74.09827516;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_36
+posX = 2262.640416;
+posY = 324.3290578;
+posZ = 3006.533644;
+rotX = 0;
+rotY = 35.66782148;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house4_37
+posX = -2286.718092;
+posY = 338.7545278;
+posZ = 1983.876178;
+rotX = 0;
+rotY = -51.87297914;
+rotZ = 0;
+objectType = -1;
+objectResId = 6;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_3
+posX = -741.8675809;
+posY = 377.7207445;
+posZ = -494.7079425;
+rotX = 0;
+rotY = 226.8851281;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_4
+posX = -855.7803537;
+posY = 377.7207445;
+posZ = -328.1621621;
+rotX = 0;
+rotY = 235.4020193;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_5
+posX = -1177.568639;
+posY = 377.7207445;
+posZ = -571.6087626;
+rotX = 0;
+rotY = 234.689578;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_6
+posX = -1260.511642;
+posY = 377.7207445;
+posZ = -633.0262293;
+rotX = 0;
+rotY = 233.5973103;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_7
+posX = -984.7019183;
+posY = 377.7207445;
+posZ = -422.9418035;
+rotX = 0;
+rotY = 234.0386613;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_8
+posX = -1144.660502;
+posY = 377.7207445;
+posZ = -423.9734386;
+rotX = 0;
+rotY = 230.4475195;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_9
+posX = -868.3081371;
+posY = 377.7207445;
+posZ = -228.8795283;
+rotX = 0;
+rotY = 232.2547729;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_10
+posX = -1423.94811;
+posY = 377.7207445;
+posZ = -172.4159937;
+rotX = 0;
+rotY = 436.7112371;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_12
+posX = -1313.221707;
+posY = 377.7207445;
+posZ = -548.9794414;
+rotX = 0;
+rotY = 233.5973103;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_13
+posX = -1045.509749;
+posY = 377.7207445;
+posZ = -350.1871904;
+rotX = 0;
+rotY = 234.0386613;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_14
+posX = -166.5812436;
+posY = 338.7545278;
+posZ = 1287.533152;
+rotX = 0;
+rotY = 222.8165019;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_16
+posX = 535.1673197;
+posY = 338.7545278;
+posZ = 2734.809591;
+rotX = 0;
+rotY = 222.2809328;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_17
+posX = -637.2505765;
+posY = 338.7545278;
+posZ = 1624.721775;
+rotX = 0;
+rotY = 222.1293068;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_18
+posX = -706.4573025;
+posY = 338.7545278;
+posZ = 1549.923279;
+rotX = 0;
+rotY = 222.356373;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_19
+posX = 322.3546407;
+posY = 338.7545278;
+posZ = 2544.904791;
+rotX = 0;
+rotY = 135.7845536;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_20
+posX = -2035.502702;
+posY = 338.7545278;
+posZ = 1550.345374;
+rotX = 0;
+rotY = 210.3576538;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_21
+posX = -1989.522358;
+posY = 338.7545278;
+posZ = 1479.161243;
+rotX = 0;
+rotY = 209.8256917;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_22
+posX = -1975.732606;
+posY = 338.7545278;
+posZ = 1643.286979;
+rotX = 0;
+rotY = 393.5062589;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_23
+posX = -2005.603168;
+posY = 338.7545278;
+posZ = 1598.458053;
+rotX = 0;
+rotY = 213.3341981;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_24
+posX = -1851.235855;
+posY = 338.7545278;
+posZ = 1543.130054;
+rotX = 0;
+rotY = 221.5162186;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_25
+posX = -349.2060639;
+posY = 338.7545278;
+posZ = 1632.870654;
+rotX = 0;
+rotY = 221.9575696;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_26
+posX = -2215.771923;
+posY = 338.7545278;
+posZ = 2310.229358;
+rotX = 0;
+rotY = 135.7845536;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_27
+posX = -664.9381476;
+posY = 338.7545278;
+posZ = 1504.573921;
+rotX = 0;
+rotY = 135.7845536;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_28
+posX = -564.6369388;
+posY = 338.7545278;
+posZ = 1400.667806;
+rotX = 0;
+rotY = 135.7845536;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_29
+posX = -2122.355194;
+posY = 338.7545278;
+posZ = 2148.054597;
+rotX = 0;
+rotY = 146.2815018;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_30
+posX = -1634.644034;
+posY = 338.7545278;
+posZ = 160.9191417;
+rotX = 0;
+rotY = 191.8943349;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_31
+posX = -834.3549437;
+posY = 338.7545278;
+posZ = 1279.00131;
+rotX = 0;
+rotY = 230.194999;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_32
+posX = -847.3025856;
+posY = 338.7545278;
+posZ = 1441.861394;
+rotX = 0;
+rotY = 410.3350899;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_34
+posX = -681.178695;
+posY = 338.7545278;
+posZ = 1250.564462;
+rotX = 0;
+rotY = 221.5162186;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_35
+posX = -1953.671953;
+posY = 338.7545278;
+posZ = 429.0011457;
+rotX = 0;
+rotY = 198.9887624;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_36
+posX = -1928.724357;
+posY = 338.7545278;
+posZ = 501.5736098;
+rotX = 0;
+rotY = 199.2220722;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_37
+posX = -2037.877681;
+posY = 338.7545278;
+posZ = 675.5833265;
+rotX = 0;
+rotY = 449.1953989;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_38
+posX = -428.9154345;
+posY = 338.7545278;
+posZ = 1293.25898;
+rotX = 0;
+rotY = 205.4868411;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_39
+posX = -301.2420157;
+posY = 338.7545278;
+posZ = 1232.273223;
+rotX = 0;
+rotY = 201.6259592;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_40
+posX = -388.5189304;
+posY = 338.7545278;
+posZ = 1440.649606;
+rotX = 0;
+rotY = 402.5463705;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_41
+posX = -423.169701;
+posY = 338.7545278;
+posZ = 1399.683745;
+rotX = 0;
+rotY = 220.7234913;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_42
+posX = -266.5463565;
+posY = 338.7545278;
+posZ = 1563.014344;
+rotX = 0;
+rotY = 306.1461389;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_43
+posX = -246.5317094;
+posY = 338.7545278;
+posZ = 1207.34536;
+rotX = 0;
+rotY = 296.0373522;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_46
+posX = -2410.059169;
+posY = 338.7545278;
+posZ = 2073.601861;
+rotX = 0;
+rotY = 209.8938803;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_47
+posX = -2380.894986;
+posY = 338.7545278;
+posZ = 1962.094612;
+rotX = 0;
+rotY = 216.6425873;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_48
+posX = -2357.915578;
+posY = 338.7545278;
+posZ = 2642.610946;
+rotX = 0;
+rotY = 388.940842;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_49
+posX = -2381.821075;
+posY = 338.7545278;
+posZ = 2114.976844;
+rotX = 0;
+rotY = 215.3509009;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_50
+posX = -2537.568923;
+posY = 338.7545278;
+posZ = 2176.832666;
+rotX = 0;
+rotY = 316.3490625;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_51
+posX = -2294.425388;
+posY = 338.7545278;
+posZ = 2395.191037;
+rotX = 0;
+rotY = 221.9575696;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_52
+posX = 3139.277868;
+posY = 338.7545278;
+posZ = 2339.175099;
+rotX = 0;
+rotY = 269.8162607;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_53
+posX = -85.56686706;
+posY = 338.7545278;
+posZ = 2266.937391;
+rotX = 0;
+rotY = 151.5346329;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_54
+posX = 2820.605571;
+posY = 324.3290578;
+posZ = 2984.922915;
+rotX = 0;
+rotY = 399.8572151;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_55
+posX = 3181.321852;
+posY = 338.7545278;
+posZ = 2340.516271;
+rotX = 0;
+rotY = 268.1301363;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_56
+posX = 2226.250779;
+posY = 324.3290578;
+posZ = 2939.259594;
+rotX = 0;
+rotY = 217.4250506;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house5_57
+posX = 2023.103158;
+posY = 324.3290578;
+posZ = 2832.324764;
+rotX = 0;
+rotY = 358.3741701;
+rotZ = 0;
+objectType = -1;
+objectResId = 7;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_2
+posX = -774.070686;
+posY = 377.7207445;
+posZ = -529.3318162;
+rotX = 0;
+rotY = 137.3051772;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_3
+posX = -942.65717;
+posY = 377.7207445;
+posZ = -686.8926902;
+rotX = 0;
+rotY = 137.3051772;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_4
+posX = -903.8020616;
+posY = 377.7207445;
+posZ = -366.7783085;
+rotX = 0;
+rotY = 144.2888924;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_5
+posX = -1221.731494;
+posY = 377.7207445;
+posZ = -268.5544767;
+rotX = 0;
+rotY = 51.20190688;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_6
+posX = -78.78316493;
+posY = 377.7207445;
+posZ = 17.59861122;
+rotX = 0;
+rotY = 152.970934;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_7
+posX = -732.0780059;
+posY = 377.7207445;
+posZ = -322.5303923;
+rotX = 0;
+rotY = -40.21299375;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_8
+posX = -1194.903502;
+posY = 377.7207445;
+posZ = -461.8826098;
+rotX = 0;
+rotY = 142.5573887;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_9
+posX = -1258.930444;
+posY = 377.7207445;
+posZ = -513.9022277;
+rotX = 0;
+rotY = 141.0292729;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_10
+posX = -1168.582484;
+posY = 377.7207445;
+posZ = -104.4958142;
+rotX = 0;
+rotY = 165.4052275;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_11
+posX = -1258.064741;
+posY = 377.7207445;
+posZ = -198.6267119;
+rotX = 0;
+rotY = 57.0648216;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_12
+posX = -1106.545906;
+posY = 377.7207445;
+posZ = -271.5033676;
+rotX = 0;
+rotY = -127.7034622;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_13
+posX = -478.0538625;
+posY = 338.7545278;
+posZ = 1493.520509;
+rotX = 0;
+rotY = 134.5411562;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_14
+posX = -498.5355847;
+posY = 338.7545278;
+posZ = 1471.74995;
+rotX = 0;
+rotY = 43.91471082;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_15
+posX = 148.199304;
+posY = 338.7545278;
+posZ = 2449.81899;
+rotX = 0;
+rotY = 156.8280616;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_16
+posX = -1996.796643;
+posY = 338.7545278;
+posZ = 2381.354035;
+rotX = 0;
+rotY = 45.41157761;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_17
+posX = -521.3647822;
+posY = 338.7545278;
+posZ = 1650.245472;
+rotX = 0;
+rotY = -46.00332301;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_18
+posX = -416.2378006;
+posY = 338.7545278;
+posZ = 1694.656147;
+rotX = 0;
+rotY = 138.3968483;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_19
+posX = -280.3802243;
+posY = 338.7545278;
+posZ = 1701.854206;
+rotX = 0;
+rotY = 128.9481812;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_20
+posX = -475.4555656;
+posY = 338.7545278;
+posZ = 1798.568242;
+rotX = 0;
+rotY = 133.2688919;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_21
+posX = -1837.263961;
+posY = 338.7545278;
+posZ = 1646.372536;
+rotX = 0;
+rotY = 134.2728573;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_23
+posX = -2085.526923;
+posY = 338.7545278;
+posZ = 446.8551025;
+rotX = 0;
+rotY = 12.05992603;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_24
+posX = -622.5817615;
+posY = 338.7545278;
+posZ = 1319.070254;
+rotX = 0;
+rotY = 128.9481812;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_25
+posX = -891.1729879;
+posY = 338.7545278;
+posZ = 1386.255642;
+rotX = 0;
+rotY = 52.77113734;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_26
+posX = -698.939148;
+posY = 338.7545278;
+posZ = 1378.78094;
+rotX = 0;
+rotY = 45.64564408;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_27
+posX = -1894.431804;
+posY = 338.7545278;
+posZ = 641.4145073;
+rotX = 0;
+rotY = -167.2381144;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_28
+posX = -542.3629521;
+posY = 338.7545278;
+posZ = 1079.934857;
+rotX = 0;
+rotY = 292.2516462;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_29
+posX = -198.6646704;
+posY = 338.7545278;
+posZ = 1516.703653;
+rotX = 0;
+rotY = 213.3055419;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_30
+posX = -455.2743039;
+posY = 338.7545278;
+posZ = 1358.900917;
+rotX = 0;
+rotY = 41.60832462;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_31
+posX = -321.7795986;
+posY = 338.7545278;
+posZ = 1131.995216;
+rotX = 0;
+rotY = 228.6111082;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_32
+posX = -130.7570689;
+posY = 338.7545278;
+posZ = 1387.398321;
+rotX = 0;
+rotY = -150.1297592;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_33
+posX = -426.2833459;
+posY = 338.7545278;
+posZ = 1187.183006;
+rotX = 0;
+rotY = 118.9122216;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_34
+posX = -2386.506476;
+posY = 338.7545278;
+posZ = 2463.352371;
+rotX = 0;
+rotY = 219.010079;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_35
+posX = -2200.642918;
+posY = 338.7545278;
+posZ = 2503.63393;
+rotX = 0;
+rotY = 128.9481812;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_36
+posX = -2408.485531;
+posY = 338.7545278;
+posZ = 2548.492963;
+rotX = 0;
+rotY = 119.5884398;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_37
+posX = -2204.762071;
+posY = 338.7545278;
+posZ = 2085.699113;
+rotX = 0;
+rotY = 57.69333668;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_38
+posX = -2233.417125;
+posY = 338.7545278;
+posZ = 2145.629165;
+rotX = 0;
+rotY = -35.62266424;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_39
+posX = 3040.595754;
+posY = 338.7545278;
+posZ = 2338.389976;
+rotX = 0;
+rotY = 180.6756474;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_40
+posX = -604.8184693;
+posY = 613.9686168;
+posZ = 5149.862992;
+rotX = 0;
+rotY = 128.9481812;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_41
+posX = 3863.394313;
+posY = 338.7545278;
+posZ = 1873.944863;
+rotX = 0;
+rotY = 251.3886619;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_42
+posX = 2328.66387;
+posY = 324.3290578;
+posZ = 2916.796962;
+rotX = 0;
+rotY = 33.07293033;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --house6_43
+posX = 1895.642751;
+posY = 324.3290578;
+posZ = 3052.457727;
+rotX = 0;
+rotY = -91.94329334;
+rotZ = 0;
+objectType = -1;
+objectResId = 8;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --windmill1_2
+posX = -2124.80057;
+posY = 495.274246;
+posZ = -132.0419393;
+rotX = 0;
+rotY = -151.2614686;
+rotZ = 0;
+objectType = -1;
+objectResId = 11;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --windmill1_3
+posX = -1788.555267;
+posY = 495.274246;
+posZ = -31.90320397;
+rotX = 0;
+rotY = -151.2614686;
+rotZ = 0;
+objectType = -1;
+objectResId = 11;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --windmill1_4
+posX = -1192.700647;
+posY = 495.274246;
+posZ = -4048.591723;
+rotX = 0;
+rotY = -151.2614686;
+rotZ = 0;
+objectType = -1;
+objectResId = 11;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --windmill1_5
+posX = -937.565565;
+posY = 495.274246;
+posZ = -4105.90224;
+rotX = 0;
+rotY = -151.2614686;
+rotZ = 0;
+objectType = -1;
+objectResId = 11;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --windmill1_6
+posX = 4082.861558;
+posY = 377.4295232;
+posZ = 1426.763235;
+rotX = 0;
+rotY = -151.2614686;
+rotZ = 0;
+objectType = -1;
+objectResId = 11;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --windmill1_7
+posX = 4248.023915;
+posY = 377.4295232;
+posZ = 1484.738593;
+rotX = 0;
+rotY = -151.2614686;
+rotZ = 0;
+objectType = -1;
+objectResId = 11;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --windmill1_8
+posX = 4169.150463;
+posY = 377.4295232;
+posZ = 1593.947988;
+rotX = 0;
+rotY = -151.2614686;
+rotZ = 0;
+objectType = -1;
+objectResId = 11;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --windmill1_9
+posX = -585.3581423;
+posY = 607.8640137;
+posZ = 5093.983396;
+rotX = 0;
+rotY = -151.2614686;
+rotZ = 0;
+objectType = -1;
+objectResId = 11;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --windmill1_10
+posX = -542.2496585;
+posY = 607.8640137;
+posZ = 5197.611856;
+rotX = 0;
+rotY = -151.2614686;
+rotZ = 0;
+objectType = -1;
+objectResId = 11;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --windmill2_2
+posX = -1951.313367;
+posY = 495.274246;
+posZ = -119.783712;
+rotX = 0;
+rotY = -151.2614686;
+rotZ = 0;
+objectType = -1;
+objectResId = 12;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --windmill2_3
+posX = -1769.878635;
+posY = 495.274246;
+posZ = -104.4981791;
+rotX = 0;
+rotY = -151.2614686;
+rotZ = 0;
+objectType = -1;
+objectResId = 12;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --windmill2_4
+posX = -2073.049977;
+posY = 495.274246;
+posZ = -39.00407857;
+rotX = 0;
+rotY = -151.2614686;
+rotZ = 0;
+objectType = -1;
+objectResId = 12;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --windmill2_5
+posX = -1064.062625;
+posY = 495.274246;
+posZ = -3971.44532;
+rotX = 0;
+rotY = -151.2614686;
+rotZ = 0;
+objectType = -1;
+objectResId = 12;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --windmill2_6
+posX = -1049.619524;
+posY = 495.274246;
+posZ = -4063.988668;
+rotX = 0;
+rotY = -151.2614686;
+rotZ = 0;
+objectType = -1;
+objectResId = 12;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --windmill2_7
+posX = -1233.51113;
+posY = 495.274246;
+posZ = -3939.331818;
+rotX = 0;
+rotY = -151.2614686;
+rotZ = 0;
+objectType = -1;
+objectResId = 12;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --windmill2_8
+posX = 4229.893377;
+posY = 377.4295232;
+posZ = 1337.687826;
+rotX = 0;
+rotY = -151.2614686;
+rotZ = 0;
+objectType = -1;
+objectResId = 12;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --windmill2_9
+posX = 4362.023263;
+posY = 377.4295232;
+posZ = 1469.143579;
+rotX = 0;
+rotY = -151.2614686;
+rotZ = 0;
+objectType = -1;
+objectResId = 12;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --windmill2_10
+posX = -699.1915517;
+posY = 607.8640137;
+posZ = 5205.117138;
+rotX = 0;
+rotY = -151.2614686;
+rotZ = 0;
+objectType = -1;
+objectResId = 12;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --windmill2_11
+posX = -520.0833025;
+posY = 607.8640137;
+posZ = 5024.978125;
+rotX = 0;
+rotY = -151.2614686;
+rotZ = 0;
+objectType = -1;
+objectResId = 12;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --windmill2_12
+posX = -681.3392007;
+posY = 607.8640137;
+posZ = 5088.145743;
+rotX = 0;
+rotY = -151.2614686;
+rotZ = 0;
+objectType = -1;
+objectResId = 12;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --factory1_2
+posX = 2659.59472;
+posY = 391.917343;
+posZ = 1831.563108;
+rotX = 0;
+rotY = 59.6967052;
+rotZ = 0;
+objectType = -1;
+objectResId = 27;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --factory1_3
+posX = 2833.432829;
+posY = 391.917343;
+posZ = 1465.554037;
+rotX = 0;
+rotY = -197.4864602;
+rotZ = 0;
+objectType = -1;
+objectResId = 27;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --factory1_4
+posX = 2777.127695;
+posY = 391.917343;
+posZ = 1575.435652;
+rotX = 0;
+rotY = -295.3490469;
+rotZ = 0;
+objectType = -1;
+objectResId = 27;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --factory1_5
+posX = 3220.20542;
+posY = 391.917343;
+posZ = 2078.594225;
+rotX = 0;
+rotY = -62.99086738;
+rotZ = 0;
+objectType = -1;
+objectResId = 27;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --factory2_2
+posX = 2706.642011;
+posY = 391.917343;
+posZ = 1725.622849;
+rotX = 0;
+rotY = 61.96023949;
+rotZ = 0;
+objectType = -1;
+objectResId = 28;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --factory2_3
+posX = 3008.929159;
+posY = 391.917343;
+posZ = 1759.780144;
+rotX = 0;
+rotY = 2.443279284;
+rotZ = 0;
+objectType = -1;
+objectResId = 28;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --factory2_4
+posX = 3311.339492;
+posY = 391.917343;
+posZ = 2221.839583;
+rotX = 0;
+rotY = -60.6294081;
+rotZ = 0;
+objectType = -1;
+objectResId = 28;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --chimneystack1_2
+posX = 2995.016986;
+posY = 420.4844915;
+posZ = 1508.3123;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 29;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --chimneystack1_3
+posX = 2995.857075;
+posY = 420.4844915;
+posZ = 1570.452798;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 29;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --chimneystack1_4
+posX = 2866.066658;
+posY = 321.0989075;
+posZ = 1760.883774;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 29;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --chimneystack1_5
+posX = 2994.131834;
+posY = 420.4844915;
+posZ = 2051.058669;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 29;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --chimneystack1_6
+posX = -968.199353;
+posY = 456.1735417;
+posZ = -3264.917902;
+rotX = 0;
+rotY = -8.123341906;
+rotZ = 0;
+objectType = -1;
+objectResId = 29;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --chimneystack1_7
+posX = -2411.162416;
+posY = 456.1735417;
+posZ = -3421.313152;
+rotX = 0;
+rotY = 27.98416078;
+rotZ = 0;
+objectType = -1;
+objectResId = 29;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --chimneystack1_8
+posX = 2994.131834;
+posY = 420.4844915;
+posZ = 2180.253737;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 29;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --chimneystack1_9
+posX = 2866.066658;
+posY = 321.0989075;
+posZ = 1890.078842;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 29;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --chimneystack1_10
+posX = -1665.894501;
+posY = 456.1735417;
+posZ = -3241.009346;
+rotX = 0;
+rotY = 5.481345766;
+rotZ = 0;
+objectType = -1;
+objectResId = 29;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 0;
+}
+,{ --haybale1_2
+posX = -2550.531687;
+posY = -1.818989404e-012;
+posZ = 173.4652937;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 202;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --haybale1_3
+posX = -2470.205007;
+posY = -1.818989404e-012;
+posZ = 147.1513812;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 202;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --haybale1_4
+posX = -2398.187984;
+posY = -1.818989404e-012;
+posZ = 8.657105387;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 202;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --haybale1_5
+posX = -2263.848536;
+posY = -1.818989404e-012;
+posZ = 300.8800274;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 202;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --haybale1_6
+posX = -2648.862623;
+posY = -1.818989404e-012;
+posZ = 426.9098185;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 202;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --haybale1_7
+posX = -2373.259014;
+posY = -1.818989404e-012;
+posZ = 554.3245522;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 202;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --haybale1_8
+posX = -2184.906799;
+posY = -1.818989404e-012;
+posZ = 608.3373198;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 202;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --haybale1_9
+posX = -1384.069804;
+posY = -1.818989404e-012;
+posZ = 873.5495714;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 202;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --haybale1_10
+posX = -1207.261637;
+posY = -1.818989404e-012;
+posZ = 785.1454875;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 202;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --haybale1_11
+posX = -1228.062598;
+posY = -1.818989404e-012;
+posZ = 909.9512529;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 202;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --haybale1_12
+posX = -1290.46548;
+posY = -1.818989404e-012;
+posZ = 1162.162904;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 202;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --haybale1_13
+posX = -1157.859355;
+posY = -1.818989404e-012;
+posZ = 1029.556778;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 202;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --haybale1_14
+posX = -968.0505863;
+posY = -1.818989404e-012;
+posZ = 1128.361342;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 202;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --haybale1_15
+posX = -1129.258033;
+posY = -1.818989404e-012;
+posZ = 1302.56939;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 202;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --haybale1_16
+posX = -1004.452268;
+posY = -1.818989404e-012;
+posZ = 826.7474093;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 202;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --haybale1_17
+posX = 862.5867521;
+posY = -3.637978807e-012;
+posZ = 3354.004751;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 202;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --haybale1_18
+posX = 820.0148475;
+posY = -3.637978807e-012;
+posZ = 3445.534346;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 202;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --haybale1_19
+posX = 886.0012997;
+posY = -3.637978807e-012;
+posZ = 3554.092703;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 202;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --haybale1_20
+posX = 926.4446092;
+posY = -3.637978807e-012;
+posZ = 3439.148561;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 202;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --haybale1_21
+posX = 1000.945442;
+posY = -3.637978807e-012;
+posZ = 3322.075823;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 202;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --haybale1_22
+posX = 1005.202633;
+posY = -3.637978807e-012;
+posZ = 3571.121465;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 202;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --hotairballoon1_2
+posX = -801.0281774;
+posY = 668.5930467;
+posZ = 2554.081736;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 203;
+objectGroupId = -1;
+objectSnapToGrid = 0;
+objectOrientateToGrid = 0;
+}
+,{ --hotairballoon1_3
+posX = -5490.343333;
+posY = 858.050211;
+posZ = 73.55247094;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 203;
+objectGroupId = -1;
+objectSnapToGrid = 0;
+objectOrientateToGrid = 0;
+}
+,{ --hotairballoon1_4
+posX = -3525.429702;
+posY = 666.4209194;
+posZ = -539.6120666;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 203;
+objectGroupId = -1;
+objectSnapToGrid = 0;
+objectOrientateToGrid = 0;
+}
+,{ --hotairballoon1_5
+posX = -2697.889836;
+posY = 851.9278043;
+posZ = -2752.014566;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 203;
+objectGroupId = -1;
+objectSnapToGrid = 0;
+objectOrientateToGrid = 0;
+}
+,{ --p84_figurine1
+posX = -3123.581164;
+posY = 448.5498352;
+posZ = -2614.030806;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 9206;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --target_balloon_1
+posX = -3758.368912;
+posY = 705.3235352;
+posZ = -618.5329511;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 300;
+objectGroupId = -1;
+objectSnapToGrid = 0;
+objectOrientateToGrid = 0;
+}
+,{ --target_balloon_2
+posX = -2091.933519;
+posY = 693.8798889;
+posZ = -3294.546322;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 300;
+objectGroupId = -1;
+objectSnapToGrid = 0;
+objectOrientateToGrid = 0;
+}
+,{ --target_balloon_3
+posX = 1229.083111;
+posY = 1030.894253;
+posZ = -3767.912661;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 300;
+objectGroupId = -1;
+objectSnapToGrid = 0;
+objectOrientateToGrid = 0;
+}
+,{ --target_balloon_4
+posX = 6250;
+posY = 840.3871171;
+posZ = -1000;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 300;
+objectGroupId = -1;
+objectSnapToGrid = 0;
+objectOrientateToGrid = 0;
+}
+,{ --target_balloon_5
+posX = 3488.29739;
+posY = 840.3871171;
+posZ = 2042.360207;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 300;
+objectGroupId = -1;
+objectSnapToGrid = 0;
+objectOrientateToGrid = 0;
+}
+,{ --target_balloon_6
+posX = 1597.408475;
+posY = 840.3871171;
+posZ = 146.1384225;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 300;
+objectGroupId = -1;
+objectSnapToGrid = 0;
+objectOrientateToGrid = 0;
+}
+,{ --target_balloon_7
+posX = 1414.185981;
+posY = 1037.110866;
+posZ = -1983.459141;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 300;
+objectGroupId = -1;
+objectSnapToGrid = 0;
+objectOrientateToGrid = 0;
+}
+,{ --target_balloon_8
+posX = -6115.487084;
+posY = 361.5735769;
+posZ = 3449.753009;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 300;
+objectGroupId = -1;
+objectSnapToGrid = 0;
+objectOrientateToGrid = 0;
+}
+,{ --target_balloon_9
+posX = -1533.89716;
+posY = 814.7421246;
+posZ = 3087.902083;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 300;
+objectGroupId = -1;
+objectSnapToGrid = 0;
+objectOrientateToGrid = 0;
+}
+,{ --target_balloon_10
+posX = 577.3738126;
+posY = 373.2894221;
+posZ = 5865.458015;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 300;
+objectGroupId = -1;
+objectSnapToGrid = 0;
+objectOrientateToGrid = 0;
+}
+,{ --target_circle_1
+posX = -2437.768126;
+posY = 347.5622816;
+posZ = 338.630284;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 301;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --target_circle_2
+posX = -6188.875005;
+posY = 379.3074685;
+posZ = -2189.907965;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 301;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --target_circle_3
+posX = -1665.894501;
+posY = 638.1094095;
+posZ = -3241.009346;
+rotX = 90;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 301;
+objectGroupId = -1;
+objectSnapToGrid = 0;
+objectOrientateToGrid = 0;
+}
+,{ --target_circle_4
+posX = 1187.676801;
+posY = 321.0989075;
+posZ = 2090.026511;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 301;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --target_circle_5
+posX = 3575.677589;
+posY = 583.2578216;
+posZ = -419.0555129;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 301;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --target_circle_6
+posX = 3979.656635;
+posY = 949.3576185;
+posZ = -1694.801633;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 301;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --target_circle_7
+posX = 3483.376811;
+posY = 170.8034523;
+posZ = -7183.588182;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 301;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --target_circle_8
+posX = 7509.931741;
+posY = 2.471557617;
+posZ = -4989.154436;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 301;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --target_circle_9
+posX = 6021.465711;
+posY = 177.5163609;
+posZ = 6077.044702;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 301;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --target_circle_10
+posX = -801.0281774;
+posY = 603.3962487;
+posZ = 2554.081736;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 301;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --target_crate_1
+posX = -4867.360408;
+posY = 129.9224854;
+posZ = -6107.923883;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 302;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --target_crate_2
+posX = 1367.294912;
+posY = 257.3734436;
+posZ = -6855.481785;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 302;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --target_crate_3
+posX = 4618.528291;
+posY = 767.1771851;
+posZ = -3385.873578;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 302;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --target_crate_4
+posX = 598.7223648;
+posY = 1276.980957;
+posZ = -2585.407987;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 302;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --target_crate_5
+posX = -3382.197347;
+posY = 1276.980957;
+posZ = 4295.638755;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 302;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --target_crate_6
+posX = -806.3081219;
+posY = 1276.980957;
+posZ = 5862.788144;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 302;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --target_crate_7
+posX = 2472.096347;
+posY = 1276.980957;
+posZ = 4349.67839;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 302;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --target_crate_8
+posX = 6957.385978;
+posY = 1276.980957;
+posZ = 1359.485303;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 302;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --target_crate_9
+posX = -2121.272552;
+posY = 1276.980957;
+posZ = -1738.787053;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 302;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+,{ --target_crate_10
+posX = -6732.654662;
+posY = 1276.980957;
+posZ = 6583.316599;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+objectType = -1;
+objectResId = 302;
+objectGroupId = -1;
+objectSnapToGrid = 1;
+objectOrientateToGrid = 1;
+}
+};
+types = {
+{ --taku_1
+baseType = 0;
+baseId = 2000;
+posX = -7019.39654;
+posY = 510.0959131;
+posZ = -2991.432356;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --taku_2
+baseType = 0;
+baseId = 2000;
+posX = -3045.064982;
+posY = 238.5668564;
+posZ = -5252.74137;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --taku_3
+baseType = 0;
+baseId = 2000;
+posX = 627.0250717;
+posY = 685.012129;
+posZ = -3493.55431;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --taku_4
+baseType = 0;
+baseId = 2000;
+posX = 6498.053627;
+posY = 408.3357513;
+posZ = -4547.803359;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --taku_5
+baseType = 0;
+baseId = 2000;
+posX = -3525.429702;
+posY = 588.9546287;
+posZ = -539.6120666;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --taku_6
+baseType = 0;
+baseId = 2000;
+posX = 4733.006781;
+posY = 382.8817872;
+posZ = 1454.643728;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --taku_7
+baseType = 0;
+baseId = 2000;
+posX = -5448.353982;
+posY = 96.41855628;
+posZ = 3536.013202;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --taku_8
+baseType = 0;
+baseId = 2000;
+posX = -801.0281774;
+posY = 340.7375826;
+posZ = 2554.081736;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --taku_9
+baseType = 0;
+baseId = 2000;
+posX = 6662.948269;
+posY = 369.6774899;
+posZ = 5298.102046;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --taku_10
+baseType = 0;
+baseId = 2000;
+posX = 2903.522808;
+posY = -43.60908547;
+posZ = 6418.412596;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --mei_1
+baseType = 0;
+baseId = 2001;
+posX = -955.8328575;
+posY = 202.1686674;
+posZ = -6573.138857;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --mei_2
+baseType = 0;
+baseId = 2001;
+posX = -6606.656449;
+posY = -97.21978395;
+posZ = -4763.21129;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --mei_3
+baseType = 0;
+baseId = 2001;
+posX = 3048.269225;
+posY = 791.7895474;
+posZ = -5206.373996;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --mei_4
+baseType = 0;
+baseId = 2001;
+posX = 562.4763473;
+posY = 390.8893712;
+posZ = -729.3991682;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --mei_5
+baseType = 0;
+baseId = 2001;
+posX = 4693.557021;
+posY = 362.6161191;
+posZ = -973.3884447;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --mei_6
+baseType = 0;
+baseId = 2001;
+posX = -7015.763914;
+posY = 297.2735785;
+posZ = 1174.583797;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --mei_7
+baseType = 0;
+baseId = 2001;
+posX = -1161.103446;
+posY = 342.3457174;
+posZ = 1004.694959;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --mei_8
+baseType = 0;
+baseId = 2001;
+posX = 2246.211775;
+posY = 334.4686208;
+posZ = 2879.066825;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --mei_9
+baseType = 0;
+baseId = 2001;
+posX = -2293.801759;
+posY = 425.194984;
+posZ = 6202.696198;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --mei_10
+baseType = 0;
+baseId = 2001;
+posX = 6161.545772;
+posY = 235.9692008;
+posZ = 6184.086016;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --earl_1
+baseType = 0;
+baseId = 2002;
+posX = -5629.529691;
+posY = 144.5941935;
+posZ = -6100.094771;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --earl_2
+baseType = 0;
+baseId = 2002;
+posX = 1030.212183;
+posY = 197.4895427;
+posZ = -5776.862714;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --earl_3
+baseType = 0;
+baseId = 2002;
+posX = -2697.889836;
+posY = 938.7678989;
+posZ = -2752.014566;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --earl_4
+baseType = 0;
+baseId = 2002;
+posX = 5322.488046;
+posY = 692.6398527;
+posZ = -2925.027278;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --earl_5
+baseType = 0;
+baseId = 2002;
+posX = -4433.409357;
+posY = 474.4769552;
+posZ = -1594.929277;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --earl_6
+baseType = 0;
+baseId = 2002;
+posX = 872.462908;
+posY = 333.5953384;
+posZ = 1485.203904;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --earl_7
+baseType = 0;
+baseId = 2002;
+posX = 6814.668377;
+posY = 829.893883;
+posZ = 890.5130624;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --earl_8
+baseType = 0;
+baseId = 2002;
+posX = -3370.18678;
+posY = 627.2553715;
+posZ = 4931.67644;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --earl_9
+baseType = 0;
+baseId = 2002;
+posX = 3096.780567;
+posY = 58.08180374;
+posZ = 5520.938214;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --earl_10
+baseType = 0;
+baseId = 2002;
+posX = -6500;
+posY = -54.84587689;
+posZ = 6160.454893;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --fio_1
+baseType = 0;
+baseId = 2003;
+posX = 4500;
+posY = 44.41992319;
+posZ = -7499.332161;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --fio_2
+baseType = 0;
+baseId = 2003;
+posX = -4500;
+posY = 239.0662088;
+posZ = -4250;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --fio_3
+baseType = 0;
+baseId = 2003;
+posX = -968.199353;
+posY = 592.5703298;
+posZ = -3264.917902;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --fio_4
+baseType = 0;
+baseId = 2003;
+posX = 2500;
+posY = 1702.601351;
+posZ = -2500;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --fio_5
+baseType = 0;
+baseId = 2003;
+posX = 6250;
+posY = 137.602806;
+posZ = -500;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --fio_6
+baseType = 0;
+baseId = 2003;
+posX = -2110.968356;
+posY = 369.7207996;
+posZ = 139.978676;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --fio_7
+baseType = 0;
+baseId = 2003;
+posX = 5750;
+posY = 648.7469114;
+posZ = 3750;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --fio_8
+baseType = 0;
+baseId = 2003;
+posX = -6750;
+posY = -7.951749394;
+posZ = 2500;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --fio_9
+baseType = 0;
+baseId = 2003;
+posX = -5250;
+posY = -58.95044903;
+posZ = 6750;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --fio_10
+baseType = 0;
+baseId = 2003;
+posX = 500;
+posY = 177.9165231;
+posZ = 6750;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --mito_1
+baseType = 0;
+baseId = 2004;
+posX = -6500;
+posY = 264.3243029;
+posZ = -6500;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --mito_2
+baseType = 0;
+baseId = 2004;
+posX = 3500;
+posY = 51.05906361;
+posZ = -7313.629564;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --mito_3
+baseType = 0;
+baseId = 2004;
+posX = -4623.570798;
+posY = 524.8273712;
+posZ = -2237.689057;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --mito_4
+baseType = 0;
+baseId = 2004;
+posX = 6750;
+posY = 595.1558816;
+posZ = -3500;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --mito_5
+baseType = 0;
+baseId = 2004;
+posX = 2866.066658;
+posY = 397.1550223;
+posZ = 1821.543643;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --mito_6
+baseType = 0;
+baseId = 2004;
+posX = -2303.883929;
+posY = 338.4366042;
+posZ = 2531.704543;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --mito_7
+baseType = 0;
+baseId = 2004;
+posX = 6250;
+posY = 606.7336295;
+posZ = 2250;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --mito_8
+baseType = 0;
+baseId = 2004;
+posX = -7161.609651;
+posY = -32.24410359;
+posZ = 5453.459393;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --mito_9
+baseType = 0;
+baseId = 2004;
+posX = -1750;
+posY = 673.2169575;
+posZ = 4500;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --mito_10
+baseType = 0;
+baseId = 2004;
+posX = 5750;
+posY = 194.0231908;
+posZ = 7000;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --uki_1
+baseType = 0;
+baseId = 2005;
+posX = -3250;
+posY = 274.5537714;
+posZ = -6250;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --uki_2
+baseType = 0;
+baseId = 2005;
+posX = 298.1115017;
+posY = 368.7982986;
+posZ = -6588.193664;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --uki_3
+baseType = 0;
+baseId = 2005;
+posX = -750;
+posY = 509.9240696;
+posZ = -4558.931428;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --uki_4
+baseType = 0;
+baseId = 2005;
+posX = 5750;
+posY = 1034.292241;
+posZ = -5750;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --uki_5
+baseType = 0;
+baseId = 2005;
+posX = -676.7728845;
+posY = 398.4757677;
+posZ = -399.3622497;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --uki_6
+baseType = 0;
+baseId = 2005;
+posX = 3173.793639;
+posY = 709.1925334;
+posZ = -588.4486223;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --uki_7
+baseType = 0;
+baseId = 2005;
+posX = -5390.399474;
+posY = 245.8645799;
+posZ = 905.9027402;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --uki_8
+baseType = 0;
+baseId = 2005;
+posX = 910.9246281;
+posY = 402.9701014;
+posZ = 3447.891839;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --uki_9
+baseType = 0;
+baseId = 2005;
+posX = 4250;
+posY = 221.1214902;
+posZ = 5500;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --uki_10
+baseType = 0;
+baseId = 2005;
+posX = -1000;
+posY = 620.1140606;
+posZ = 6750;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --star_1
+baseType = 0;
+baseId = 3000;
+posX = 1878.683644;
+posY = 884.1027851;
+posZ = -1916.081985;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --star_2
+baseType = 0;
+baseId = 3000;
+posX = 5933.818148;
+posY = 129.1865137;
+posZ = -548.317038;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --star_3
+baseType = 0;
+baseId = 3000;
+posX = -5490.343333;
+posY = 786.4109877;
+posZ = 73.55247094;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --star_4
+baseType = 0;
+baseId = 3000;
+posX = -5306.944688;
+posY = 258.8506187;
+posZ = 5590.515602;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --star_5
+baseType = 0;
+baseId = 3000;
+posX = -1144.302476;
+posY = 478.7586535;
+posZ = -3968.010073;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --hiddentoken_1
+baseType = 0;
+baseId = 3001;
+posX = -2411.162416;
+posY = 596.7471924;
+posZ = -3421.313152;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --hiddentoken_2
+baseType = 0;
+baseId = 3001;
+posX = 4616.424893;
+posY = 1075.002073;
+posZ = -4093.332986;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --hiddentoken_3
+baseType = 0;
+baseId = 3001;
+posX = -801.0281774;
+posY = 738.5330032;
+posZ = 2554.081736;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --hiddentoken_4
+baseType = 0;
+baseId = 3001;
+posX = 183.0914462;
+posY = 1311.079312;
+posZ = -2281.587657;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --hiddentoken_5
+baseType = 0;
+baseId = 3001;
+posX = -2057.934645;
+posY = 357.5488873;
+posZ = 1894.371663;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+}
+,{ --spawn_1
+baseType = 1;
+baseId = 1000;
+posX = -7000;
+posY = 266.1970215;
+posZ = -7000;
+rotX = 0;
+rotY = 45;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_2
+baseType = 1;
+baseId = 1000;
+posX = -5000;
+posY = 329.9224854;
+posZ = -7000;
+rotX = 0;
+rotY = 35.53767779;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_3
+baseType = 1;
+baseId = 1000;
+posX = -3000;
+posY = 425.5111694;
+posZ = -7000;
+rotX = 0;
+rotY = 23.19859051;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_4
+baseType = 1;
+baseId = 1000;
+posX = -1000;
+posY = 202.4715576;
+posZ = -7000;
+rotX = 0;
+rotY = 8.130102354;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_5
+baseType = 1;
+baseId = 1000;
+posX = 1000;
+posY = 521.0989075;
+posZ = -7000;
+rotX = 0;
+rotY = -8.130102354;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_6
+baseType = 1;
+baseId = 1000;
+posX = 3000;
+posY = 625.9605435;
+posZ = -7000;
+rotX = 0;
+rotY = -23.19859051;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_7
+baseType = 1;
+baseId = 1000;
+posX = 5000;
+posY = 834.264822;
+posZ = -7000;
+rotX = 0;
+rotY = -35.53767779;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_8
+baseType = 1;
+baseId = 1000;
+posX = 7000;
+posY = 644.8422808;
+posZ = -7000;
+rotX = 0;
+rotY = -45;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_9
+baseType = 1;
+baseId = 1000;
+posX = -7000;
+posY = 170.609314;
+posZ = -5000;
+rotX = 0;
+rotY = 54.46232221;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_10
+baseType = 1;
+baseId = 1000;
+posX = -5000;
+posY = 266.1970215;
+posZ = -5000;
+rotX = 0;
+rotY = 45;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_11
+baseType = 1;
+baseId = 1000;
+posX = -3000;
+posY = 393.6479492;
+posZ = -5000;
+rotX = 0;
+rotY = 30.96375653;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_12
+baseType = 1;
+baseId = 1000;
+posX = -1000;
+posY = 680.4130554;
+posZ = -5000;
+rotX = 0;
+rotY = 11.30993247;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_13
+baseType = 1;
+baseId = 1000;
+posX = 1000;
+posY = 822.9444478;
+posZ = -5000;
+rotX = 0;
+rotY = -11.30993247;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_14
+baseType = 1;
+baseId = 1000;
+posX = 3000.000488;
+posY = 1326.290269;
+posZ = -5000;
+rotX = 0;
+rotY = -30.96376065;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_15
+baseType = 1;
+baseId = 1000;
+posX = 5000;
+posY = 1094.628174;
+posZ = -5000;
+rotX = 0;
+rotY = -45;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_16
+baseType = 1;
+baseId = 1000;
+posX = 7000;
+posY = 906.9295314;
+posZ = -5000;
+rotX = 0;
+rotY = -54.46232221;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_17
+baseType = 1;
+baseId = 1000;
+posX = -7000;
+posY = 552.9621277;
+posZ = -3000;
+rotX = 0;
+rotY = 66.80140949;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_18
+baseType = 1;
+baseId = 1000;
+posX = -5000;
+posY = 552.9621277;
+posZ = -3000;
+rotX = 0;
+rotY = 59.03624347;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_19
+baseType = 1;
+baseId = 1000;
+posX = -3000;
+posY = 648.5498352;
+posZ = -3000;
+rotX = 0;
+rotY = 45;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_20
+baseType = 1;
+baseId = 1000;
+posX = -1000;
+posY = 648.5498352;
+posZ = -3000;
+rotX = 0;
+rotY = 18.43494882;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_21
+baseType = 1;
+baseId = 1000;
+posX = 1000;
+posY = 1652.71051;
+posZ = -3000;
+rotX = 0;
+rotY = -18.43494882;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_22
+baseType = 1;
+baseId = 1000;
+posX = 3000;
+posY = 1722.62742;
+posZ = -3000;
+rotX = 0;
+rotY = -45;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_23
+baseType = 1;
+baseId = 1000;
+posX = 5000;
+posY = 839.7262573;
+posZ = -3000;
+rotX = 0;
+rotY = -59.03624347;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_24
+baseType = 1;
+baseId = 1000;
+posX = 7000;
+posY = 648.5498352;
+posZ = -3000;
+rotX = 0;
+rotY = -66.80140949;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_25
+baseType = 1;
+baseId = 1000;
+posX = -7000;
+posY = 266.1970215;
+posZ = -1000;
+rotX = 0;
+rotY = 81.86989765;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_26
+baseType = 1;
+baseId = 1000;
+posX = -5000;
+posY = 521.0989075;
+posZ = -1000;
+rotX = 0;
+rotY = 78.69006753;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_27
+baseType = 1;
+baseId = 1000;
+posX = -3000;
+posY = 521.0989075;
+posZ = -1000;
+rotX = 0;
+rotY = 71.56505118;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_28
+baseType = 1;
+baseId = 1000;
+posX = -1000;
+posY = 521.0989075;
+posZ = -1000;
+rotX = 0;
+rotY = 45;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_29
+baseType = 1;
+baseId = 1000;
+posX = 1000;
+posY = 521.0989075;
+posZ = -1000;
+rotX = 0;
+rotY = -45;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_30
+baseType = 1;
+baseId = 1000;
+posX = 3000;
+posY = 1528.346694;
+posZ = -1000;
+rotX = 0;
+rotY = -71.56505118;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_31
+baseType = 1;
+baseId = 1000;
+posX = 5000;
+posY = 457.3734436;
+posZ = -1000;
+rotX = 0;
+rotY = -78.69006753;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_32
+baseType = 1;
+baseId = 1000;
+posX = 7000;
+posY = 298.0602417;
+posZ = -1000;
+rotX = 0;
+rotY = -81.86989765;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_33
+baseType = 1;
+baseId = 1000;
+posX = -7000;
+posY = 521.0989075;
+posZ = 1000;
+rotX = 0;
+rotY = 98.13010235;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_34
+baseType = 1;
+baseId = 1000;
+posX = -5000;
+posY = 457.3734436;
+posZ = 1000;
+rotX = 0;
+rotY = 101.3099325;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_35
+baseType = 1;
+baseId = 1000;
+posX = -3000;
+posY = 521.0989075;
+posZ = 1000;
+rotX = 0;
+rotY = 108.4349488;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_36
+baseType = 1;
+baseId = 1000;
+posX = -1000;
+posY = 521.0989075;
+posZ = 1000;
+rotX = 0;
+rotY = 135;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_37
+baseType = 1;
+baseId = 1000;
+posX = 1000;
+posY = 521.0989075;
+posZ = 1000;
+rotX = 0;
+rotY = 225;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_38
+baseType = 1;
+baseId = 1000;
+posX = 3000;
+posY = 521.0989075;
+posZ = 1000;
+rotX = 0;
+rotY = 251.5650512;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_39
+baseType = 1;
+baseId = 1000;
+posX = 5000;
+posY = 552.9621277;
+posZ = 1000;
+rotX = 0;
+rotY = 258.6900675;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_40
+baseType = 1;
+baseId = 1000;
+posX = 7000;
+posY = 999.0404053;
+posZ = 1000;
+rotX = 0;
+rotY = 261.8698976;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_41
+baseType = 1;
+baseId = 1000;
+posX = -7000;
+posY = 138.7470093;
+posZ = 3000;
+rotX = 0;
+rotY = 113.1985905;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_42
+baseType = 1;
+baseId = 1000;
+posX = -5000;
+posY = 393.6479492;
+posZ = 3000;
+rotX = 0;
+rotY = 120.9637565;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_43
+baseType = 1;
+baseId = 1000;
+posX = -3000;
+posY = 521.0989075;
+posZ = 3000;
+rotX = 0;
+rotY = 135;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_44
+baseType = 1;
+baseId = 1000;
+posX = -1000;
+posY = 521.0989075;
+posZ = 3000;
+rotX = 0;
+rotY = 161.5650512;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_45
+baseType = 1;
+baseId = 1000;
+posX = 1000;
+posY = 521.0989075;
+posZ = 3000;
+rotX = 0;
+rotY = 198.4349488;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_46
+baseType = 1;
+baseId = 1000;
+posX = 3000;
+posY = 489.2366333;
+posZ = 3000;
+rotX = 0;
+rotY = 225;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_47
+baseType = 1;
+baseId = 1000;
+posX = 5000;
+posY = 680.4130554;
+posZ = 3000;
+rotX = 0;
+rotY = 239.0362435;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_48
+baseType = 1;
+baseId = 1000;
+posX = 7000;
+posY = 776.0007935;
+posZ = 3000;
+rotX = 0;
+rotY = 246.8014095;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_49
+baseType = 1;
+baseId = 1000;
+posX = -7000;
+posY = 202.4715576;
+posZ = 5000;
+rotX = 0;
+rotY = 125.5376778;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_50
+baseType = 1;
+baseId = 1000;
+posX = -5000;
+posY = 361.7857056;
+posZ = 5000;
+rotX = 0;
+rotY = 135;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_51
+baseType = 1;
+baseId = 1000;
+posX = -3000;
+posY = 744.1385498;
+posZ = 5000;
+rotX = 0;
+rotY = 149.0362435;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_52
+baseType = 1;
+baseId = 1000;
+posX = -1000;
+posY = 807.8640137;
+posZ = 5000;
+rotX = 0;
+rotY = 168.6900675;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_53
+baseType = 1;
+baseId = 1000;
+posX = 1000;
+posY = 457.3734436;
+posZ = 5000;
+rotX = 0;
+rotY = 191.3099325;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_54
+baseType = 1;
+baseId = 1000;
+posX = 3000;
+posY = 361.7857056;
+posZ = 5000;
+rotX = 0;
+rotY = 210.9637565;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_55
+baseType = 1;
+baseId = 1000;
+posX = 5000;
+posY = 552.9621277;
+posZ = 5000;
+rotX = 0;
+rotY = 225;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_56
+baseType = 1;
+baseId = 1000;
+posX = 7000;
+posY = 842.7887864;
+posZ = 5000;
+rotX = 0;
+rotY = 234.4623222;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_57
+baseType = 1;
+baseId = 1000;
+posX = -7000;
+posY = 457.3734436;
+posZ = 7000;
+rotX = 0;
+rotY = 135;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_58
+baseType = 1;
+baseId = 1000;
+posX = -5000;
+posY = 555.5529337;
+posZ = 7000;
+rotX = 0;
+rotY = 144.4623222;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_59
+baseType = 1;
+baseId = 1000;
+posX = -3000;
+posY = 636.450243;
+posZ = 7000;
+rotX = 0;
+rotY = 156.8014095;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_60
+baseType = 1;
+baseId = 1000;
+posX = -1000;
+posY = 776.0007935;
+posZ = 7000;
+rotX = 0;
+rotY = 171.8698976;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_61
+baseType = 1;
+baseId = 1000;
+posX = 1000;
+posY = 266.1970215;
+posZ = 7000;
+rotX = 0;
+rotY = 188.1301024;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_62
+baseType = 1;
+baseId = 1000;
+posX = 3000;
+posY = 75.02062988;
+posZ = 7000;
+rotX = 0;
+rotY = 203.1985905;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_63
+baseType = 1;
+baseId = 1000;
+posX = 5000;
+posY = 489.2366333;
+posZ = 7000;
+rotX = 0;
+rotY = 215.5376778;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --spawn_64
+baseType = 1;
+baseId = 1000;
+posX = 7000;
+posY = 616.6875916;
+posZ = 7000;
+rotX = 0;
+rotY = 225;
+rotZ = 0;
+spawnType = 0;
+spawnGroup = -1;
+}
+,{ --gate_group_0_spawn
+baseType = 1;
+baseId = 1000;
+posX = -431.0925617;
+posY = 672.8519672;
+posZ = -1565.113006;
+rotX = 0;
+rotY = 28.05966085;
+rotZ = 0;
+spawnType = 1;
+spawnGroup = 0;
+}
+,{ --gate_group_1_spawn
+baseType = 1;
+baseId = 1000;
+posX = 3764.784912;
+posY = 852.3844604;
+posZ = 3509.185059;
+rotX = 0;
+rotY = 133.0388636;
+rotZ = 0;
+spawnType = 1;
+spawnGroup = 1;
+}
+,{ --gate_group_2_spawn
+baseType = 1;
+baseId = 1000;
+posX = 3707.270508;
+posY = 359.809906;
+posZ = 6839.474121;
+rotX = 0;
+rotY = -90.49837556;
+rotZ = 0;
+spawnType = 1;
+spawnGroup = 2;
+}
+,{ --industrial_zone
+baseType = 2;
+baseId = 1000;
+posX = 2917.243721;
+posY = 189.0040725;
+posZ = 1681.003664;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+gateType = 2;
+gateModelId = -1;
+gateGroupId = -1;
+gateNumber = 0;
+gateAlwaysDraw = 0;
+gateCollisionType = 1;
+gateSphereRadius = 1;
+gateBoxWidth = 800;
+gateBoxHeight = 1000;
+gateBoxDepth = 800;
+gateAchievement = 86;
+gateTextId = 4900;
+}
+,{ --mountain_top
+baseType = 2;
+baseId = 1000;
+posX = 2330.681145;
+posY = 1594.654436;
+posZ = -2440.975273;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+gateType = 2;
+gateModelId = -1;
+gateGroupId = -1;
+gateNumber = 0;
+gateAlwaysDraw = 0;
+gateCollisionType = 1;
+gateSphereRadius = 500;
+gateBoxWidth = 2000;
+gateBoxHeight = 500;
+gateBoxDepth = 2000;
+gateAchievement = 87;
+gateTextId = 4901;
+}
+,{ --p84_figurine1
+baseType = 2;
+baseId = 1000;
+posX = -3123.581164;
+posY = 448.5498352;
+posZ = -2614.030806;
+rotX = 0;
+rotY = 0;
+rotZ = 0;
+gateType = 2;
+gateModelId = -1;
+gateGroupId = -1;
+gateNumber = 0;
+gateAlwaysDraw = 0;
+gateCollisionType = 1;
+gateSphereRadius = 500;
+gateBoxWidth = 75;
+gateBoxHeight = 75;
+gateBoxDepth = 75;
+gateAchievement = 76;
+gateTextId = 5005;
+}
+,{ --gate_group_0_gate0
+baseType = 2;
+baseId = 1000;
+posX = 439.8588731;
+posY = 439.7704652;
+posZ = -96.89002765;
+rotX = 0;
+rotY = 54.34963938;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 0;
+gateNumber = 0;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_0_gate1
+baseType = 2;
+baseId = 1000;
+posX = 2214.068937;
+posY = 482.8561076;
+posZ = 1158.988227;
+rotX = 0;
+rotY = 7.113355862;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 0;
+gateNumber = 1;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_0_gate2
+baseType = 2;
+baseId = 1000;
+posX = 2308.387647;
+posY = 432.0570619;
+posZ = 2632.547908;
+rotX = 0;
+rotY = -53.56373187;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 0;
+gateNumber = 2;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_0_gate3
+baseType = 2;
+baseId = 1000;
+posX = 1190.196009;
+posY = 422.5640279;
+posZ = 3445.7169;
+rotX = 0;
+rotY = -111.8602415;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 0;
+gateNumber = 3;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_0_gate4
+baseType = 2;
+baseId = 1000;
+posX = -801.0281774;
+posY = 519.9492641;
+posZ = 2554.081736;
+rotX = 0;
+rotY = -129.2049601;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 0;
+gateNumber = 4;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_0_gate5
+baseType = 2;
+baseId = 1000;
+posX = -1941.98923;
+posY = 416.3841504;
+posZ = 1576.096153;
+rotX = 0;
+rotY = -108.3900153;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 0;
+gateNumber = 5;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_0_gate6
+baseType = 2;
+baseId = 1000;
+posX = -3723.498497;
+posY = 566.678217;
+posZ = 1068.652273;
+rotX = 0;
+rotY = -114.2756054;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 0;
+gateNumber = 6;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_0_gate7
+baseType = 2;
+baseId = 1000;
+posX = -5577.237629;
+posY = 755.74176;
+posZ = 176.4759156;
+rotX = 0;
+rotY = -152.3809165;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 0;
+gateNumber = 7;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_0_gate8
+baseType = 2;
+baseId = 1000;
+posX = -6301.155168;
+posY = 312.0243329;
+posZ = -1267.210052;
+rotX = 0;
+rotY = 129.1374106;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 0;
+gateNumber = 8;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_0_gate9
+baseType = 2;
+baseId = 1000;
+posX = -5262.596063;
+posY = 475.6453071;
+posZ = -2032.13113;
+rotX = 0;
+rotY = 138.408331;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 0;
+gateNumber = 9;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_0_gate10
+baseType = 2;
+baseId = 1000;
+posX = -4172.807797;
+posY = 705.4255268;
+posZ = -3310.484294;
+rotX = 0;
+rotY = 86.27814565;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 0;
+gateNumber = 10;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_0_gate11
+baseType = 2;
+baseId = 1000;
+posX = -2442.858192;
+posY = 551.7228801;
+posZ = -3237.398711;
+rotX = 0;
+rotY = 143.3655763;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 0;
+gateNumber = 11;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_0_gate12
+baseType = 2;
+baseId = 1000;
+posX = -1466.881361;
+posY = 551.7228801;
+posZ = -4680.839049;
+rotX = 0;
+rotY = 76.38048901;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 0;
+gateNumber = 12;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_0_gate13
+baseType = 2;
+baseId = 1000;
+posX = -135.6434066;
+posY = 613.9775833;
+posZ = -4339.344493;
+rotX = 0;
+rotY = -24.43445572;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 0;
+gateNumber = 13;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_0_gate14
+baseType = 2;
+baseId = 1000;
+posX = -656.2965432;
+posY = 572.0275974;
+posZ = -3215.983235;
+rotX = 0;
+rotY = 3.365937704;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 0;
+gateNumber = 14;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_0_gate15
+baseType = 2;
+baseId = 1000;
+posX = -531.018619;
+posY = 672.8519672;
+posZ = -1736.414819;
+rotX = 0;
+rotY = 29.01726101;
+rotZ = 0;
+gateType = 0;
+gateModelId = 201;
+gateGroupId = 0;
+gateNumber = 15;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_1_gate0
+baseType = 2;
+baseId = 1000;
+posX = 5343.847168;
+posY = 692.1809692;
+posZ = 2091.650879;
+rotX = 0;
+rotY = 178.8873913;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 1;
+gateNumber = 0;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_1_gate1
+baseType = 2;
+baseId = 1000;
+posX = 5529.184621;
+posY = 375.974498;
+posZ = -275.4726563;
+rotX = 0;
+rotY = -163.8500469;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 1;
+gateNumber = 1;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_1_gate2
+baseType = 2;
+baseId = 1000;
+posX = 4754.244141;
+posY = 1041.080078;
+posZ = -2413.928223;
+rotX = 0;
+rotY = -107.5083925;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 1;
+gateNumber = 2;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_1_gate3
+baseType = 2;
+baseId = 1000;
+posX = 1440.996094;
+posY = 1767.067505;
+posZ = -2784.352051;
+rotX = 0;
+rotY = -49.47952626;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 1;
+gateNumber = 3;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_1_gate4
+baseType = 2;
+baseId = 1000;
+posX = 199.2642212;
+posY = 992.5488892;
+posZ = -1628.486938;
+rotX = 0;
+rotY = 7.734486405;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 1;
+gateNumber = 4;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_1_gate5
+baseType = 2;
+baseId = 1000;
+posX = 448.4202576;
+posY = 519.3494263;
+posZ = 517.5280151;
+rotX = 0;
+rotY = -12.22268721;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 1;
+gateNumber = 5;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_1_gate6
+baseType = 2;
+baseId = 1000;
+posX = -48.35198975;
+posY = 669.0952759;
+posZ = 3012.316895;
+rotX = 0;
+rotY = -55.08016372;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 1;
+gateNumber = 6;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_1_gate7
+baseType = 2;
+baseId = 1000;
+posX = -1907.012939;
+posY = 851.7001343;
+posZ = 4406.269043;
+rotX = 0;
+rotY = -99.57859097;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 1;
+gateNumber = 7;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_1_gate8
+baseType = 2;
+baseId = 1000;
+posX = -3968.759033;
+posY = 923.6546021;
+posZ = 3935.541748;
+rotX = 0;
+rotY = -134.4740363;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 1;
+gateNumber = 8;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_1_gate9
+baseType = 2;
+baseId = 1000;
+posX = -5426.498535;
+posY = 322.1308899;
+posZ = 2506.529053;
+rotX = 0;
+rotY = -175.3853486;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 1;
+gateNumber = 9;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_1_gate10
+baseType = 2;
+baseId = 1000;
+posX = -5666.677734;
+posY = 862.2438354;
+posZ = 73.46038818;
+rotX = 0;
+rotY = 139.5241251;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 1;
+gateNumber = 10;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_1_gate11
+baseType = 2;
+baseId = 1000;
+posX = -4563.717285;
+posY = 568.09729;
+posZ = -1202.591553;
+rotX = 0;
+rotY = 94.57626506;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 1;
+gateNumber = 11;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_1_gate12
+baseType = 2;
+baseId = 1000;
+posX = -2641.944092;
+posY = 537.7967529;
+posZ = -1327.197144;
+rotX = 0;
+rotY = 23.95540649;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 1;
+gateNumber = 12;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_1_gate13
+baseType = 2;
+baseId = 1000;
+posX = -1544.273071;
+posY = 504.5921631;
+posZ = 1054.744629;
+rotX = 0;
+rotY = 75.11159013;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 1;
+gateNumber = 13;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_1_gate14
+baseType = 2;
+baseId = 1000;
+posX = 1064.008423;
+posY = 499.3902283;
+posZ = 1786.645752;
+rotX = 0;
+rotY = 50.82852392;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 1;
+gateNumber = 14;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_1_gate15
+baseType = 2;
+baseId = 1000;
+posX = 3334.404785;
+posY = 844.5413208;
+posZ = 3568.135986;
+rotX = 0;
+rotY = 101.0148382;
+rotZ = 0;
+gateType = 0;
+gateModelId = 201;
+gateGroupId = 1;
+gateNumber = 15;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_2_gate0
+baseType = 2;
+baseId = 1000;
+posX = -472.1376953;
+posY = 837.2032471;
+posZ = 6859.810547;
+rotX = 0;
+rotY = -102.7812988;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 2;
+gateNumber = 0;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_2_gate1
+baseType = 2;
+baseId = 1000;
+posX = -4549.303223;
+posY = 338.7156372;
+posZ = 6005.682617;
+rotX = 0;
+rotY = -161.1360234;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 2;
+gateNumber = 1;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_2_gate2
+baseType = 2;
+baseId = 1000;
+posX = -5435.085938;
+posY = 270.282074;
+posZ = 3402.625244;
+rotX = 0;
+rotY = -228.7017482;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 2;
+gateNumber = 2;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_2_gate3
+baseType = 2;
+baseId = 1000;
+posX = -3166.428467;
+posY = 603.4140625;
+posZ = 1389.32251;
+rotX = 0;
+rotY = -241.4838432;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 2;
+gateNumber = 3;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_2_gate4
+baseType = 2;
+baseId = 1000;
+posX = -14.28833008;
+posY = 504.3139954;
+posZ = -132.555481;
+rotX = 0;
+rotY = -229.9444538;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 2;
+gateNumber = 4;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_2_gate5
+baseType = 2;
+baseId = 1000;
+posX = 1999.01416;
+posY = 1901.325317;
+posZ = -1823.82666;
+rotX = 0;
+rotY = -216.9323743;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 2;
+gateNumber = 5;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_2_gate6
+baseType = 2;
+baseId = 1000;
+posX = 3768.279785;
+posY = 1487.236938;
+posZ = -3735.447266;
+rotX = 0;
+rotY = -168.4613448;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 2;
+gateNumber = 6;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_2_gate7
+baseType = 2;
+baseId = 1000;
+posX = 3361.552002;
+posY = 940.2579956;
+posZ = -6277.495605;
+rotX = 0;
+rotY = -98.24838381;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 2;
+gateNumber = 7;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_2_gate8
+baseType = 2;
+baseId = 1000;
+posX = 270.421051;
+posY = 518.9802856;
+posZ = -6679.47998;
+rotX = 0;
+rotY = -64.00579649;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 2;
+gateNumber = 8;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_2_gate9
+baseType = 2;
+baseId = 1000;
+posX = -2373.309326;
+posY = 694.7644043;
+posZ = -5464.040039;
+rotX = 0;
+rotY = -26.12304466;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 2;
+gateNumber = 9;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_2_gate10
+baseType = 2;
+baseId = 1000;
+posX = -3654.501709;
+posY = 700.942749;
+posZ = -2840.645996;
+rotX = 0;
+rotY = 16.78509582;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 2;
+gateNumber = 10;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_2_gate11
+baseType = 2;
+baseId = 1000;
+posX = -2617.345947;
+posY = 493.5752258;
+posZ = 413.1758423;
+rotX = 0;
+rotY = 54.93757661;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 2;
+gateNumber = 11;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_2_gate12
+baseType = 2;
+baseId = 1000;
+posX = -31.03704834;
+posY = 378.0126038;
+posZ = 2229.740479;
+rotX = 0;
+rotY = 82.88652647;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 2;
+gateNumber = 12;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_2_gate13
+baseType = 2;
+baseId = 1000;
+posX = 4073.325684;
+posY = 749.8607788;
+posZ = 2812.869629;
+rotX = 0;
+rotY = 27.69005821;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 2;
+gateNumber = 13;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_2_gate14
+baseType = 2;
+baseId = 1000;
+posX = 5273.172363;
+posY = 606.9076538;
+posZ = 4948.19043;
+rotX = 0;
+rotY = -24.0331692;
+rotZ = 0;
+gateType = 0;
+gateModelId = 200;
+gateGroupId = 2;
+gateNumber = 14;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+,{ --gate_group_2_gate15
+baseType = 2;
+baseId = 1000;
+posX = 4317.362305;
+posY = 359.809906;
+posZ = 6717.455566;
+rotX = 0;
+rotY = -77.55097601;
+rotZ = 0;
+gateType = 0;
+gateModelId = 201;
+gateGroupId = 2;
+gateNumber = 15;
+gateAlwaysDraw = 0;
+gateCollisionType = 0;
+gateSphereRadius = 4;
+gateBoxWidth = 1;
+gateBoxHeight = 1;
+gateBoxDepth = 1;
+gateAchievement = -1;
+gateTextId = -1;
+}
+};
+}

@@ -1,0 +1,131 @@
+hui_data = {
+numObjects = 6;
+hui_types = {
+{ --cardswipe_exit
+huiType = 0;
+huiId = 99;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 422;
+posY = 302;
+posZ = 0;
+buttonType = 0;
+w = 116;
+h = 36;
+r = 0;
+}
+,{ --cardswipe_card1
+huiType = 0;
+huiId = 1;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 68;
+posY = 196;
+posZ = 0;
+buttonType = 0;
+w = 72;
+h = 48;
+r = 50;
+}
+,{ --cardswipe_card2
+huiType = 0;
+huiId = 2;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 154;
+posY = 196;
+posZ = 0;
+buttonType = 0;
+w = 72;
+h = 48;
+r = 50;
+}
+,{ --cardswipe_card3
+huiType = 0;
+huiId = 3;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 240;
+posY = 196;
+posZ = 0;
+buttonType = 0;
+w = 72;
+h = 48;
+r = 50;
+}
+,{ --cardswipe_card4
+huiType = 0;
+huiId = 4;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 326;
+posY = 196;
+posZ = 0;
+buttonType = 0;
+w = 72;
+h = 48;
+r = 50;
+}
+,{ --cardswipe_card5
+huiType = 0;
+huiId = 5;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 412;
+posY = 196;
+posZ = 0;
+buttonType = 0;
+w = 72;
+h = 48;
+r = 50;
+}
+};
+}

@@ -1,0 +1,325 @@
+Mesh Index (0): mShelfEmpty6 
+Bounding Box: 
+	center: 1.00,  1.63,  -6.24 
+	width: 7.20 
+	height: 3.26 
+	depth: 0.73 
+	boxmin: -2.60,  0.00,  -6.60 
+	boxmax: 4.60,  3.26,  -5.87 
+	Num Verts: 96 
+	Num UV Sets: 1 
+	Num Normals: 212 
+	Num Vertex Colours: 0 
+
+Mesh Index (1): mShelfEmpty2 
+Bounding Box: 
+	center: 1.00,  1.63,  -13.54 
+	width: 7.20 
+	height: 3.26 
+	depth: 0.73 
+	boxmin: -2.60,  0.00,  -13.91 
+	boxmax: 4.60,  3.26,  -13.18 
+	Num Verts: 96 
+	Num UV Sets: 1 
+	Num Normals: 216 
+	Num Vertex Colours: 0 
+
+Mesh Index (2): polySurface16111 
+Bounding Box: 
+	center: 1.00,  3.94,  -9.81 
+	width: 4.88 
+	height: 0.13 
+	depth: 4.75 
+	boxmin: -1.44,  3.88,  -12.19 
+	boxmax: 3.44,  4.00,  -7.44 
+	Num Verts: 32 
+	Num UV Sets: 1 
+	Num Normals: 80 
+	Num Vertex Colours: 0 
+
+Mesh Index (3): polySurface15577 
+Bounding Box: 
+	center: 13.00,  3.63,  -5.00 
+	width: 0.25 
+	height: 0.75 
+	depth: 1.50 
+	boxmin: 12.88,  3.25,  -5.75 
+	boxmax: 13.13,  4.00,  -4.25 
+	Num Verts: 16 
+	Num UV Sets: 1 
+	Num Normals: 28 
+	Num Vertex Colours: 0 
+
+Mesh Index (4): polySurface16121 
+Bounding Box: 
+	center: -1.25,  2.00,  6.00 
+	width: 22.50 
+	height: 4.00 
+	depth: 7.50 
+	boxmin: -12.50,  0.00,  2.25 
+	boxmax: 10.00,  4.00,  9.75 
+	Num Verts: 220 
+	Num UV Sets: 1 
+	Num Normals: 276 
+	Num Vertex Colours: 0 
+
+Mesh Index (5): polySurface16122 
+Bounding Box: 
+	center: 13.00,  2.00,  3.25 
+	width: 6.00 
+	height: 4.00 
+	depth: 10.50 
+	boxmin: 10.00,  0.00,  -2.00 
+	boxmax: 16.00,  4.00,  8.50 
+	Num Verts: 44 
+	Num UV Sets: 1 
+	Num Normals: 44 
+	Num Vertex Colours: 0 
+
+Mesh Index (6): polySurface16123 
+Bounding Box: 
+	center: 1.25,  2.00,  -8.00 
+	width: 27.50 
+	height: 4.00 
+	depth: 12.00 
+	boxmin: -12.50,  0.00,  -14.00 
+	boxmax: 15.00,  4.00,  -2.00 
+	Num Verts: 212 
+	Num UV Sets: 1 
+	Num Normals: 212 
+	Num Vertex Colours: 0 
+
+Mesh Index (7): polySurface16124 
+Bounding Box: 
+	center: -12.50,  1.50,  5.00 
+	width: 7.00 
+	height: 3.00 
+	depth: 5.00 
+	boxmin: -16.00,  -0.00,  2.50 
+	boxmax: -9.00,  3.00,  7.50 
+	Num Verts: 198 
+	Num UV Sets: 1 
+	Num Normals: 242 
+	Num Vertex Colours: 0 
+
+Mesh Index (8): polySurface16125 
+Bounding Box: 
+	center: 1.03,  2.03,  -13.54 
+	width: 6.96 
+	height: 3.39 
+	depth: 0.73 
+	boxmin: -2.45,  0.34,  -13.91 
+	boxmax: 4.51,  3.72,  -13.17 
+	Num Verts: 312 
+	Num UV Sets: 1 
+	Num Normals: 636 
+	Num Vertex Colours: 0 
+
+Mesh Index (9): polySurface16126 
+Bounding Box: 
+	center: 1.00,  2.03,  -6.24 
+	width: 6.83 
+	height: 3.39 
+	depth: 0.78 
+	boxmin: -2.41,  0.34,  -6.63 
+	boxmax: 4.42,  3.72,  -5.85 
+	Num Verts: 272 
+	Num UV Sets: 1 
+	Num Normals: 520 
+	Num Vertex Colours: 0 
+
+Mesh Index (10): polySurface16127 
+Bounding Box: 
+	center: -10.25,  1.44,  -7.50 
+	width: 2.25 
+	height: 2.88 
+	depth: 1.50 
+	boxmin: -11.38,  0.00,  -8.25 
+	boxmax: -9.13,  2.88,  -6.75 
+	Num Verts: 56 
+	Num UV Sets: 1 
+	Num Normals: 72 
+	Num Vertex Colours: 0 
+
+Mesh Index (11): polySurface16132 
+Bounding Box: 
+	center: -2.54,  1.63,  -6.24 
+	width: 0.00 
+	height: 2.59 
+	depth: 0.51 
+	boxmin: -2.54,  0.34,  -6.49 
+	boxmax: -2.54,  2.92,  -5.98 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (12): polySurface16133 
+Bounding Box: 
+	center: -2.54,  1.63,  -6.24 
+	width: 0.00 
+	height: 2.59 
+	depth: 0.51 
+	boxmin: -2.54,  0.34,  -6.49 
+	boxmax: -2.54,  2.92,  -5.98 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (13): polySurface16134 
+Bounding Box: 
+	center: 4.54,  1.63,  -6.24 
+	width: 0.00 
+	height: 2.59 
+	depth: 0.51 
+	boxmin: 4.54,  0.34,  -6.49 
+	boxmax: 4.54,  2.92,  -5.98 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (14): polySurface16135 
+Bounding Box: 
+	center: 4.54,  1.63,  -6.24 
+	width: 0.00 
+	height: 2.59 
+	depth: 0.51 
+	boxmin: 4.54,  0.34,  -6.49 
+	boxmax: 4.54,  2.92,  -5.98 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (15): polySurface16128 
+Bounding Box: 
+	center: 4.54,  1.63,  -13.54 
+	width: 0.00 
+	height: 2.59 
+	depth: 0.51 
+	boxmin: 4.54,  0.34,  -13.80 
+	boxmax: 4.54,  2.92,  -13.29 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (16): polySurface16129 
+Bounding Box: 
+	center: 4.54,  1.63,  -13.54 
+	width: 0.00 
+	height: 2.59 
+	depth: 0.51 
+	boxmin: 4.54,  0.34,  -13.80 
+	boxmax: 4.54,  2.92,  -13.29 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (17): polySurface16130 
+Bounding Box: 
+	center: -2.54,  1.63,  -13.54 
+	width: 0.00 
+	height: 2.59 
+	depth: 0.51 
+	boxmin: -2.54,  0.34,  -13.80 
+	boxmax: -2.54,  2.92,  -13.29 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (18): polySurface16131 
+Bounding Box: 
+	center: -2.54,  1.63,  -13.54 
+	width: 0.00 
+	height: 2.59 
+	depth: 0.51 
+	boxmin: -2.54,  0.34,  -13.80 
+	boxmax: -2.54,  2.92,  -13.29 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+
+Mesh Index (19): polySurface16216 
+Bounding Box: 
+	center: 6.00,  1.44,  10.00 
+	width: 2.25 
+	height: 2.88 
+	depth: 1.50 
+	boxmin: 4.88,  0.00,  9.25 
+	boxmax: 7.13,  2.88,  10.75 
+	Num Verts: 48 
+	Num UV Sets: 1 
+	Num Normals: 52 
+	Num Vertex Colours: 0 
+
+Mesh Index (20): polySurface16217 
+Bounding Box: 
+	center: 0.00,  1.75,  11.75 
+	width: 4.00 
+	height: 3.50 
+	depth: 5.00 
+	boxmin: -2.00,  0.00,  9.25 
+	boxmax: 2.00,  3.50,  14.25 
+	Num Verts: 104 
+	Num UV Sets: 1 
+	Num Normals: 112 
+	Num Vertex Colours: 0 
+
+Mesh Index (21): polySurface16218 
+Bounding Box: 
+	center: -6.00,  1.44,  10.00 
+	width: 2.25 
+	height: 2.88 
+	depth: 1.50 
+	boxmin: -7.13,  0.00,  9.25 
+	boxmax: -4.88,  2.88,  10.75 
+	Num Verts: 48 
+	Num UV Sets: 1 
+	Num Normals: 52 
+	Num Vertex Colours: 0 
+
+Mesh Index (22): polySurface16219 
+Bounding Box: 
+	center: 0.00,  1.44,  2.00 
+	width: 2.25 
+	height: 2.88 
+	depth: 1.50 
+	boxmin: -1.13,  0.00,  1.25 
+	boxmax: 1.13,  2.88,  2.75 
+	Num Verts: 48 
+	Num UV Sets: 1 
+	Num Normals: 52 
+	Num Vertex Colours: 0 
+
+Mesh Index (23): polySurface16220 
+Bounding Box: 
+	center: 6.00,  1.75,  0.25 
+	width: 4.00 
+	height: 3.50 
+	depth: 5.00 
+	boxmin: 4.00,  0.00,  -2.25 
+	boxmax: 8.00,  3.50,  2.75 
+	Num Verts: 152 
+	Num UV Sets: 1 
+	Num Normals: 232 
+	Num Vertex Colours: 0 
+
+Mesh Index (24): polySurface16221 
+Bounding Box: 
+	center: -6.00,  1.75,  0.25 
+	width: 4.00 
+	height: 3.50 
+	depth: 5.00 
+	boxmin: -8.00,  0.00,  -2.25 
+	boxmax: -4.00,  3.50,  2.75 
+	Num Verts: 104 
+	Num UV Sets: 1 
+	Num Normals: 112 
+	Num Vertex Colours: 0 
+

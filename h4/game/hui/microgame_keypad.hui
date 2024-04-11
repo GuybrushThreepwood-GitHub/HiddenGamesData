@@ -1,0 +1,332 @@
+hui_data = {
+numObjects = 15;
+hui_types = {
+{ --keypad_exit
+huiType = 0;
+huiId = 99;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 422;
+posY = 302;
+posZ = 0;
+buttonType = 0;
+w = 116;
+h = 36;
+r = 0;
+}
+,{ --keypad_one
+huiType = 0;
+huiId = 1;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 192;
+posY = 212;
+posZ = 0;
+buttonType = 0;
+w = 40;
+h = 40;
+r = 1;
+}
+,{ --keypad_two
+huiType = 0;
+huiId = 2;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 240;
+posY = 212;
+posZ = 0;
+buttonType = 0;
+w = 40;
+h = 40;
+r = 1;
+}
+,{ --keypad_three
+huiType = 0;
+huiId = 3;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 288;
+posY = 212;
+posZ = 0;
+buttonType = 0;
+w = 40;
+h = 40;
+r = 1;
+}
+,{ --keypad_four
+huiType = 0;
+huiId = 4;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 192;
+posY = 164;
+posZ = 0;
+buttonType = 0;
+w = 40;
+h = 40;
+r = 1;
+}
+,{ --keypad_five
+huiType = 0;
+huiId = 5;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 240;
+posY = 164;
+posZ = 0;
+buttonType = 0;
+w = 40;
+h = 40;
+r = 1;
+}
+,{ --keypad_six
+huiType = 0;
+huiId = 6;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 288;
+posY = 164;
+posZ = 0;
+buttonType = 0;
+w = 40;
+h = 40;
+r = 1;
+}
+,{ --keypad_seven
+huiType = 0;
+huiId = 7;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 192;
+posY = 116;
+posZ = -0.04325534178;
+buttonType = 0;
+w = 40;
+h = 40;
+r = 1;
+}
+,{ --keypad_eight
+huiType = 0;
+huiId = 8;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 240;
+posY = 116;
+posZ = 0;
+buttonType = 0;
+w = 40;
+h = 40;
+r = 1;
+}
+,{ --keypad_nine
+huiType = 0;
+huiId = 9;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 288;
+posY = 116;
+posZ = 0;
+buttonType = 0;
+w = 40;
+h = 40;
+r = 1;
+}
+,{ --keypad_clear
+huiType = 0;
+huiId = -101;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 192;
+posY = 68;
+posZ = 0;
+buttonType = 0;
+w = 40;
+h = 40;
+r = 1;
+}
+,{ --keypad_zero
+huiType = 0;
+huiId = 0;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 240;
+posY = 68;
+posZ = 0;
+buttonType = 0;
+w = 40;
+h = 40;
+r = 1;
+}
+,{ --keypad_ok
+huiType = 0;
+huiId = 100;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 288;
+posY = 68;
+posZ = 0;
+buttonType = 0;
+w = 40;
+h = 40;
+r = 1;
+}
+,{ --keypad_output
+huiType = 1;
+huiId = -1;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 216.42156;
+posY = 255;
+posZ = 0.026523;
+fontId = 2;
+noScale = 0;
+shadow = 0;
+size = 18;
+r = 0;
+g = 0;
+b = 0;
+align = 1;
+fixedWidth = 0;
+stringId = -1;
+}
+,{ --label_back
+huiType = 1;
+huiId = 2;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 0;
+anchorHoriz = 3;
+anchorVert = 2;
+scaleDimsX = 1;
+scaleDimsY = 1;
+posX = 422;
+posY = 301;
+posZ = 3;
+fontId = 2;
+noScale = 0;
+shadow = 0;
+size = 10;
+r = 169;
+g = 177;
+b = 165;
+align = 1;
+fixedWidth = 0;
+stringId = 5010;
+}
+};
+}

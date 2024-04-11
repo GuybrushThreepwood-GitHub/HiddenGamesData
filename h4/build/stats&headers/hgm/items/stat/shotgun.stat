@@ -1,0 +1,26 @@
+Mesh Index (0): mShotgun 
+Bounding Box: 
+	center: 0.00,  0.00,  0.00 
+	width: 0.04 
+	height: 0.16 
+	depth: 0.78 
+	boxmin: -0.02,  -0.08,  -0.39 
+	boxmax: 0.02,  0.08,  0.39 
+	Num Verts: 55 
+	Num UV Sets: 1 
+	Num Normals: 55 
+	Num Vertex Colours: 0 
+
+Mesh Index (1): mShotgunTrigger 
+Bounding Box: 
+	center: 0.00,  -0.01,  -0.16 
+	width: 0.00 
+	height: 0.04 
+	depth: 0.16 
+	boxmin: 0.00,  -0.03,  -0.24 
+	boxmax: 0.00,  0.01,  -0.08 
+	Num Verts: 8 
+	Num UV Sets: 1 
+	Num Normals: 8 
+	Num Vertex Colours: 0 
+

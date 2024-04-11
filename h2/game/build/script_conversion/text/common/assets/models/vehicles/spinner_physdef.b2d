@@ -1,0 +1,35 @@
+-- GENERATED FROM MAYA 
+
+spinner_mainBody = 
+{
+	friction = 0.80;
+	restitution = 0.15;
+	density = 0.10;
+	centerX = 0.00;
+	centerY = -0.30;
+	rotation = 0.00;
+	hx = 2.06;
+	hy = 0.38;
+}
+spinner_upperBody = 
+{
+	friction = 0.80;
+	restitution = 0.15;
+	density = 0.10;
+	centerX = 0.00;
+	centerY = 0.21;
+	rotation = 0.00;
+	hx = 0.78;
+	hy = 0.28;
+}
+spinner_landingGearBody = 
+{
+	friction = 0.00;
+	restitution = 0.25;
+	density = 0.10;
+	centerX = 0.00;
+	centerY = -1.05;
+	rotation = 0.00;
+	hx = 1.67;
+	hy = 0.16;
+}

@@ -1,0 +1,91 @@
+Mesh Index (0): polySurface20675 
+Bounding Box: 
+	center: 1.63,  3.94,  -1.63 
+	width: 7.63 
+	height: 0.13 
+	depth: 7.63 
+	boxmin: -2.19,  3.88,  -5.44 
+	boxmax: 5.44,  4.00,  2.19 
+	Num Verts: 16 
+	Num UV Sets: 1 
+	Num Normals: 40 
+	Num Vertex Colours: 0 
+
+Mesh Index (1): polySurface20821 
+Bounding Box: 
+	center: 5.25,  2.00,  9.91 
+	width: 2.25 
+	height: 4.00 
+	depth: 3.19 
+	boxmin: 4.13,  0.00,  8.31 
+	boxmax: 6.38,  4.00,  11.50 
+	Num Verts: 64 
+	Num UV Sets: 1 
+	Num Normals: 92 
+	Num Vertex Colours: 0 
+
+Mesh Index (2): polySurface20822 
+Bounding Box: 
+	center: -7.25,  1.19,  -5.25 
+	width: 1.50 
+	height: 2.38 
+	depth: 1.50 
+	boxmin: -8.00,  0.00,  -6.00 
+	boxmax: -6.50,  2.38,  -4.50 
+	Num Verts: 16 
+	Num UV Sets: 1 
+	Num Normals: 20 
+	Num Vertex Colours: 0 
+
+Mesh Index (3): polySurface20823 
+Bounding Box: 
+	center: -3.50,  1.69,  3.50 
+	width: 7.00 
+	height: 3.38 
+	depth: 7.00 
+	boxmin: -7.00,  0.00,  0.00 
+	boxmax: 0.00,  3.38,  7.00 
+	Num Verts: 112 
+	Num UV Sets: 1 
+	Num Normals: 144 
+	Num Vertex Colours: 0 
+
+Mesh Index (4): polySurface20824 
+Bounding Box: 
+	center: -0.00,  2.00,  1.75 
+	width: 14.00 
+	height: 4.00 
+	depth: 17.50 
+	boxmin: -7.00,  0.00,  -7.00 
+	boxmax: 7.00,  4.00,  10.50 
+	Num Verts: 240 
+	Num UV Sets: 1 
+	Num Normals: 252 
+	Num Vertex Colours: 0 
+
+Mesh Index (5): mAmmoDispenser 
+Bounding Box: 
+	center: -5.64,  1.33,  -1.75 
+	width: 0.22 
+	height: 0.76 
+	depth: 0.26 
+	boxmin: -5.75,  0.95,  -1.88 
+	boxmax: -5.53,  1.71,  -1.62 
+	Num Verts: 17 
+	Num UV Sets: 1 
+	Num Normals: 36 
+	Num Vertex Colours: 0 
+
+Mesh Index (6): mHealthDispenser 
+Bounding Box: 
+	center: 1.75,  1.33,  5.64 
+	width: 0.26 
+	height: 0.76 
+	depth: 0.21 
+	boxmin: 1.62,  0.95,  5.54 
+	boxmax: 1.88,  1.71,  5.75 
+	Num Verts: 8 
+	Num UV Sets: 1 
+	Num Normals: 20 
+	Num Vertex Colours: 0 
+

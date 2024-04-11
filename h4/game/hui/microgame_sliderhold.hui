@@ -1,0 +1,197 @@
+hui_data = {
+numObjects = 8;
+hui_types = {
+{ --sliderhold_exit
+huiType = 0;
+huiId = 99;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 422;
+posY = 302;
+posZ = 0;
+buttonType = 0;
+w = 116;
+h = 36;
+r = 0;
+}
+,{ --sliderhold_slider1
+huiType = 0;
+huiId = 0;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 65;
+posY = 57;
+posZ = 0;
+buttonType = 1;
+w = 1;
+h = 1;
+r = 30;
+}
+,{ --sliderhold_slider2
+huiType = 0;
+huiId = 1;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 173;
+posY = 57;
+posZ = 0;
+buttonType = 1;
+w = 1;
+h = 1;
+r = 30;
+}
+,{ --sliderhold_slider3
+huiType = 0;
+huiId = 3;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 281;
+posY = 57;
+posZ = 0;
+buttonType = 1;
+w = 1;
+h = 1;
+r = 30;
+}
+,{ --sliderhold_text_val1
+huiType = 1;
+huiId = -1;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 92;
+posY = 212;
+posZ = 0;
+fontId = 3;
+noScale = 0;
+shadow = 0;
+size = 6;
+r = 252;
+g = 140;
+b = 0;
+align = 1;
+fixedWidth = 0;
+stringId = -1;
+}
+,{ --sliderhold_text_val2
+huiType = 1;
+huiId = -2;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 200;
+posY = 212;
+posZ = 0;
+fontId = 3;
+noScale = 0;
+shadow = 0;
+size = 6;
+r = 252;
+g = 140;
+b = 0;
+align = 1;
+fixedWidth = 0;
+stringId = -1;
+}
+,{ --sliderhold_text_val3
+huiType = 1;
+huiId = -3;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 308;
+posY = 212;
+posZ = 0;
+fontId = 3;
+noScale = 0;
+shadow = 0;
+size = 6;
+r = 252;
+g = 140;
+b = 0;
+align = 1;
+fixedWidth = 0;
+stringId = -1;
+}
+,{ --sliderhold_text_time
+huiType = 1;
+huiId = 1000;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 410;
+posY = 212;
+posZ = 0;
+fontId = 3;
+noScale = 0;
+shadow = 0;
+size = 6;
+r = 255;
+g = 255;
+b = 255;
+align = 1;
+fixedWidth = 0;
+stringId = -1;
+}
+};
+}

@@ -1,0 +1,197 @@
+hui_data = {
+numObjects = 8;
+hui_types = {
+{ --liftbuttons_3
+huiType = 0;
+huiId = 3;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 240;
+posY = 84;
+posZ = 0;
+buttonType = 0;
+w = 40;
+h = 40;
+r = 1;
+}
+,{ --liftbuttons_2
+huiType = 0;
+huiId = 2;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 240;
+posY = 144;
+posZ = 0;
+buttonType = 0;
+w = 40;
+h = 40;
+r = 1;
+}
+,{ --liftbuttons_1
+huiType = 0;
+huiId = 1;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 240;
+posY = 204;
+posZ = 0;
+buttonType = 0;
+w = 40;
+h = 40;
+r = 1;
+}
+,{ --liftbuttons_exit
+huiType = 0;
+huiId = 99;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 422;
+posY = 302;
+posZ = 0;
+buttonType = 0;
+w = 116;
+h = 36;
+r = 0;
+}
+,{ --label_back
+huiType = 1;
+huiId = 2;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 0;
+anchorHoriz = 3;
+anchorVert = 2;
+scaleDimsX = 1;
+scaleDimsY = 1;
+posX = 422;
+posY = 301;
+posZ = 3;
+fontId = 2;
+noScale = 0;
+shadow = 0;
+size = 10;
+r = 169;
+g = 177;
+b = 165;
+align = 1;
+fixedWidth = 0;
+stringId = 5010;
+}
+,{ --liftbuttons_label_3
+huiType = 1;
+huiId = -3;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 240;
+posY = 83;
+posZ = 4;
+fontId = 2;
+noScale = 0;
+shadow = 0;
+size = 24;
+r = 255;
+g = 255;
+b = 255;
+align = 1;
+fixedWidth = 0;
+stringId = -1;
+}
+,{ --liftbuttons_label_2
+huiType = 1;
+huiId = -2;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 240;
+posY = 143;
+posZ = 4;
+fontId = 2;
+noScale = 0;
+shadow = 0;
+size = 24;
+r = 255;
+g = 255;
+b = 255;
+align = 1;
+fixedWidth = 0;
+stringId = -1;
+}
+,{ --liftbuttons_label_1
+huiType = 1;
+huiId = -1;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 240;
+posY = 203;
+posZ = 4;
+fontId = 2;
+noScale = 0;
+shadow = 0;
+size = 24;
+r = 255;
+g = 255;
+b = 255;
+align = 1;
+fixedWidth = 0;
+stringId = -1;
+}
+};
+}

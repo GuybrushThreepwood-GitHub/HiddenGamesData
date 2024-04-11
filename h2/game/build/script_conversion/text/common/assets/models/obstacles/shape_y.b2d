@@ -1,0 +1,49 @@
+-- GENERATED FROM MAYA 
+
+Y_Shape_LeftAngled = 
+{
+	friction = 1.00;
+	restitution = 0.00;
+	density = 0.10;
+	centerX = -4.50;
+	centerY = -2.50;
+	rotation = -1.05;
+	hx = 0.50;
+	hy = 4.75;
+}
+Y_Shape_Vertical = 
+{
+	friction = 1.00;
+	restitution = 0.00;
+	density = 0.10;
+	centerX = 0.00;
+	centerY = 5.00;
+	rotation = 0.00;
+	hx = 0.50;
+	hy = 5.00;
+}
+Y_Shape_RightAngled = 
+{
+	friction = 1.00;
+	restitution = 0.00;
+	density = 0.10;
+	centerX = 4.50;
+	centerY = -2.50;
+	rotation = 1.05;
+	hx = 0.50;
+	hy = 4.50;
+}
+Y_Shape_RevoluteJoint = 
+{
+	localAnchor1X = 0.00;
+	localAnchor1Y = 0.00;
+	localAnchor2X = 0.00;
+	localAnchor2Y = 0.00;
+	referenceAngle = 0.00;
+	lowerAngle = 0.00;
+	upperAngle = 0.00;
+	maxMotorTorque = 10000.00;
+	motorSpeed = 0.50;
+	enableLimit = false;
+	enableMotor= true;
+}

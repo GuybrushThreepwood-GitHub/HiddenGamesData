@@ -1,0 +1,9 @@
+
+-- ###
+gameData = 
+{
+-- ui
+	ACHIEVEMENT_ICON_MAXX		= 22.0;
+	ACHIEVEMENT_ICON_SPEED		= 100.0;
+	ACHIEVEMENT_ICON_SHOWTIME	= 3.0;
+}

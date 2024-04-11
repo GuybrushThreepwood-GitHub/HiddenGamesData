@@ -1,0 +1,42 @@
+-- GENERATED FROM MAYA 
+
+deliveryvan_mainBody = 
+{
+	type = 0;
+	friction = 0.80;
+	restitution = 0.15;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = -9999;
+	numeric2 = -9999;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	centerX = -0.18;
+	centerY = -0.14;
+	rotation = 0.00;
+	hx = 1.88;
+	hy = 0.88;
+}
+deliveryvan_landingGearBody = 
+{
+	type = 0;
+	friction = 0.00;
+	restitution = 0.25;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = -9999;
+	numeric2 = -9999;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	centerX = 0.04;
+	centerY = -1.22;
+	rotation = 0.00;
+	hx = 1.25;
+	hy = 0.17;
+}

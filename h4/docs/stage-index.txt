@@ -1,0 +1,55 @@
+d01		EXT		Dream Sequence #1
+s01		INT		Solitary Confinement
+s01a	INT		Below Solitary Confinement
+s02		EXT		Strut A to Solitary Confinement Connecting Bridge
+s03		INT		Strut A F3, Roof
+s03a	INT		Strut A F3, Storage Room
+s04		INT		Strut A F1, Elevator Room
+s05		INT		Strut A F1, Prison Block
+s06		INT		Strut A F1, West Exit
+s07		INT		Strut A F1, East Exit
+s08		INT		Strut A F2, Elevator Room
+s09		INT		Strut A F2, Prison Block
+s10		EXT		Strut A to B Connecting Bridge
+s11		EXT		Strut A to C Connecting Bridge
+s12		EXT		Recreational Yard (aka The Bridge)
+s13		INT		Strut B F1, East Exit							Reuses s07 assets
+s14		INT		Strut B F1, Prison Block
+s15		INT		Strut C F1, West Exit
+s16		INT		Strut C F1, Prison Block						Same "level.mb" as s14 (mirrored)
+s17		INT		Building 1 F1, West Entrance
+s17a	INT		Building 1 F1, Kitchen
+s18		INT		Building 1 F1, Mess Hall
+s19		INT		Building 1 B1, Maintenance
+s19a	INT		Building 1 B1, Maintenance Worker's Office
+s20		EXT		West Connecting Bridge
+s21		EXT		East Connecting Bridge
+s22		EXT		Main Access Bridge
+s23		INT		Building 2 F1, Rec Room
+s24		INT		Building 2 F2, Library
+s25		INT		Building 5 F2, Admin
+s25a	INT		Building 5 F2, North Bridge Room
+s25b	INT		Building 5 F2, West Bridge Room					Freak out moment (open grave)
+s26		INT		Warehouse F1, Main Corridor
+s26a	INT		Warehouse F1, Storage Rooms
+s26b	INT		Warehouse F2, Roof
+s27		INT		Warehouse F1, Main Hall
+s28		EXT		Warehouse to Comm Tower Connecting Bridge
+s29		INT		Comm Tower F1, Lobby
+s29a	INT		Comm Tower F2, Main Operations Room
+s29b	INT		Comm Tower B1, Elevator Room
+s29c	INT		Comm Tower B1, Storage
+s30a	INT		Building 3 F2, Reception
+s30b	INT		Building 3 F2, Surgical Wards
+s30c	INT		Building 3 F2, Private Rooms
+s31a	INT		Building 3 F1, Hospital Wards
+s31b	INT		Building 3 F1, Main Ward
+s32		EXT		Helipad Bridge
+s33		INT		Helipad (power off)
+s34		INT/EXT	Helipad (power on)
+
+To add later/dropped...
+
+s??		INT		Building 3 F3, Morgue
+s??		INT		Building 2 F3, Laundry
+s??		EXT		Docks

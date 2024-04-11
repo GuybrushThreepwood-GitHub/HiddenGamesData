@@ -1,0 +1,26 @@
+Mesh Index (0): polySurface20821 
+Bounding Box: 
+	center: 0.50,  2.00,  2.25 
+	width: 15.00 
+	height: 4.00 
+	depth: 18.50 
+	boxmin: -7.00,  0.00,  -7.00 
+	boxmax: 8.00,  4.00,  11.50 
+	Num Verts: 524 
+	Num UV Sets: 1 
+	Num Normals: 624 
+	Num Vertex Colours: 0 
+
+Mesh Index (1): pPlane2 
+Bounding Box: 
+	center: 5.25,  1.36,  -3.13 
+	width: 0.00 
+	height: 0.34 
+	depth: 0.34 
+	boxmin: 5.25,  1.19,  -3.30 
+	boxmax: 5.25,  1.54,  -2.96 
+	Num Verts: 4 
+	Num UV Sets: 1 
+	Num Normals: 4 
+	Num Vertex Colours: 0 
+

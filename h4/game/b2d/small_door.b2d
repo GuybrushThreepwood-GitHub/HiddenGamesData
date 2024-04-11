@@ -1,0 +1,21 @@
+-- GENERATED FROM MAYA 
+
+smallDoorObj = 
+{
+	friction = 1.00;
+	restitution = 0.00;
+	density = 0.00;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = 3;
+	numeric2 = -9999;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	centerX = 0.00;
+	centerY = 0.00;
+	rotation = -0.00;
+	hx = 0.75;
+	hy = 0.13;
+}

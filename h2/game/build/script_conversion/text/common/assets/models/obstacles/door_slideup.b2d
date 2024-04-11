@@ -1,0 +1,39 @@
+-- GENERATED FROM MAYA 
+
+doorSlide_UpBody = 
+{
+	type = 0;
+	friction = 1.00;
+	restitution = 0.00;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = -9999;
+	numeric2 = -9999;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	centerX = 0.00;
+	centerY = 5.00;
+	rotation = 0.00;
+	hx = 1.25;
+	hy = 6.50;
+}
+doorSlide_UpPrismaticJoint = 
+{
+	type = 6;
+	localAnchor1X = 0.00;
+	localAnchor1Y = 0.00;
+	localAnchor2X = 0.00;
+	localAnchor2Y = 0.00;
+	localAxisAX = 0.00;
+	localAxisAY = -1.00;
+	referenceAngle = 0.00;
+	enableLimit = true;
+	lowerTranslation = 0.00;
+	upperTranslation = 10.00;
+	enableMotor = true;
+	maxMotorForce = 10000.00;
+	motorSpeed = 5.00;
+}

@@ -1,0 +1,62 @@
+-- GENERATED FROM MAYA 
+
+plonkermobile_mainBody = 
+{
+	type = 0;
+	friction = 0.80;
+	restitution = 0.15;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = -9999;
+	numeric2 = -9999;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	centerX = 0.00;
+	centerY = -0.40;
+	rotation = 0.00;
+	hx = 1.64;
+	hy = 0.38;
+}
+plonkermobile_upperBody = 
+{
+	type = 0;
+	friction = 0.80;
+	restitution = 0.15;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = -9999;
+	numeric2 = -9999;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	centerX = 0.57;
+	centerY = 0.34;
+	rotation = 0.00;
+	hx = 1.05;
+	hy = 0.28;
+}
+plonkermobile_landingGearBody = 
+{
+	type = 0;
+	friction = 0.00;
+	restitution = 0.25;
+	density = 0.10;
+	categoryBits = 1;
+	maskBits = 65535;
+	groupIndex = 0;
+	numeric1 = -9999;
+	numeric2 = -9999;
+	numeric3 = -9999;
+	numeric4 = -9999;
+	numeric5 = -9999;
+	centerX = 0.02;
+	centerY = -0.96;
+	rotation = 0.00;
+	hx = 1.25;
+	hy = 0.16;
+}

@@ -1,0 +1,6 @@
+
+/assets/textures/skies/sky1
+/assets/textures/skies/sky2
+/assets/textures/skies/sky3
+/assets/textures/skies/sky4
+/assets/textures/skies/sky5

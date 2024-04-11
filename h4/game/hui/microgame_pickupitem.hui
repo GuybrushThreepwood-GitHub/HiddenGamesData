@@ -1,0 +1,134 @@
+hui_data = {
+numObjects = 5;
+hui_types = {
+{ --pickupitem_exit
+huiType = 0;
+huiId = 99;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 422;
+posY = 302;
+posZ = 0;
+buttonType = 0;
+w = 116;
+h = 36;
+r = 0;
+}
+,{ --pickupitem_description1
+huiType = 1;
+huiId = -1;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 240;
+posY = 72;
+posZ = 0;
+fontId = 2;
+noScale = 0;
+shadow = 1;
+size = 13;
+r = 230;
+g = 233;
+b = 228;
+align = 1;
+fixedWidth = 0;
+stringId = -1;
+}
+,{ --pickupitem_description2
+huiType = 1;
+huiId = -2;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 1;
+anchorHoriz = 0;
+anchorVert = 0;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 240;
+posY = 52;
+posZ = 0;
+fontId = 2;
+noScale = 0;
+shadow = 1;
+size = 13;
+r = 230;
+g = 233;
+b = 228;
+align = 1;
+fixedWidth = 0;
+stringId = -1;
+}
+,{ --label_back
+huiType = 1;
+huiId = 2;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 0;
+anchorHoriz = 3;
+anchorVert = 2;
+scaleDimsX = 1;
+scaleDimsY = 1;
+posX = 422;
+posY = 301;
+posZ = 3;
+fontId = 2;
+noScale = 0;
+shadow = 0;
+size = 10;
+r = 169;
+g = 177;
+b = 165;
+align = 1;
+fixedWidth = 0;
+stringId = 5018;
+}
+,{ --label_instructions
+huiType = 1;
+huiId = 2;
+meshAttachId1 = -1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 0;
+anchorHoriz = 3;
+anchorVert = 2;
+scaleDimsX = 1;
+scaleDimsY = 1;
+posX = 7;
+posY = 301;
+posZ = 3;
+fontId = 2;
+noScale = 0;
+shadow = 0;
+size = 10;
+r = 97;
+g = 103;
+b = 96;
+align = 0;
+fixedWidth = 0;
+stringId = 5019;
+}
+};
+}

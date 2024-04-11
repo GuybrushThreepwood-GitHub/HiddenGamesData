@@ -1,0 +1,131 @@
+hui_data = {
+numObjects = 6;
+hui_types = {
+{ --hui_controls_btn_pause
+huiType = 0;
+huiId = 0;
+meshAttachId1 = 0;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 0;
+anchorHoriz = 1;
+anchorVert = 3;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 512;
+posY = 32;
+posZ = 0;
+buttonType = 1;
+w = 40;
+h = 40;
+r = 20;
+}
+,{ --hui_controls_btn_left
+huiType = 0;
+huiId = 1;
+meshAttachId1 = 1;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 0;
+anchorHoriz = 2;
+anchorVert = 3;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 96;
+posY = 96;
+posZ = 0;
+buttonType = 1;
+w = 56;
+h = 56;
+r = 28;
+}
+,{ --hui_controls_btn_right
+huiType = 0;
+huiId = 2;
+meshAttachId1 = 2;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 0;
+anchorHoriz = 2;
+anchorVert = 3;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 208;
+posY = 96;
+posZ = 0;
+buttonType = 1;
+w = 56;
+h = 56;
+r = 28;
+}
+,{ --hui_controls_btn_up
+huiType = 0;
+huiId = 3;
+meshAttachId1 = 3;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 0;
+anchorHoriz = 3;
+anchorVert = 3;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 928;
+posY = 208;
+posZ = 0;
+buttonType = 1;
+w = 56;
+h = 56;
+r = 28;
+}
+,{ --hui_controls_btn_down
+huiType = 0;
+huiId = 4;
+meshAttachId1 = 4;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 0;
+anchorHoriz = 3;
+anchorVert = 3;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 928;
+posY = 96;
+posZ = 0;
+buttonType = 1;
+w = 56;
+h = 56;
+r = 28;
+}
+,{ --hui_controls_btn_landgear
+huiType = 0;
+huiId = 5;
+meshAttachId1 = 5;
+meshAttachId2 = -1;
+meshAttachId3 = -1;
+meshAttachId4 = -1;
+meshAttachId5 = -1;
+useScale = 0;
+anchorHoriz = 3;
+anchorVert = 3;
+scaleDimsX = 0;
+scaleDimsY = 0;
+posX = 816;
+posY = 96;
+posZ = 0;
+buttonType = 1;
+w = 56;
+h = 56;
+r = 28;
+}
+};
+}

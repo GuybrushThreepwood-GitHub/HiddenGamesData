@@ -1,0 +1,35 @@
+-- GENERATED FROM MAYA 
+
+towtruck_mainBody = 
+{
+	friction = 0.80;
+	restitution = 0.15;
+	density = 0.10;
+	centerX = -0.05;
+	centerY = -0.46;
+	rotation = 0.00;
+	hx = 1.79;
+	hy = 0.50;
+}
+towtruck_upperBody = 
+{
+	friction = 0.80;
+	restitution = 0.15;
+	density = 0.10;
+	centerX = 0.00;
+	centerY = 0.37;
+	rotation = 0.00;
+	hx = 1.65;
+	hy = 0.33;
+}
+towtruck_landingGearBody = 
+{
+	friction = 0.00;
+	restitution = 0.25;
+	density = 0.00;
+	centerX = 0.00;
+	centerY = -1.12;
+	rotation = 0.00;
+	hx = 1.88;
+	hy = 0.17;
+}

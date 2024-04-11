@@ -1,0 +1,2 @@
+*.hgm *.hga *.hui *.mp3 *.ogg *.png *.pvr *.stat *.h *.dat *.ttf *.wav *.txt *.exe - scripts
+*.hgm *.hga *.hui *.mp3 *.ogg *.png *.pvr *.b2d *.lua *.dat *.ttf *.wav *.txt *.exe - stats&h
